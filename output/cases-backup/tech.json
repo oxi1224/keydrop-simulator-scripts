@@ -1,0 +1,78 @@
+{
+  "urlName": "tech",
+  "websiteName": "TECH",
+  "price": 2.4,
+  "expired": false,
+  "drops": [
+    {
+      "skinName": "Lore",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "773,45PLN",
+      "skinDisplayChance": "0,177%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/2b/2bc4c98b29f92efa7a9c9f6c8b7ce492.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 773.45,
+        "range": [
+          99824,
+          100000
+        ],
+        "odds": "0,177%"
+      }
+    },
+    {
+      "skinName": "Neon Rider",
+      "weaponName": "AK-47",
+      "skinPriceRange": "175,90PLN",
+      "skinDisplayChance": "0,226%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/de/dea3ad4e14c6b446359f537614759443.png",
+      "skinRarity": "red",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 175.9,
+        "range": [
+          99598,
+          99823
+        ],
+        "odds": "0,226%"
+      }
+    },
+    {
+      "skinName": "Desolate Space",
+      "weaponName": "M4A4",
+      "skinPriceRange": "29,90PLN",
+      "skinDisplayChance": "0,616%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4b/4bfee5381c335a970a77254d952c1f3f.png",
+      "skinRarity": "pink",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 29.9,
+        "range": [
+          98982,
+          99597
+        ],
+        "odds": "0,616%"
+      }
+    },
+    {
+      "skinName": "Facility Draft",
+      "weaponName": "P250",
+      "skinPriceRange": "0,15PLN",
+      "skinDisplayChance": "98,981%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7c/7cb149f4e291588bb1e0c94d5bb89358.png",
+      "skinRarity": "gray",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 0.15,
+        "range": [
+          1,
+          98981
+        ],
+        "odds": "98,981%"
+      }
+    }
+  ],
+  "imgName": "TECH.webp",
+  "positionInGrid": 9
+}

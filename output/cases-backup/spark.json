@@ -1,0 +1,61 @@
+{
+  "urlName": "spark",
+  "websiteName": "SPARK",
+  "price": 7.65,
+  "expired": false,
+  "drops": [
+    {
+      "skinName": "Bright Water",
+      "weaponName": "Flip Knife",
+      "skinPriceRange": "847,90PLN",
+      "skinDisplayChance": "0,400%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/8a/8ae255f0388c01467659a8e4ba531157.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 847.9,
+        "range": [
+          99601,
+          100000
+        ],
+        "odds": "0,400%"
+      }
+    },
+    {
+      "skinName": "Bright Water",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "563,70PLN",
+      "skinDisplayChance": "0,600%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/83/83dd70e1bfbd2810b11a877c69b9de6a.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 563.7,
+        "range": [
+          99001,
+          99600
+        ],
+        "odds": "0,600%"
+      }
+    },
+    {
+      "skinName": "Coolant",
+      "weaponName": "Five-SeveN",
+      "skinPriceRange": "0,15PLN",
+      "skinDisplayChance": "99,000%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/6e/6ecc89010d440265e3e2a71aeb9c0a25.png",
+      "skinRarity": "gray",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 0.15,
+        "range": [
+          1,
+          99000
+        ],
+        "odds": "99,000%"
+      }
+    }
+  ],
+  "imgName": "SPARK.webp",
+  "positionInGrid": 0
+}

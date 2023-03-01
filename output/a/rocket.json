@@ -1,0 +1,112 @@
+{
+  "urlName": "rocket",
+  "websiteName": "ROCKET",
+  "price": 20.25,
+  "expired": false,
+  "drops": [
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Bayonet",
+      "skinPriceRange": "3368,55PLN",
+      "skinDisplayChance": "0,025%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/8b/8b6397ae8e60e9999d1e36dd4db5a817.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 3368.55,
+        "range": [
+          99976,
+          100000
+        ],
+        "odds": "0,025%"
+      }
+    },
+    {
+      "skinName": "Fade",
+      "weaponName": "Huntsman Knife",
+      "skinPriceRange": "1647,25PLN",
+      "skinDisplayChance": "0,035%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a2/a262e08be98f032f48c8e8a2753d9b46.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1647.25,
+        "range": [
+          99941,
+          99975
+        ],
+        "odds": "0,035%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Shadow Daggers",
+      "skinPriceRange": "735,45PLN",
+      "skinDisplayChance": "0,165%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/72/729043653075a49da36b959686e35099.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 735.45,
+        "range": [
+          99776,
+          99940
+        ],
+        "odds": "0,165%"
+      }
+    },
+    {
+      "skinName": "Bright Water",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "571,60PLN",
+      "skinDisplayChance": "0,225%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/aa/aa9459f86535ed2ceb7ebbf709de6171.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 571.6,
+        "range": [
+          99551,
+          99775
+        ],
+        "odds": "0,225%"
+      }
+    },
+    {
+      "skinName": "Damascus Steel",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "372,75PLN",
+      "skinDisplayChance": "3,700%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/2d/2dac2a8115713cb8970267076e9203df.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 372.75,
+        "range": [
+          95851,
+          99550
+        ],
+        "odds": "3,700%"
+      }
+    },
+    {
+      "skinName": "Predator",
+      "weaponName": "Nova",
+      "skinPriceRange": "0,15PLN",
+      "skinDisplayChance": "95,850%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/45/45593b1f296b5f3cbbd8987766032276.png",
+      "skinRarity": "gray",
+      "dropDetails": {
+        "quality": "WW",
+        "price": 0.15,
+        "range": [
+          1,
+          95850
+        ],
+        "odds": "95,850%"
+      }
+    }
+  ],
+  "href": "/skins/category/rocket",
+  "imgName": "ROCKET2.webp"
+}

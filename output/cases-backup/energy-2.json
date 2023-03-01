@@ -1,0 +1,78 @@
+{
+  "urlName": "energy-2",
+  "websiteName": "ENERGY",
+  "price": 2.4,
+  "expired": false,
+  "drops": [
+    {
+      "skinName": "The Emperor",
+      "weaponName": "M4A4",
+      "skinPriceRange": "77,30PLN",
+      "skinDisplayChance": "0,864%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3e/3ecc8d860236e73a561aef334dc3d404.png",
+      "skinRarity": "red",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 77.3,
+        "range": [
+          99137,
+          100000
+        ],
+        "odds": "0,864%"
+      }
+    },
+    {
+      "skinName": "Chantico's Fire",
+      "weaponName": "M4A1-S",
+      "skinPriceRange": "69,85PLN",
+      "skinDisplayChance": "0,865%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d2/d2d455245a34aa64db3dc17cb45b2931.png",
+      "skinRarity": "red",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 69.85,
+        "range": [
+          98272,
+          99136
+        ],
+        "odds": "0,865%"
+      }
+    },
+    {
+      "skinName": "Nightwish",
+      "weaponName": "AK-47",
+      "skinPriceRange": "54,10PLN",
+      "skinDisplayChance": "0,866%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ca/ca34694078a46033a78a495e87a91e79.png",
+      "skinRarity": "red",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 54.1,
+        "range": [
+          97406,
+          98271
+        ],
+        "odds": "0,866%"
+      }
+    },
+    {
+      "skinName": "Freight",
+      "weaponName": "P90",
+      "skinPriceRange": "0,35PLN",
+      "skinDisplayChance": "97,405%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/1f/1f94c02eecab617f3bd997e1cf29d922.png",
+      "skinRarity": "blue",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 0.35,
+        "range": [
+          1,
+          97405
+        ],
+        "odds": "97,405%"
+      }
+    }
+  ],
+  "imgName": "ENERGY1.webp",
+  "positionInGrid": 3
+}

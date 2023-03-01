@@ -1,0 +1,61 @@
+{
+  "urlName": "1-profit",
+  "websiteName": "1% PROFIT",
+  "price": 3.75,
+  "expired": false,
+  "drops": [
+    {
+      "skinName": "Printstream",
+      "weaponName": "M4A1-S",
+      "skinPriceRange": "409,25PLN",
+      "skinDisplayChance": "0,450%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/05/050b0fa02b885f8c5b5155516ccae238.png",
+      "skinRarity": "red",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 409.25,
+        "range": [
+          99551,
+          100000
+        ],
+        "odds": "0,450%"
+      }
+    },
+    {
+      "skinName": "Printstream",
+      "weaponName": "Desert Eagle",
+      "skinPriceRange": "270,65PLN",
+      "skinDisplayChance": "0,550%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/1c/1c5c4c590f629b9322ce50f734565e76.png",
+      "skinRarity": "red",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 270.65,
+        "range": [
+          99001,
+          99550
+        ],
+        "odds": "0,550%"
+      }
+    },
+    {
+      "skinName": "Facility Dark",
+      "weaponName": "UMP-45",
+      "skinPriceRange": "0,15PLN",
+      "skinDisplayChance": "99,000%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c0/c060b56a45dd8e227d5cd43a3e617791.png",
+      "skinRarity": "gray",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 0.15,
+        "range": [
+          1,
+          99000
+        ],
+        "odds": "99,000%"
+      }
+    }
+  ],
+  "imgName": "1PROFIT2.webp",
+  "positionInGrid": 10
+}

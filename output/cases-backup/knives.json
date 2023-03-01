@@ -1,0 +1,792 @@
+{
+  "urlName": "knives",
+  "websiteName": "KNIVES",
+  "price": 472.5,
+  "expired": false,
+  "drops": [
+    {
+      "skinName": "Lore",
+      "weaponName": "M9 Bayonet",
+      "skinPriceRange": "15247,70PLN",
+      "skinDisplayChance": "0,015%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/85/85eb432982536c0d88424ea73cfac746.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 15247.7,
+        "range": [
+          99986,
+          100000
+        ],
+        "odds": "0,015%"
+      }
+    },
+    {
+      "skinName": "Fade",
+      "weaponName": "Karambit",
+      "skinPriceRange": "9962,70PLN",
+      "skinDisplayChance": "0,017%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/17/17403c6590f5085575ae52dada099bf8.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 9962.7,
+        "range": [
+          99969,
+          99985
+        ],
+        "odds": "0,017%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Butterfly Knife",
+      "skinPriceRange": "8567,10PLN",
+      "skinDisplayChance": "0,019%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9b/9b407c04de16b52a84fc04ff788e1a7d.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 8567.1,
+        "range": [
+          99950,
+          99968
+        ],
+        "odds": "0,019%"
+      }
+    },
+    {
+      "skinName": "Lore",
+      "weaponName": "Karambit",
+      "skinPriceRange": "8284,90PLN",
+      "skinDisplayChance": "0,021%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fc/fc14e06e4f2df1407f7080b3a18b9091.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 8284.9,
+        "range": [
+          99929,
+          99949
+        ],
+        "odds": "0,021%"
+      }
+    },
+    {
+      "skinName": "Fade",
+      "weaponName": "M9 Bayonet",
+      "skinPriceRange": "7617,45PLN",
+      "skinDisplayChance": "0,034%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/13/1362158b5ad673f4f90e324599467436.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 7617.45,
+        "range": [
+          99895,
+          99928
+        ],
+        "odds": "0,034%"
+      }
+    },
+    {
+      "skinName": "Doppler",
+      "weaponName": "Butterfly Knife",
+      "skinPriceRange": "7532,90PLN",
+      "skinDisplayChance": "0,027%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e9/e994c7e67911dd220eddb01cc3bbf1af.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 7532.9,
+        "range": [
+          99868,
+          99894
+        ],
+        "odds": "0,027%"
+      }
+    },
+    {
+      "skinName": "Autotronic",
+      "weaponName": "Karambit",
+      "skinPriceRange": "7068,25PLN",
+      "skinDisplayChance": "0,024%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/62/62fa4c6525cdded490a3c5da89db0ff9.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 7068.25,
+        "range": [
+          99844,
+          99867
+        ],
+        "odds": "0,024%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Karambit",
+      "skinPriceRange": "6088,75PLN",
+      "skinDisplayChance": "0,032%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/58/58c08a9a2c319456d5f498dc06d126ae.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 6088.75,
+        "range": [
+          99812,
+          99843
+        ],
+        "odds": "0,032%"
+      }
+    },
+    {
+      "skinName": "Autotronic",
+      "weaponName": "M9 Bayonet",
+      "skinPriceRange": "5660,10PLN",
+      "skinDisplayChance": "0,033%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/72/72c1bf4cb91ec6574f429cab9c54679a.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 5660.1,
+        "range": [
+          99779,
+          99811
+        ],
+        "odds": "0,033%"
+      }
+    },
+    {
+      "skinName": "Tiger Tooth",
+      "weaponName": "M9 Bayonet",
+      "skinPriceRange": "4842,85PLN",
+      "skinDisplayChance": "0,039%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/71/71e2200e77790f942ee983dc48c98718.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 4842.85,
+        "range": [
+          99740,
+          99778
+        ],
+        "odds": "0,039%"
+      }
+    },
+    {
+      "skinName": "Damascus Steel",
+      "weaponName": "Karambit",
+      "skinPriceRange": "4549,15PLN",
+      "skinDisplayChance": "0,042%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/0d/0d117a1c66d9c0d0c282306f3e75aa3f.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 4549.15,
+        "range": [
+          99698,
+          99739
+        ],
+        "odds": "0,042%"
+      }
+    },
+    {
+      "skinName": "Marble Fade",
+      "weaponName": "Talon Knife",
+      "skinPriceRange": "4382,65PLN",
+      "skinDisplayChance": "0,047%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9c/9c1f6525a7e8bb167c0ed074ed63c9da.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 4382.65,
+        "range": [
+          99651,
+          99697
+        ],
+        "odds": "0,047%"
+      }
+    },
+    {
+      "skinName": "Black Laminate",
+      "weaponName": "M9 Bayonet",
+      "skinPriceRange": "3838,20PLN",
+      "skinDisplayChance": "0,012%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c4/c4bc04db44af464b6412f0876b180201.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 3838.2,
+        "range": [
+          99639,
+          99650
+        ],
+        "odds": "0,012%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Bayonet",
+      "skinPriceRange": "3119,55PLN",
+      "skinDisplayChance": "0,013%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/8b/8b6397ae8e60e9999d1e36dd4db5a817.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 3119.55,
+        "range": [
+          99626,
+          99638
+        ],
+        "odds": "0,013%"
+      }
+    },
+    {
+      "skinName": "Fade",
+      "weaponName": "Survival Knife",
+      "skinPriceRange": "2292,95PLN",
+      "skinDisplayChance": "0,018%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/33/331271f874630a0a253aa95973c4bfb5.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 2292.95,
+        "range": [
+          99608,
+          99625
+        ],
+        "odds": "0,018%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Flip Knife",
+      "skinPriceRange": "2187,20PLN",
+      "skinDisplayChance": "0,021%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/95/9511207af7df082bfafa90a0480d386b.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 2187.2,
+        "range": [
+          99587,
+          99607
+        ],
+        "odds": "0,021%"
+      }
+    },
+    {
+      "skinName": "Doppler",
+      "weaponName": "Ursus Knife",
+      "skinPriceRange": "1813,25PLN",
+      "skinDisplayChance": "0,034%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c6/c6dac386a8e87be9f6371db86d56feae.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1813.25,
+        "range": [
+          99553,
+          99586
+        ],
+        "odds": "0,034%"
+      }
+    },
+    {
+      "skinName": "Autotronic",
+      "weaponName": "Flip Knife",
+      "skinPriceRange": "1391,15PLN",
+      "skinDisplayChance": "0,089%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/27/27928df175fc90b38e7539e1fc8d8f04.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 1391.15,
+        "range": [
+          99464,
+          99552
+        ],
+        "odds": "0,089%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "1284,15PLN",
+      "skinDisplayChance": "0,076%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/15/15e1a8f60b07a7d880dec1f7aa955bd2.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1284.15,
+        "range": [
+          99388,
+          99463
+        ],
+        "odds": "0,076%"
+      }
+    },
+    {
+      "skinName": "Lore",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "1280,25PLN",
+      "skinDisplayChance": "0,098%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/30/303f600d5c115373c31ab81659ca6bd4.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1280.25,
+        "range": [
+          99290,
+          99387
+        ],
+        "odds": "0,098%"
+      }
+    },
+    {
+      "skinName": "Doppler",
+      "weaponName": "Huntsman Knife",
+      "skinPriceRange": "1278,75PLN",
+      "skinDisplayChance": "0,077%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c1/c1b09c8b8f395aedea62023b5728e47d.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1278.75,
+        "range": [
+          99213,
+          99289
+        ],
+        "odds": "0,077%"
+      }
+    },
+    {
+      "skinName": "Gamma Doppler",
+      "weaponName": "Bowie Knife",
+      "skinPriceRange": "1266,10PLN",
+      "skinDisplayChance": "0,268%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/96/963d7919c458021da2bb2e51161b5b9d.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1266.1,
+        "range": [
+          98945,
+          99212
+        ],
+        "odds": "0,268%"
+      }
+    },
+    {
+      "skinName": "Tiger Tooth",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "1000,55PLN",
+      "skinDisplayChance": "0,243%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b4/b456dc0390610897e8b2f8fdac3f747e.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 1000.55,
+        "range": [
+          98702,
+          98944
+        ],
+        "odds": "0,243%"
+      }
+    },
+    {
+      "skinName": "Freehand",
+      "weaponName": "Flip Knife",
+      "skinPriceRange": "987,75PLN",
+      "skinDisplayChance": "0,262%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d6/d6123338ab0007d5de5fe9367af9fc14.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 987.75,
+        "range": [
+          98440,
+          98701
+        ],
+        "odds": "0,262%"
+      }
+    },
+    {
+      "skinName": "Bright Water",
+      "weaponName": "Flip Knife",
+      "skinPriceRange": "966,10PLN",
+      "skinDisplayChance": "0,244%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/8a/8ae255f0388c01467659a8e4ba531157.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 966.1,
+        "range": [
+          98196,
+          98439
+        ],
+        "odds": "0,244%"
+      }
+    },
+    {
+      "skinName": "Case Hardened",
+      "weaponName": "Survival Knife",
+      "skinPriceRange": "933,60PLN",
+      "skinDisplayChance": "0,227%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3f/3fd5a1f9de2d3e4f712bcb0aedeb2ec7.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 933.6,
+        "range": [
+          97969,
+          98195
+        ],
+        "odds": "0,227%"
+      }
+    },
+    {
+      "skinName": "Autotronic",
+      "weaponName": "Bowie Knife",
+      "skinPriceRange": "904,45PLN",
+      "skinDisplayChance": "0,146%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/63/63aa24e8de8be98d2ed50d610b5ddd40.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 904.45,
+        "range": [
+          97823,
+          97968
+        ],
+        "odds": "0,146%"
+      }
+    },
+    {
+      "skinName": "Lore",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "759,95PLN",
+      "skinDisplayChance": "0,366%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/2b/2bc4c98b29f92efa7a9c9f6c8b7ce492.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 759.95,
+        "range": [
+          97457,
+          97822
+        ],
+        "odds": "0,366%"
+      }
+    },
+    {
+      "skinName": "Black Laminate",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "527,20PLN - 726,50PLN",
+      "skinDisplayChance": "2,449%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb59ff04d70c66346bfe8bd9de045df0.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 726.5,
+        "range": [
+          97314,
+          97456
+        ],
+        "odds": "0,143%"
+      }
+    },
+    {
+      "skinName": "Black Laminate",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "527,20PLN - 726,50PLN",
+      "skinDisplayChance": "2,449%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb59ff04d70c66346bfe8bd9de045df0.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 570.75,
+        "range": [
+          96455,
+          97041
+        ],
+        "odds": "0,587%"
+      }
+    },
+    {
+      "skinName": "Black Laminate",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "527,20PLN - 726,50PLN",
+      "skinDisplayChance": "2,449%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb59ff04d70c66346bfe8bd9de045df0.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 539.6,
+        "range": [
+          93422,
+          94586
+        ],
+        "odds": "1,165%"
+      }
+    },
+    {
+      "skinName": "Black Laminate",
+      "weaponName": "Falchion Knife",
+      "skinPriceRange": "527,20PLN - 726,50PLN",
+      "skinDisplayChance": "2,449%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb59ff04d70c66346bfe8bd9de045df0.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 527.2,
+        "range": [
+          92868,
+          93421
+        ],
+        "odds": "0,554%"
+      }
+    },
+    {
+      "skinName": "Autotronic",
+      "weaponName": "Shadow Daggers",
+      "skinPriceRange": "508,65PLN - 660,90PLN",
+      "skinDisplayChance": "1,354%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/98/98bd70d3eb6501131fc93463975f8e87.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 660.9,
+        "range": [
+          97042,
+          97313
+        ],
+        "odds": "0,272%"
+      }
+    },
+    {
+      "skinName": "Autotronic",
+      "weaponName": "Shadow Daggers",
+      "skinPriceRange": "508,65PLN - 660,90PLN",
+      "skinDisplayChance": "1,354%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/98/98bd70d3eb6501131fc93463975f8e87.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 508.65,
+        "range": [
+          87686,
+          88767
+        ],
+        "odds": "1,082%"
+      }
+    },
+    {
+      "skinName": "Bright Water",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "516,30PLN - 545,45PLN",
+      "skinDisplayChance": "2,379%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/83/83dd70e1bfbd2810b11a877c69b9de6a.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 545.45,
+        "range": [
+          95611,
+          96454
+        ],
+        "odds": "0,844%"
+      }
+    },
+    {
+      "skinName": "Bright Water",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "516,30PLN - 545,45PLN",
+      "skinDisplayChance": "2,379%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/83/83dd70e1bfbd2810b11a877c69b9de6a.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 516.3,
+        "range": [
+          91333,
+          92867
+        ],
+        "odds": "1,535%"
+      }
+    },
+    {
+      "skinName": "Damascus Steel",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "511,45PLN - 543,00PLN",
+      "skinDisplayChance": "3,589%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/5e/5edb95985a638ca0199987af5bc90566.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FN",
+        "price": 543,
+        "range": [
+          94587,
+          95610
+        ],
+        "odds": "1,024%"
+      }
+    },
+    {
+      "skinName": "Damascus Steel",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "511,45PLN - 543,00PLN",
+      "skinDisplayChance": "3,589%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/5e/5edb95985a638ca0199987af5bc90566.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 511.45,
+        "range": [
+          88768,
+          91332
+        ],
+        "odds": "2,565%"
+      }
+    },
+    {
+      "skinName": "Blue Steel",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "374,10PLN - 399,10PLN",
+      "skinDisplayChance": "22,963%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7a/7a62ee1755cfba72b8f77816c939c958.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 399.1,
+        "range": [
+          86233,
+          87685
+        ],
+        "odds": "1,453%"
+      }
+    },
+    {
+      "skinName": "Blue Steel",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "374,10PLN - 399,10PLN",
+      "skinDisplayChance": "22,963%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7a/7a62ee1755cfba72b8f77816c939c958.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 392.75,
+        "range": [
+          78707,
+          86232
+        ],
+        "odds": "7,526%"
+      }
+    },
+    {
+      "skinName": "Blue Steel",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "374,10PLN - 399,10PLN",
+      "skinDisplayChance": "22,963%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7a/7a62ee1755cfba72b8f77816c939c958.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 374.1,
+        "range": [
+          62501,
+          76484
+        ],
+        "odds": "13,984%"
+      }
+    },
+    {
+      "skinName": "Forest DDPAT",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "356,35PLN - 377,50PLN",
+      "skinDisplayChance": "20,915%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fe/fe468161c65effb125cca44bb833486c.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "MW",
+        "price": 377.5,
+        "range": [
+          76485,
+          78706
+        ],
+        "odds": "2,222%"
+      }
+    },
+    {
+      "skinName": "Forest DDPAT",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "356,35PLN - 377,50PLN",
+      "skinDisplayChance": "20,915%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fe/fe468161c65effb125cca44bb833486c.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 368.7,
+        "range": [
+          10246,
+          18693
+        ],
+        "odds": "8,448%"
+      }
+    },
+    {
+      "skinName": "Forest DDPAT",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "356,35PLN - 377,50PLN",
+      "skinDisplayChance": "20,915%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fe/fe468161c65effb125cca44bb833486c.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "FT",
+        "price": 356.35,
+        "range": [
+          1,
+          10245
+        ],
+        "odds": "10,245%"
+      }
+    },
+    {
+      "skinName": "Rust Coat",
+      "weaponName": "Shadow Daggers",
+      "skinPriceRange": "374,55PLN",
+      "skinDisplayChance": "21,854%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/77/77153131c7c677b4b73998c2d307c13d.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 374.55,
+        "range": [
+          40647,
+          62500
+        ],
+        "odds": "21,854%"
+      }
+    },
+    {
+      "skinName": "Rust Coat",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "373,80PLN",
+      "skinDisplayChance": "21,953%",
+      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9c/9ca2d6ca1ba7db536151bed952803a30.png",
+      "skinRarity": "gold",
+      "dropDetails": {
+        "quality": "BS",
+        "price": 373.8,
+        "range": [
+          18694,
+          40646
+        ],
+        "odds": "21,953%"
+      }
+    }
+  ],
+  "imgName": "knives.webp",
+  "positionInGrid": 2
+}
