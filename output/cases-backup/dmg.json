@@ -1,214 +1,215 @@
 {
   "urlName": "dmg",
   "websiteName": "DMG",
-  "price": 98.45,
-  "expired": false,
+  "price": 185,
+  "expired": true,
   "drops": [
     {
-      "skinName": "Fade",
-      "weaponName": "Skeleton Knife",
-      "skinPriceRange": "8842,10PLN",
-      "skinDisplayChance": "0,010%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/53/53dddcc70ce9fc07cea2f96e701ec5cd.png",
+      "caseDropID": "r3lxL6KOsg9-WWh6G9R-d",
+      "globalInvID": "vOm8kErbdlF57ZmuTdZnv",
+      "skinName": "Marble Fade",
+      "weaponName": "Karambit",
+      "skinPriceRange": "9996,50PLN",
+      "skinDisplayChance": "0,172%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/f7/f78d6f418f53b935813dad3a00ea6ad2.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 8842.1,
-        "range": [
-          99991,
-          100000
-        ],
-        "odds": "0,010%"
-      }
+      "quality": "FN",
+      "skinPrice": 9996.5,
+      "oddsRange": [
+        99820,
+        99991
+      ],
+      "displayOdds": "0,172%"
     },
     {
+      "caseDropID": "f3zgUx_y-A-lvgTqjPihC",
+      "globalInvID": "MgB-vi84_qbzrcI0sxb-3",
       "skinName": "Fade",
-      "weaponName": "Nomad Knife",
-      "skinPriceRange": "5299,20PLN",
-      "skinDisplayChance": "0,014%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3d/3dfa69a439102a7a42f9d8addbffb4ce.png",
+      "weaponName": "Bowie Knife",
+      "skinPriceRange": "3140,10PLN",
+      "skinDisplayChance": "0,552%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/39/3900cd5f0af32d10004a7e695d9c3a25.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 5299.2,
-        "range": [
-          99950,
-          99963
-        ],
-        "odds": "0,014%"
-      }
+      "quality": "FN",
+      "skinPrice": 3140.1,
+      "oddsRange": [
+        98402,
+        98953
+      ],
+      "displayOdds": "0,552%"
     },
     {
-      "skinName": "Fade",
-      "weaponName": "Classic Knife",
-      "skinPriceRange": "3001,20PLN",
-      "skinDisplayChance": "0,025%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3f/3fe009fb3078228528dd86eed8242a38.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 3001.2,
-        "range": [
-          99897,
-          99921
-        ],
-        "odds": "0,025%"
-      }
-    },
-    {
-      "skinName": "Fade",
-      "weaponName": "Paracord Knife",
-      "skinPriceRange": "2642,45PLN",
-      "skinDisplayChance": "0,026%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/28/28e848691c51938997cff4490e8e120d.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 2642.45,
-        "range": [
-          99871,
-          99896
-        ],
-        "odds": "0,026%"
-      }
-    },
-    {
-      "skinName": "Fade",
-      "weaponName": "Survival Knife",
-      "skinPriceRange": "2292,95PLN",
-      "skinDisplayChance": "0,047%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/33/331271f874630a0a253aa95973c4bfb5.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 2292.95,
-        "range": [
-          99824,
-          99870
-        ],
-        "odds": "0,047%"
-      }
-    },
-    {
+      "caseDropID": "wzlw4TNel68NemC2BGbuv",
+      "globalInvID": "vUUNJSQQvejwv7cgFr8-t",
       "skinName": "Fade",
       "weaponName": "Shadow Daggers",
-      "skinPriceRange": "1178,90PLN",
-      "skinDisplayChance": "0,114%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/84/844659ce395f227d7a87be120d8597cd.png",
+      "skinPriceRange": "2088,95PLN",
+      "skinDisplayChance": "0,743%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/84/844659ce395f227d7a87be120d8597cd.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 1178.9,
-        "range": [
-          99661,
-          99774
-        ],
-        "odds": "0,114%"
-      }
+      "quality": "FN",
+      "skinPrice": 2088.95,
+      "oddsRange": [
+        97659,
+        98401
+      ],
+      "displayOdds": "0,743%"
     },
     {
+      "caseDropID": "5hYh9ORko7SfGQyp3Gf9Q",
+      "globalInvID": "FdCqoQyPQa5uyDPyVQ5TR",
       "skinName": "Fade",
       "weaponName": "Navaja Knife",
-      "skinPriceRange": "962,05PLN",
-      "skinDisplayChance": "4,673%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ba/bab5f65c9bde8a8fa5920238b988af41.png",
+      "skinPriceRange": "1651,15PLN",
+      "skinDisplayChance": "1,063%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ba/bab5f65c9bde8a8fa5920238b988af41.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 962.05,
-        "range": [
-          94988,
-          99660
-        ],
-        "odds": "4,673%"
-      }
+      "quality": "FN",
+      "skinPrice": 1651.15,
+      "oddsRange": [
+        96596,
+        97658
+      ],
+      "displayOdds": "1,063%"
     },
     {
-      "skinName": "Fade",
+      "caseDropID": "A_yED1b3ZBvlWnEMVdh78",
+      "globalInvID": "lU5I8MOTrgVlirZibfPak",
+      "skinName": "Marble Fade",
+      "weaponName": "Gut Knife",
+      "skinPriceRange": "1227,00PLN",
+      "skinDisplayChance": "1,115%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ce/cec069960832d975c11b819cf1241cbc.png",
+      "skinRarity": "gold",
+      "quality": "FN",
+      "skinPrice": 1227,
+      "oddsRange": [
+        95481,
+        96595
+      ],
+      "displayOdds": "1,115%"
+    },
+    {
+      "caseDropID": "OaCwk0KmuRoI9eU3DL6V4",
+      "globalInvID": "ZsBbaelLC2FFzFIZvHDsv",
+      "skinName": "Marble Fade",
+      "weaponName": "Shadow Daggers",
+      "skinPriceRange": "1202,65PLN",
+      "skinDisplayChance": "1,286%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/17/17c6bc2f26f1fc8592076214f0763abe.png",
+      "skinRarity": "gold",
+      "quality": "FN",
+      "skinPrice": 1202.65,
+      "oddsRange": [
+        94195,
+        95480
+      ],
+      "displayOdds": "1,286%"
+    },
+    {
+      "caseDropID": "0uqogf4W5wMF519qnQVcs",
+      "globalInvID": "bxUZSrSvBkD-SX8do4TWL",
+      "skinName": "Marble Fade",
+      "weaponName": "Navaja Knife",
+      "skinPriceRange": "1109,75PLN",
+      "skinDisplayChance": "1,275%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b6/b67caecea45fd8dc0cdc15ae79a40a7d.png",
+      "skinRarity": "gold",
+      "quality": "FN",
+      "skinPrice": 1109.75,
+      "oddsRange": [
+        92920,
+        94194
+      ],
+      "displayOdds": "1,275%"
+    },
+    {
+      "caseDropID": "mPeML34N507vE5rOR_G4T",
+      "globalInvID": "Xa3fdEy9fBNUNNMDtOhPq",
+      "skinName": "Marble Fade",
       "weaponName": "Specialist Gloves",
-      "skinPriceRange": "762,90PLN",
-      "skinDisplayChance": "4,987%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c7/c7df1b1c3fb399497be43e1b05bd6bfc.png",
+      "skinPriceRange": "795,30PLN",
+      "skinDisplayChance": "2,244%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1f/1f7f1607661b3836d1ae66abca5bddea.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 762.9,
-        "range": [
-          90001,
-          94987
-        ],
-        "odds": "4,987%"
-      }
+      "quality": "BS",
+      "skinPrice": 795.3,
+      "oddsRange": [
+        90676,
+        92919
+      ],
+      "displayOdds": "2,244%"
     },
     {
-      "skinName": "Fade",
-      "weaponName": "AWP",
-      "skinPriceRange": "4242,85PLN",
-      "skinDisplayChance": "0,028%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/6f/6fb994704a709dfd522e60c603ab84e1.png",
+      "caseDropID": "3pGl1mG7J6xNgNULsnJas",
+      "globalInvID": "FPrRyjqNjUW5jINgFL9qF",
+      "skinName": "Gold Arabesque",
+      "weaponName": "AK-47",
+      "skinPriceRange": "11352,60PLN",
+      "skinDisplayChance": "0,009%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/35/355d7717502335da845fb0d5ee69a35f.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 4242.85,
-        "range": [
-          99922,
-          99949
-        ],
-        "odds": "0,028%"
-      }
+      "quality": "BS",
+      "skinPrice": 11352.6,
+      "oddsRange": [
+        99992,
+        100000
+      ],
+      "displayOdds": "0,009%"
     },
     {
-      "skinName": "Fade",
-      "weaponName": "UMP-45",
-      "skinPriceRange": "1242,00PLN",
-      "skinDisplayChance": "0,049%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/91/91c6e937f365a7d4e658ecf71d501256.png",
+      "caseDropID": "hXpz7uetH6ht-wvB6H8xE",
+      "globalInvID": "5dPkd3punxPFjv-Zzc7Tr",
+      "skinName": "Hot Rod",
+      "weaponName": "M4A1-S",
+      "skinPriceRange": "4853,60PLN",
+      "skinDisplayChance": "0,415%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/6e/6e50a0aaaa342e7b2b25df3da7b39c54.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 1242,
-        "range": [
-          99775,
-          99823
-        ],
-        "odds": "0,049%"
-      }
+      "quality": "FN",
+      "skinPrice": 4853.6,
+      "oddsRange": [
+        99405,
+        99819
+      ],
+      "displayOdds": "0,415%"
     },
     {
-      "skinName": "Fade",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "5695,75PLN",
-      "skinDisplayChance": "0,027%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7c/7cadae997973c04583bf16456e8ebfff.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 5695.75,
-        "range": [
-          99964,
-          99990
-        ],
-        "odds": "0,027%"
-      }
+      "caseDropID": "nithokPgI_5GYhlJIBsgd",
+      "globalInvID": "FlEeIQ4vyptl5dEOPsTNH",
+      "skinName": "Blue Phosphor",
+      "weaponName": "M4A1-S",
+      "skinPriceRange": "3828,60PLN",
+      "skinDisplayChance": "0,451%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/06/063ade922652b9054de360c1902ee10d.png",
+      "skinRarity": "pink",
+      "quality": "FN",
+      "skinPrice": 3828.6,
+      "oddsRange": [
+        98954,
+        99404
+      ],
+      "displayOdds": "0,451%"
     },
     {
+      "caseDropID": "RqsrCq6m8bLbMOqGiY1vZ",
+      "globalInvID": "9-sH-AeU5esk33_oXptsv",
       "skinName": "Poultrygeist",
       "weaponName": "SCAR-20",
-      "skinPriceRange": "0,35PLN",
-      "skinDisplayChance": "90,000%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4c/4c22ceea130aec29ffbf6fd813b66c61.png",
+      "skinPriceRange": "0,30PLN",
+      "skinDisplayChance": "90,675%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/4c/4c22ceea130aec29ffbf6fd813b66c61.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.35,
-        "range": [
-          1,
-          90000
-        ],
-        "odds": "90,000%"
-      }
+      "quality": "FT",
+      "skinPrice": 0.3,
+      "oddsRange": [
+        1,
+        90675
+      ],
+      "displayOdds": "90,675%"
     }
   ],
-  "imgName": "dmg.webp",
-  "positionInGrid": 5
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/DMG.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

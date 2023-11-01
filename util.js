@@ -22,17 +22,14 @@ export function clean(input, type) {
   if (type === 'price') {
     return parseFloat(
       input
-        .replace('PLN', '')
+        .replace(/[^,.\d]/g, '')
         .replace(',', '.')
-        .replace(' ', '')
-        .replace(/[^\x00-\x7F]/g, '')
         .trim()
     );
   } else if (type === 'imgSource') {
     return input
       .replace('png', 'webp')
       .replace('jpg', 'webp')
-      .replace(/[^\x00-\x7F]/g, '')
       .trim();
   } else if (type === 'urlName') {
     return input

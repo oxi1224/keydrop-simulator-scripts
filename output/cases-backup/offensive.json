@@ -2,111 +2,124 @@
   "urlName": "offensive",
   "websiteName": "OFFENSIVE",
   "price": 3.45,
-  "expired": false,
+  "expired": true,
+  "category": "expired",
+  "imgName": "https://raw.githubusercontent.com/oxi1224/images/main/OFFENSIVE.webp",
+  "positionInGrid": 0,
   "drops": [
     {
+      "caseDropID": "WqVWuIuDSXiBEMADzz5NN",
+      "globalInvID": "nqCixUycIx67rem6EOjUd",
       "skinName": "Tiger Tooth",
       "weaponName": "Shadow Daggers",
-      "skinPriceRange": "655,75PLN",
+      "skinPriceRange": "680,05PLN",
       "skinDisplayChance": "0,069%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3e/3e0844548da4f60a027c3451e87d92bc.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 655.75,
-        "range": [
-          99932,
-          100000
-        ],
-        "odds": "0,069%"
-      }
+      "displayChance": "0,069%",
+      "priceRange": "680,05PLN",
+      "quality": "FN",
+      "skinPrice": 680.05,
+      "oddsRange": [
+        99932,
+        100000
+      ],
+      "displayOdds": "0,069%"
     },
     {
+      "caseDropID": "_KV6Mj5HBKN-uVQ9GX3UU",
+      "globalInvID": "HTj2lygxccPe7yWEEhSoc",
       "skinName": "Containment Breach",
       "weaponName": "AWP",
-      "skinPriceRange": "255,30PLN",
+      "skinPriceRange": "256,95PLN",
       "skinDisplayChance": "0,154%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/8d/8d4ac2729f9e7ec46bd29eb9785e2d29.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 255.3,
-        "range": [
-          99778,
-          99931
-        ],
-        "odds": "0,154%"
-      }
+      "displayChance": "0,154%",
+      "priceRange": "256,95PLN",
+      "quality": "WW",
+      "skinPrice": 256.95,
+      "oddsRange": [
+        99778,
+        99931
+      ],
+      "displayOdds": "0,154%"
     },
     {
+      "caseDropID": "o_Lmsr-UVHs_FAA4SZzaQ",
+      "globalInvID": "SAnCzkfc2Q2N3dIzY77_C",
       "skinName": "Code Red",
       "weaponName": "Desert Eagle",
-      "skinPriceRange": "84,50PLN",
+      "skinPriceRange": "86,20PLN",
       "skinDisplayChance": "0,642%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/6b/6b6a258ddb02d029c4ea8a41944f3081.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 84.5,
-        "range": [
-          99136,
-          99777
-        ],
-        "odds": "0,642%"
-      }
+      "displayChance": "0,642%",
+      "priceRange": "86,20PLN",
+      "quality": "BS",
+      "skinPrice": 86.2,
+      "oddsRange": [
+        99136,
+        99777
+      ],
+      "displayOdds": "0,642%"
     },
     {
+      "caseDropID": "7jV_QYh_jgmWrrmkCHFVO",
+      "globalInvID": "J4KqRNpx-mxTSEY-eSAQy",
       "skinName": "Ice Coaled",
       "weaponName": "AK-47",
-      "skinPriceRange": "50,95PLN",
-      "skinDisplayChance": "1,453%",
+      "skinPriceRange": "49,60PLN",
+      "skinDisplayChance": "1,153%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/0d/0dad3f628358704bd1592097952a799d.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 50.95,
-        "range": [
-          97683,
-          99135
-        ],
-        "odds": "1,453%"
-      }
+      "displayChance": "1,153%",
+      "priceRange": "49,60PLN",
+      "quality": "BS",
+      "skinPrice": 49.6,
+      "oddsRange": [
+        97983,
+        99135
+      ],
+      "displayOdds": "1,153%"
     },
     {
+      "caseDropID": "YMkntwathVx5LnYejlRX6",
+      "globalInvID": "a3dsnVqwOd4CCL1NDqDDV",
       "skinName": "Visions",
       "weaponName": "P250",
-      "skinPriceRange": "33,15PLN",
-      "skinDisplayChance": "2,682%",
+      "skinPriceRange": "32,25PLN",
+      "skinDisplayChance": "2,982%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ec/ec77198497c97067cdf8740b44a38326.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 33.15,
-        "range": [
-          95001,
-          97682
-        ],
-        "odds": "2,682%"
-      }
+      "displayChance": "2,982%",
+      "priceRange": "32,25PLN",
+      "quality": "FT",
+      "skinPrice": 32.25,
+      "oddsRange": [
+        95001,
+        97982
+      ],
+      "displayOdds": "2,982%"
     },
     {
+      "caseDropID": "-utspGFihFwDDLr5DtF-v",
+      "globalInvID": "z7Y07tL4Ci_b1JSH2IIam",
       "skinName": "Rust Coat",
       "weaponName": "MAG-7",
       "skinPriceRange": "0,15PLN",
       "skinDisplayChance": "95,000%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a8/a87a1b088087f606ed3d9ea6b63d4522.png",
       "skinRarity": "gray",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.15,
-        "range": [
-          1,
-          95000
-        ],
-        "odds": "95,000%"
-      }
+      "displayChance": "95,000%",
+      "priceRange": "0,15PLN",
+      "quality": "MW",
+      "skinPrice": 0.15,
+      "oddsRange": [
+        1,
+        95000
+      ],
+      "displayOdds": "95,000%"
     }
-  ],
-  "imgName": "OFFENSIVE.webp",
-  "positionInGrid": 0
+  ]
 }

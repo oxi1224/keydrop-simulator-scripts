@@ -1,6 +1,6 @@
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = env("DATABASE_URL_PROD")
 }
 
 generator client {
@@ -15,21 +15,17 @@ model User {
   balance      Float   @default(50)
   goldBalance  Int     @default(0)
   sandboxMode  Boolean @default(false)
+  pfpUrl       String  @default("https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/eb/ebd92149e5950221fcb87ca8475493b8e77833f3_full.jpg")
+  language     String  @default("en")
 }
 
 model Item {
   owner         User                @relation(fields: [ownerId], references: [id])
-  globalInvItem GlobalInventoryItem @relation(fields: [weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack], references: [weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack], onUpdate: Cascade)
+  globalInvItem GlobalInventoryItem @relation(fields: [globalInvID], references: [id], onUpdate: Cascade)
   dropId        String              @id @unique
   ownerId       String
   origin        String
-  weaponName    String
-  skinName      String
-  skinQuality   String
-  skinPrice     Float
-  skinRarity    String
-  skinImgSource String
-  stattrack     Boolean             @default(false)
+  globalInvID   String
   dropDate      DateTime            @default(now())
   sold          Boolean             @default(false)
   upgraded      Boolean             @default(false)
@@ -47,6 +43,7 @@ model Case {
   price          Float
   expired        Boolean      @default(false)
   category       String?
+  goldenCase     Boolean?     @default(false)
   imgName        String
   positionInGrid Int?
   drops          CaseDrop[]
@@ -64,7 +61,9 @@ model CaseSection {
 
 model CaseDrop {
   case          Case                @relation(fields: [parentCase], references: [websiteName])
-  globalInvItem GlobalInventoryItem @relation(fields: [weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack], references: [weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack], onUpdate: Cascade)
+  globalInvItem GlobalInventoryItem @relation(fields: [globalInvID, weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack], references: [id, weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack], onUpdate: Cascade)
+  id            String              @id @unique
+  globalInvID   String
   weaponName    String
   skinName      String
   skinQuality   String
@@ -82,6 +81,7 @@ model CaseDrop {
 }
 
 model GlobalInventoryItem {
+  id            String     @id @unique
   weaponName    String
   skinName      String
   skinQuality   String
@@ -93,5 +93,23 @@ model GlobalInventoryItem {
   CaseDop       CaseDrop[]
 
   @@unique([weaponName, skinName, skinQuality, stattrack])
-  @@unique([weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack])
+  @@unique([id, weaponName, skinName, skinQuality, skinPrice, skinRarity, skinImgSource, stattrack])
+}
+
+model CaseBattle {
+  id          Int      @id @default(autoincrement())
+  totalPrice  Float
+  totalCases  Int
+  owner       String // User.id
+  finished    Boolean  @default(false)
+  players     Json // { [key: number]: UserWithoutHash } -- in order to save space (also no 1 way relations);
+  playerCount Int
+  caseData    Json[] // { urlName: Case.websiteName, imgName: Case.imgName, count: Int }[] -- in order to save space;
+  drops       Json   // { [player: 0-3]: CaseDrop.id[][] }
+  wonItems    Json   // { [player: 0-3]: CaseDrop.id[] }
+  public      Boolean
+  joinKey     String?
+  mode        String
+  winner      Int?
+  createdAt   DateTime @default(now())
 }

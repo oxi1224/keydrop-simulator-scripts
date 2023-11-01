@@ -1,605 +1,589 @@
 {
   "urlName": "beast",
   "websiteName": "BEAST",
-  "price": 2.55,
-  "expired": false,
+  "price": 3,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "XkDGhZYt3_W-ZvZc3KbGV",
+      "globalInvID": "ghpG4nB3UGIkpP-2GHuZP",
+      "skinName": "Hyper Beast",
+      "weaponName": "AWP",
+      "skinPriceRange": "302,90PLN",
+      "skinDisplayChance": "0,071%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1f/1f626315510e3eb338ce7d91335a544c.png",
+      "skinRarity": "red",
+      "quality": "MW",
+      "skinPrice": 302.9,
+      "oddsRange": [
+        99928,
+        99998
+      ],
+      "displayOdds": "0,071%"
+    },
+    {
+      "caseDropID": "u2JkrleR5GR1Fbot5pSdY",
+      "globalInvID": "EGvewty-UikagSQnUtYC-",
       "skinName": "The Empress",
       "weaponName": "AK-47",
-      "skinPriceRange": "130,30PLN",
-      "skinDisplayChance": "0,106%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/04/04c876c4aab732feb859d89efb69b30b.png",
+      "skinPriceRange": "144,20PLN",
+      "skinDisplayChance": "0,139%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/04/04c876c4aab732feb859d89efb69b30b.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 130.3,
-        "range": [
-          99893,
-          99998
-        ],
-        "odds": "0,106%"
-      }
+      "quality": "FT",
+      "skinPrice": 144.2,
+      "oddsRange": [
+        99789,
+        99927
+      ],
+      "displayOdds": "0,139%"
     },
     {
+      "caseDropID": "R_b-YdJlfYpANxkXyJukH",
+      "globalInvID": "LD_KqLC7YJ7ALgZ5kaeC7",
       "skinName": "Wild Lily",
       "weaponName": "MP9",
-      "skinPriceRange": "6935,25PLN",
+      "skinPriceRange": "8297,45PLN",
       "skinDisplayChance": "0,002%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ae/ae349401db197dd3dff9ffb3c4185362.png",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ae/ae349401db197dd3dff9ffb3c4185362.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 6935.25,
-        "range": [
-          99999,
-          100000
-        ],
-        "odds": "0,002%"
-      }
+      "quality": "WW",
+      "skinPrice": 8297.45,
+      "oddsRange": [
+        99999,
+        100000
+      ],
+      "displayOdds": "0,002%"
     },
     {
-      "skinName": "Nostalgia",
-      "weaponName": "P90",
-      "skinPriceRange": "27,50PLN",
-      "skinDisplayChance": "0,099%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/99/998729c04937df9cbfb7d7ce59f200fd.png",
+      "caseDropID": "Cuih5mTSIxfNQZYgvh77p",
+      "globalInvID": "0GfRpdUp8x82H_xOI5sWU",
+      "skinName": "Monster Mashup",
+      "weaponName": "USP-S",
+      "skinPriceRange": "81,10PLN",
+      "skinDisplayChance": "0,229%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b4/b4b6500092c9f917e5ac868ff8952e27.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 27.5,
-        "range": [
-          99794,
-          99892
-        ],
-        "odds": "0,099%"
-      }
+      "quality": "BS",
+      "skinPrice": 81.1,
+      "oddsRange": [
+        99560,
+        99788
+      ],
+      "displayOdds": "0,229%"
     },
     {
+      "caseDropID": "5ttBGONX9wgSet38saBST",
+      "globalInvID": "SqFkyYTC4XoIF5RDnptYb",
+      "skinName": "Fleet Flock",
+      "weaponName": "AUG",
+      "skinPriceRange": "53,15PLN",
+      "skinDisplayChance": "0,165%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ce/cebc2bbd88d44658b54d596a27e14cab.png",
+      "skinRarity": "pink",
+      "quality": "FN",
+      "skinPrice": 53.15,
+      "oddsRange": [
+        99395,
+        99559
+      ],
+      "displayOdds": "0,165%"
+    },
+    {
+      "caseDropID": "_Lo1Z7-vCS4uahuLDkNOs",
+      "globalInvID": "FGfreR3N1cScofaheWl62",
+      "skinName": "Colony IV",
+      "weaponName": "SG 553",
+      "skinPriceRange": "33,95PLN",
+      "skinDisplayChance": "0,329%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/23/2376fe66ad419c521ae66f9aa7bb0aec.png",
+      "skinRarity": "pink",
+      "quality": "BS",
+      "skinPrice": 33.95,
+      "oddsRange": [
+        99066,
+        99394
+      ],
+      "displayOdds": "0,329%"
+    },
+    {
+      "caseDropID": "tv99GYN93l80w8TyXWC5m",
+      "globalInvID": "HbqtZbxfduQfnMTh0CNK-",
       "skinName": "Eye of Athena",
       "weaponName": "FAMAS",
-      "skinPriceRange": "22,15PLN",
-      "skinDisplayChance": "0,061%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/dc/dcd4e64c6677caba0d76552b36e863e6.png",
+      "skinPriceRange": "32,25PLN",
+      "skinDisplayChance": "0,302%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/dc/dcd4e64c6677caba0d76552b36e863e6.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 22.15,
-        "range": [
-          99733,
-          99793
-        ],
-        "odds": "0,061%"
-      }
+      "quality": "MW",
+      "skinPrice": 32.25,
+      "oddsRange": [
+        98764,
+        99065
+      ],
+      "displayOdds": "0,302%"
     },
     {
-      "skinName": "Twin Turbo",
-      "weaponName": "Dual Berettas",
-      "skinPriceRange": "16,35PLN",
-      "skinDisplayChance": "0,108%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/25/2582c50577942cbb3b1a9704f16928d5.png",
+      "caseDropID": "3_uYdn9ol7r8Y_unfw9cK",
+      "globalInvID": "vi6HY7y0t3qBsNaIHp4YT",
+      "skinName": "Imperial Dragon",
+      "weaponName": "P2000",
+      "skinPriceRange": "12,35PLN",
+      "skinDisplayChance": "1,064%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a6/a6b16d7ad15a3f1c3e6f0e47ad1f1189.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 16.35,
-        "range": [
-          99507,
-          99614
-        ],
-        "odds": "0,108%"
-      }
+      "quality": "FT",
+      "skinPrice": 12.35,
+      "oddsRange": [
+        96724,
+        97787
+      ],
+      "displayOdds": "1,064%"
     },
     {
-      "skinName": "High Roller",
-      "weaponName": "PP-Bizon",
-      "skinPriceRange": "13,15PLN",
-      "skinDisplayChance": "0,501%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a7/a76376fccd96c2567f00fef55e874784.png",
+      "caseDropID": "dV2O5vxjtN03zMkBODizd",
+      "globalInvID": "WebHnxK6Y0vXEHhHKx4pK",
+      "skinName": "Food Chain",
+      "weaponName": "MP9",
+      "skinPriceRange": "8,40PLN",
+      "skinDisplayChance": "1,175%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/21/213e208ae47e75e3a568d48376a52524.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 13.15,
-        "range": [
-          99006,
-          99506
-        ],
-        "odds": "0,501%"
-      }
+      "quality": "FT",
+      "skinPrice": 8.4,
+      "oddsRange": [
+        94327,
+        95501
+      ],
+      "displayOdds": "1,175%"
     },
     {
-      "skinName": "Skull Crusher",
-      "weaponName": "R8 Revolver",
-      "skinPriceRange": "9,40PLN",
-      "skinDisplayChance": "0,073%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9e/9e80ac6b5dc6b9205e8887ff56a7f538.png",
-      "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 9.4,
-        "range": [
-          98732,
-          98804
-        ],
-        "odds": "0,073%"
-      }
+      "caseDropID": "TD8dijam9nXIIq3rBRm-_",
+      "globalInvID": "l5n687Gz5uAziiGJ2HNXK",
+      "skinName": "Atheris",
+      "weaponName": "AWP",
+      "skinPriceRange": "24,25PLN",
+      "skinDisplayChance": "0,565%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/69/696a881f394ce542a27b0467e125d2b6.png",
+      "skinRarity": "violet",
+      "quality": "MW",
+      "skinPrice": 24.25,
+      "oddsRange": [
+        98199,
+        98763
+      ],
+      "displayOdds": "0,565%"
     },
     {
+      "caseDropID": "SXwxghoD_djcOWw9NhxNc",
+      "globalInvID": "id3tvzERLA2HGeUZXhKjD",
       "skinName": "Rat Rod",
       "weaponName": "AK-47",
-      "skinPriceRange": "18,60PLN",
-      "skinDisplayChance": "0,118%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/60/608de478d9cf8286e580e7c30aa9b0f4.png",
+      "skinPriceRange": "15,85PLN",
+      "skinDisplayChance": "0,411%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/60/608de478d9cf8286e580e7c30aa9b0f4.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 18.6,
-        "range": [
-          99615,
-          99732
-        ],
-        "odds": "0,118%"
-      }
+      "quality": "FT",
+      "skinPrice": 15.85,
+      "oddsRange": [
+        97788,
+        98198
+      ],
+      "displayOdds": "0,411%"
     },
     {
-      "skinName": "Triumvirate",
-      "weaponName": "Five-SeveN",
-      "skinPriceRange": "7,45PLN - 10,45PLN",
-      "skinDisplayChance": "1,041%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/56/564c02e3afaa5a2060f5dda30ec0cd73.png",
+      "caseDropID": "2u_lSWxKnBZWD2qaJuU14",
+      "globalInvID": "Iu_DoO1diCmRBV-YWYKHp",
+      "skinName": "PAW",
+      "weaponName": "AWP",
+      "skinPriceRange": "12,00PLN",
+      "skinDisplayChance": "1,222%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/4b/4b1b579c962341a5728127ea0d04130b.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 10.45,
-        "range": [
-          98805,
-          99005
-        ],
-        "odds": "0,201%"
-      }
+      "quality": "MW",
+      "skinPrice": 12,
+      "oddsRange": [
+        95502,
+        96723
+      ],
+      "displayOdds": "1,222%"
     },
     {
-      "skinName": "Triumvirate",
-      "weaponName": "Five-SeveN",
-      "skinPriceRange": "7,45PLN - 10,45PLN",
-      "skinDisplayChance": "1,041%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/56/564c02e3afaa5a2060f5dda30ec0cd73.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 7.45,
-        "range": [
-          97892,
-          98731
-        ],
-        "odds": "0,840%"
-      }
-    },
-    {
-      "skinName": "Neon Ply",
-      "weaponName": "MP7",
-      "skinPriceRange": "6,45PLN",
-      "skinDisplayChance": "1,218%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/38/383853aa4956e8810573eba196e6e528.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 6.45,
-        "range": [
-          96674,
-          97891
-        ],
-        "odds": "1,218%"
-      }
-    },
-    {
-      "skinName": "Gauss",
-      "weaponName": "MP5-SD",
-      "skinPriceRange": "2,20PLN - 6,40PLN",
-      "skinDisplayChance": "7,081%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/29/29feba36587d17bc9a95ac31c23a420a.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 6.4,
-        "range": [
-          94521,
-          96673
-        ],
-        "odds": "2,153%"
-      }
-    },
-    {
-      "skinName": "Gauss",
-      "weaponName": "MP5-SD",
-      "skinPriceRange": "2,20PLN - 6,40PLN",
-      "skinDisplayChance": "7,081%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/29/29feba36587d17bc9a95ac31c23a420a.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.2,
-        "range": [
-          56962,
-          61889
-        ],
-        "odds": "4,928%"
-      }
-    },
-    {
-      "skinName": "Directive",
-      "weaponName": "Desert Eagle",
-      "skinPriceRange": "2,00PLN - 5,85PLN",
-      "skinDisplayChance": "10,369%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/06/06b7493966a680a2a964193b9a72b691.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 5.85,
-        "range": [
-          94024,
-          94520
-        ],
-        "odds": "0,497%"
-      }
-    },
-    {
-      "skinName": "Directive",
-      "weaponName": "Desert Eagle",
-      "skinPriceRange": "2,00PLN - 5,85PLN",
-      "skinDisplayChance": "10,369%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/06/06b7493966a680a2a964193b9a72b691.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.15,
-        "range": [
-          61890,
-          68060
-        ],
-        "odds": "6,171%"
-      }
-    },
-    {
-      "skinName": "Directive",
-      "weaponName": "Desert Eagle",
-      "skinPriceRange": "2,00PLN - 5,85PLN",
-      "skinDisplayChance": "10,369%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/06/06b7493966a680a2a964193b9a72b691.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 2,
-        "range": [
-          48891,
-          52591
-        ],
-        "odds": "3,701%"
-      }
-    },
-    {
-      "skinName": "Bamboozle",
-      "weaponName": "Tec-9",
-      "skinPriceRange": "2,15PLN - 4,40PLN",
-      "skinDisplayChance": "8,731%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d6/d6a220268de41c37b30f511c647309af.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 4.4,
-        "range": [
-          92714,
-          94023
-        ],
-        "odds": "1,310%"
-      }
-    },
-    {
-      "skinName": "Bamboozle",
-      "weaponName": "Tec-9",
-      "skinPriceRange": "2,15PLN - 4,40PLN",
-      "skinDisplayChance": "8,731%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d6/d6a220268de41c37b30f511c647309af.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.25,
-        "range": [
-          74938,
-          77988
-        ],
-        "odds": "3,051%"
-      }
-    },
-    {
-      "skinName": "Bamboozle",
-      "weaponName": "Tec-9",
-      "skinPriceRange": "2,15PLN - 4,40PLN",
-      "skinDisplayChance": "8,731%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d6/d6a220268de41c37b30f511c647309af.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 2.15,
-        "range": [
-          52592,
-          56961
-        ],
-        "odds": "4,370%"
-      }
-    },
-    {
-      "skinName": "Supernova",
-      "weaponName": "P250",
-      "skinPriceRange": "4,05PLN",
-      "skinDisplayChance": "1,250%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/6e/6e76c2bc39bd386b8dc16bbbcea72075.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 4.05,
-        "range": [
-          91464,
-          92713
-        ],
-        "odds": "1,250%"
-      }
-    },
-    {
+      "caseDropID": "jJG_yb_d6GDmO42rvD-9g",
+      "globalInvID": "Dr2CsFt7_27eKNgkX4bbE",
       "skinName": "Tacticat",
       "weaponName": "CZ75-Auto",
-      "skinPriceRange": "2,35PLN - 3,75PLN",
-      "skinDisplayChance": "5,406%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a3/a33b8b6427f4649bcac54b2ac8aeb68a.png",
+      "skinPriceRange": "1,60PLN - 6,40PLN",
+      "skinDisplayChance": "2,814%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a3/a33b8b6427f4649bcac54b2ac8aeb68a.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 3.75,
-        "range": [
-          89350,
-          91463
-        ],
-        "odds": "2,114%"
-      }
+      "quality": "FN",
+      "skinPrice": 6.4,
+      "oddsRange": [
+        93450,
+        94326
+      ],
+      "displayOdds": "0,877%"
     },
     {
+      "caseDropID": "nHxGKfZH25LiKBr7JhDRp",
+      "globalInvID": "EYNNV704UvL24t5RvyGya",
       "skinName": "Tacticat",
       "weaponName": "CZ75-Auto",
-      "skinPriceRange": "2,35PLN - 3,75PLN",
-      "skinDisplayChance": "5,406%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a3/a33b8b6427f4649bcac54b2ac8aeb68a.png",
+      "skinPriceRange": "1,60PLN - 6,40PLN",
+      "skinDisplayChance": "2,814%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a3/a33b8b6427f4649bcac54b2ac8aeb68a.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.35,
-        "range": [
-          77989,
-          81280
-        ],
-        "odds": "3,292%"
-      }
+      "quality": "BS",
+      "skinPrice": 1.6,
+      "oddsRange": [
+        73072,
+        75008
+      ],
+      "displayOdds": "1,937%"
     },
     {
-      "skinName": "Exposure",
-      "weaponName": "UMP-45",
-      "skinPriceRange": "2,35PLN - 3,45PLN",
-      "skinDisplayChance": "3,453%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/5c/5c2fb4ae767abfdedcc03114a98e5c82.png",
+      "caseDropID": "tI6wNZhvoLtclRwo--WVj",
+      "globalInvID": "7C-yDb96ASvVjYYfYSs1a",
+      "skinName": "Lionfish",
+      "weaponName": "Negev",
+      "skinPriceRange": "1,25PLN - 5,95PLN",
+      "skinDisplayChance": "6,066%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9a/9a2dc3a09267fa9561b2494adfbf60f3.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 3.45,
-        "range": [
-          88883,
-          89349
-        ],
-        "odds": "0,467%"
-      }
+      "quality": "FN",
+      "skinPrice": 5.95,
+      "oddsRange": [
+        92324,
+        93449
+      ],
+      "displayOdds": "1,126%"
     },
     {
-      "skinName": "Exposure",
-      "weaponName": "UMP-45",
-      "skinPriceRange": "2,35PLN - 3,45PLN",
-      "skinDisplayChance": "3,453%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/5c/5c2fb4ae767abfdedcc03114a98e5c82.png",
+      "caseDropID": "VwLP-obNydfk__itgWd_i",
+      "globalInvID": "F5i5LbQlJvlLRblZGw8Ah",
+      "skinName": "Lionfish",
+      "weaponName": "Negev",
+      "skinPriceRange": "1,25PLN - 5,95PLN",
+      "skinDisplayChance": "6,066%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9a/9a2dc3a09267fa9561b2494adfbf60f3.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.35,
-        "range": [
-          81281,
-          84266
-        ],
-        "odds": "2,986%"
-      }
+      "quality": "MW",
+      "skinPrice": 2.8,
+      "oddsRange": [
+        82433,
+        83186
+      ],
+      "displayOdds": "0,754%"
     },
     {
+      "caseDropID": "AzNc7PKWnbk-9rboNuFbf",
+      "globalInvID": "UyUOYP26Nggitu6e7ZGcC",
+      "skinName": "Lionfish",
+      "weaponName": "Negev",
+      "skinPriceRange": "1,25PLN - 5,95PLN",
+      "skinDisplayChance": "6,066%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9a/9a2dc3a09267fa9561b2494adfbf60f3.png",
+      "skinRarity": "violet",
+      "quality": "BS",
+      "skinPrice": 1.25,
+      "oddsRange": [
+        68886,
+        73071
+      ],
+      "displayOdds": "4,186%"
+    },
+    {
+      "caseDropID": "yAH26yvEnCbR01MNHgBXO",
+      "globalInvID": "Hl9KnT2Tm5-XEIiWD98Zk",
+      "skinName": "Monster Call",
+      "weaponName": "MAG-7",
+      "skinPriceRange": "1,65PLN - 3,95PLN",
+      "skinDisplayChance": "2,929%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d6/d65a53598ca0ce4a9fccaa74d911f084.png",
+      "skinRarity": "violet",
+      "quality": "MW",
+      "skinPrice": 3.95,
+      "oddsRange": [
+        90938,
+        92323
+      ],
+      "displayOdds": "1,386%"
+    },
+    {
+      "caseDropID": "iGysbkYQKpEWKK_1fOKQI",
+      "globalInvID": "d_0Pd_LWEl7h41vsGYI2O",
+      "skinName": "Monster Call",
+      "weaponName": "MAG-7",
+      "skinPriceRange": "1,65PLN - 3,95PLN",
+      "skinDisplayChance": "2,929%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d6/d65a53598ca0ce4a9fccaa74d911f084.png",
+      "skinRarity": "violet",
+      "quality": "BS",
+      "skinPrice": 1.65,
+      "oddsRange": [
+        77197,
+        78739
+      ],
+      "displayOdds": "1,543%"
+    },
+    {
+      "caseDropID": "c6dKl9UzZEFrpcfpEuhuD",
+      "globalInvID": "bNxJd975YHf2S0JtA4TSX",
+      "skinName": "Weasel",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,70PLN - 3,30PLN",
+      "skinDisplayChance": "3,931%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/70/7055d2dc774a6d7cf88820d3f0042206.png",
+      "skinRarity": "violet",
+      "quality": "MW",
+      "skinPrice": 3.3,
+      "oddsRange": [
+        88650,
+        90937
+      ],
+      "displayOdds": "2,288%"
+    },
+    {
+      "caseDropID": "sCCR_VbiiMU0OstcYYma1",
+      "globalInvID": "0OO3ui7gAqWj5Xb9vzeOQ",
+      "skinName": "Weasel",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,70PLN - 3,30PLN",
+      "skinDisplayChance": "3,931%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/70/7055d2dc774a6d7cf88820d3f0042206.png",
+      "skinRarity": "violet",
+      "quality": "FT",
+      "skinPrice": 1.7,
+      "oddsRange": [
+        78740,
+        80382
+      ],
+      "displayOdds": "1,643%"
+    },
+    {
+      "caseDropID": "kne2Mg0BF8_PxohDWeQRV",
+      "globalInvID": "ehIheLby9BPwt_QZe1XPV",
       "skinName": "Arctic Wolf",
       "weaponName": "UMP-45",
-      "skinPriceRange": "3,20PLN",
-      "skinDisplayChance": "1,501%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/19/19283406e0cb565a240b88b2ebbe9732.png",
+      "skinPriceRange": "3,15PLN",
+      "skinDisplayChance": "2,686%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/19/19283406e0cb565a240b88b2ebbe9732.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 3.2,
-        "range": [
-          87382,
-          88882
-        ],
-        "odds": "1,501%"
-      }
+      "quality": "MW",
+      "skinPrice": 3.15,
+      "oddsRange": [
+        85964,
+        88649
+      ],
+      "displayOdds": "2,686%"
     },
     {
-      "skinName": "X-Ray",
-      "weaponName": "P250",
-      "skinPriceRange": "2,80PLN",
-      "skinDisplayChance": "3,115%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/f4/f4ea94184bb5793f7474c3477f7cf6f6.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 2.8,
-        "range": [
-          84267,
-          87381
-        ],
-        "odds": "3,115%"
-      }
-    },
-    {
+      "caseDropID": "-IwX95keRmOBhslknNDUV",
+      "globalInvID": "7ZiIWl1GUGYvQ7wgfv7ZW",
       "skinName": "Firefight",
       "weaponName": "Galil AR",
-      "skinPriceRange": "1,85PLN - 2,15PLN",
-      "skinDisplayChance": "7,788%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/43/4339291436669b431061c2f0388d3f01.png",
+      "skinPriceRange": "1,90PLN - 3,05PLN",
+      "skinDisplayChance": "3,420%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/43/4339291436669b431061c2f0388d3f01.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.15,
-        "range": [
-          68061,
-          74937
-        ],
-        "odds": "6,877%"
-      }
+      "quality": "MW",
+      "skinPrice": 3.05,
+      "oddsRange": [
+        83187,
+        85963
+      ],
+      "displayOdds": "2,777%"
     },
     {
+      "caseDropID": "AKf9X7NDh4OsN2mpqEiyh",
+      "globalInvID": "4fPfGhBTwkKd-JULQ8YIV",
       "skinName": "Firefight",
       "weaponName": "Galil AR",
-      "skinPriceRange": "1,85PLN - 2,15PLN",
-      "skinDisplayChance": "7,788%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/43/4339291436669b431061c2f0388d3f01.png",
+      "skinPriceRange": "1,90PLN - 3,05PLN",
+      "skinDisplayChance": "3,420%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/43/4339291436669b431061c2f0388d3f01.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 1.85,
-        "range": [
-          47980,
-          48890
-        ],
-        "odds": "0,911%"
-      }
+      "quality": "FT",
+      "skinPrice": 1.9,
+      "oddsRange": [
+        81137,
+        81779
+      ],
+      "displayOdds": "0,643%"
     },
     {
+      "caseDropID": "6W39VYvxyq70SDUfBFTf0",
+      "globalInvID": "QpBTz9QbIhbAvTfZ0J8d9",
       "skinName": "Lab Rats",
       "weaponName": "Souvenir MP5-SD",
-      "skinPriceRange": "0,90PLN",
-      "skinDisplayChance": "7,276%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/27/273399f3edbcc3d2d5418b72d46ad2f8.png",
+      "skinPriceRange": "0,55PLN",
+      "skinDisplayChance": "10,987%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/27/273399f3edbcc3d2d5418b72d46ad2f8.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.9,
-        "range": [
-          34845,
-          42120
-        ],
-        "odds": "7,276%"
-      }
+      "quality": "MW",
+      "skinPrice": 0.55,
+      "oddsRange": [
+        13454,
+        24440
+      ],
+      "displayOdds": "10,987%"
     },
     {
-      "skinName": "Flame Test",
-      "weaponName": "Five-SeveN",
-      "skinPriceRange": "1,50PLN",
-      "skinDisplayChance": "5,859%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/8b/8b991e645e373b9b12e0b79d86bd2143.png",
+      "caseDropID": "YRyJuKDmdbriR9wY4Pgar",
+      "globalInvID": "EitEjB7Ge4mhdW1nj26-_",
+      "skinName": "Cocoa Rampage",
+      "weaponName": "P90",
+      "skinPriceRange": "1,65PLN - 2,20PLN",
+      "skinDisplayChance": "2,841%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/64/6450eb85f0b3b549e1d2944e91877851.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 1.5,
-        "range": [
-          42121,
-          47979
-        ],
-        "odds": "5,859%"
-      }
+      "quality": "FT",
+      "skinPrice": 2.2,
+      "oddsRange": [
+        81780,
+        82432
+      ],
+      "displayOdds": "0,653%"
     },
     {
+      "caseDropID": "SoITAhXHQMWTUSS69UaUh",
+      "globalInvID": "q8HYxOgud2FVT91IFNOTe",
+      "skinName": "Cocoa Rampage",
+      "weaponName": "P90",
+      "skinPriceRange": "1,65PLN - 2,20PLN",
+      "skinDisplayChance": "2,841%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/64/6450eb85f0b3b549e1d2944e91877851.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 1.65,
+      "oddsRange": [
+        75009,
+        77196
+      ],
+      "displayOdds": "2,188%"
+    },
+    {
+      "caseDropID": "8VltslRknww9GRF05n01m",
+      "globalInvID": "lpE-dkjdAROW-KYfJZ5HA",
+      "skinName": "Dualing Dragons",
+      "weaponName": "Dual Berettas",
+      "skinPriceRange": "1,85PLN",
+      "skinDisplayChance": "0,754%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7b/7b0ad83f4b9bd5c7aac938ea56321073.png",
+      "skinRarity": "blue",
+      "quality": "MW",
+      "skinPrice": 1.85,
+      "oddsRange": [
+        80383,
+        81136
+      ],
+      "displayOdds": "0,754%"
+    },
+    {
+      "caseDropID": "OyzE3rJOwcBFEGwAmgcCX",
+      "globalInvID": "xQm61OJklVjk5qprlmuAf",
       "skinName": "Sacrifice",
       "weaponName": "Glock-18",
-      "skinPriceRange": "0,70PLN",
-      "skinDisplayChance": "6,608%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
+      "skinPriceRange": "0,60PLN - 1,05PLN",
+      "skinDisplayChance": "10,127%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.7,
-        "range": [
-          28237,
-          34844
-        ],
-        "odds": "6,608%"
-      }
+      "quality": "MW",
+      "skinPrice": 1.05,
+      "oddsRange": [
+        65615,
+        68885
+      ],
+      "displayOdds": "3,271%"
     },
     {
-      "skinName": "Magnesium",
-      "weaponName": "M4A4",
+      "caseDropID": "lqlB4K-Dd6LMdz2fLvVLL",
+      "globalInvID": "SZVzKUKehWirHGKCcFj0U",
+      "skinName": "Sacrifice",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,60PLN - 1,05PLN",
+      "skinDisplayChance": "10,127%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 0.6,
+      "oddsRange": [
+        58759,
+        65614
+      ],
+      "displayOdds": "6,856%"
+    },
+    {
+      "caseDropID": "4wcgZuCCCjDHrOJx2w_w_",
+      "globalInvID": "GxAMo7faeZdQkxwjEwWPy",
+      "skinName": "Snek-9",
+      "weaponName": "Tec-9",
+      "skinPriceRange": "0,60PLN",
+      "skinDisplayChance": "10,559%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/61/615e0aa573804e714bd17809e176e94c.png",
+      "skinRarity": "blue",
+      "quality": "WW",
+      "skinPrice": 0.6,
+      "oddsRange": [
+        48200,
+        58758
+      ],
+      "displayOdds": "10,559%"
+    },
+    {
+      "caseDropID": "0v-82xPgHIjWcZU18zZEm",
+      "globalInvID": "ZyJowcJ3oBrX0UNoTMGec",
+      "skinName": "Scrawl",
+      "weaponName": "Five-SeveN",
       "skinPriceRange": "0,55PLN",
-      "skinDisplayChance": "6,472%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b0/b0a3b4f4eaff2002de26e417f403097c.png",
+      "skinDisplayChance": "11,005%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/54/54fd6a0ed3e4e2a612e13220c58efa09.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.55,
-        "range": [
-          6701,
-          13172
-        ],
-        "odds": "6,472%"
-      }
+      "quality": "MW",
+      "skinPrice": 0.55,
+      "oddsRange": [
+        24441,
+        35445
+      ],
+      "displayOdds": "11,005%"
     },
     {
-      "skinName": "Spectre",
-      "weaponName": "M249",
-      "skinPriceRange": "0,50PLN",
-      "skinDisplayChance": "7,276%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/16/16927f2d320878d88ae08df22892e1e2.png",
+      "caseDropID": "o-lN0o6lCuxRpG86KHkkv",
+      "globalInvID": "TNMPbXQSL_puoHYvM3LOL",
+      "skinName": "Ensnared",
+      "weaponName": "MAC-10",
+      "skinPriceRange": "0,55PLN",
+      "skinDisplayChance": "12,754%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/07/07763b34fb94e85b3de04a598f93f168.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.5,
-        "range": [
-          13173,
-          20448
-        ],
-        "odds": "7,276%"
-      }
+      "quality": "MW",
+      "skinPrice": 0.55,
+      "oddsRange": [
+        35446,
+        48199
+      ],
+      "displayOdds": "12,754%"
     },
     {
-      "skinName": "Oxide Blaze",
-      "weaponName": "XM1014",
+      "caseDropID": "njj-UpAl7w2ZMdVL1uE_Z",
+      "globalInvID": "0HXDiDwPNoQgobqwvkV4N",
+      "skinName": "Circaetus",
+      "weaponName": "CZ75-Auto",
       "skinPriceRange": "0,45PLN",
-      "skinDisplayChance": "6,700%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d4/d46ac0cc854d83fbec9c1b12dc4b88c5.png",
+      "skinDisplayChance": "13,453%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/f4/f465682c5238bfaa26560ed3089e25dc.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 0.45,
-        "range": [
-          1,
-          6700
-        ],
-        "odds": "6,700%"
-      }
-    },
-    {
-      "skinName": "VariCamo",
-      "weaponName": "Galil AR",
-      "skinPriceRange": "0,65PLN",
-      "skinDisplayChance": "7,788%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/70/70124faad5b91c551e8655f2a8fdafe0.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.65,
-        "range": [
-          20449,
-          28236
-        ],
-        "odds": "7,788%"
-      }
+      "quality": "BS",
+      "skinPrice": 0.45,
+      "oddsRange": [
+        1,
+        13453
+      ],
+      "displayOdds": "13,453%"
     }
   ],
-  "imgName": "191.webp",
-  "positionInGrid": 14
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/BEAST.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

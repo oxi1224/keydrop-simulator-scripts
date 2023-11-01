@@ -3,111 +3,122 @@
   "websiteName": "EXPECT",
   "price": 3.5,
   "expired": true,
+  "category": "EXPIRED",
+  "imgName": "https://raw.githubusercontent.com/oxi1224/images/main/EXPECT.webp",
   "drops": [
     {
+      "caseDropID": "K2eXUxfrNgeLBHCEuHWqm",
+      "globalInvID": "NN-uUv_lsa27owvZXjD9f",
       "skinName": "Doppler",
       "weaponName": "Butterfly Knife",
       "skinPriceRange": "7881,60PLN",
       "skinDisplayChance": "0,001%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e9/e994c7e67911dd220eddb01cc3bbf1af.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 7881.6,
-        "range": [
-          100000,
-          100000
-        ],
-        "odds": "0,001%"
-      }
+      "displayChance": "0,001%",
+      "priceRange": "7881,60PLN",
+      "quality": "FN",
+      "skinPrice": 7881.6,
+      "oddsRange": [
+        100000,
+        100000
+      ],
+      "displayOdds": "0,001%"
     },
     {
+      "caseDropID": "VDv5VA3vEFylQRtd4Whzm",
+      "globalInvID": "5Bo3-n76AOihoRkJuR505",
       "skinName": "Gamma Doppler",
       "weaponName": "Flip Knife",
       "skinPriceRange": "2208,70PLN",
       "skinDisplayChance": "0,041%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/95/9511207af7df082bfafa90a0480d386b.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 2208.7,
-        "range": [
-          99959,
-          99999
-        ],
-        "odds": "0,041%"
-      }
+      "displayChance": "0,041%",
+      "priceRange": "2208,70PLN",
+      "quality": "FN",
+      "skinPrice": 2208.7,
+      "oddsRange": [
+        99959,
+        99999
+      ],
+      "displayOdds": "0,041%"
     },
     {
+      "caseDropID": "m-0AJCJ-gTskpHWxPFwaa",
+      "globalInvID": "raBJC_Dzq15tFxnT67vSL",
       "skinName": "Lore",
       "weaponName": "Shadow Daggers",
       "skinPriceRange": "665,25PLN",
       "skinDisplayChance": "0,212%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e4/e4d893e9c89995643a129a104b832ba8.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 665.25,
-        "range": [
-          99747,
-          99958
-        ],
-        "odds": "0,212%"
-      }
+      "displayChance": "0,212%",
+      "priceRange": "665,25PLN",
+      "quality": "FT",
+      "skinPrice": 665.25,
+      "oddsRange": [
+        99747,
+        99958
+      ],
+      "displayOdds": "0,212%"
     },
     {
+      "caseDropID": "EiIEJ--jwgEDwfcefFaEi",
+      "globalInvID": "PmOh_bScdo_cz3Nmc4Bq_",
       "skinName": "Chromatic Aberration",
       "weaponName": "AWP",
       "skinPriceRange": "137,65PLN",
       "skinDisplayChance": "0,311%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9b/9b2888bbd80842acf8487acaa9ed1340.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 137.65,
-        "range": [
-          99436,
-          99746
-        ],
-        "odds": "0,311%"
-      }
+      "displayChance": "0,311%",
+      "priceRange": "137,65PLN",
+      "quality": "FT",
+      "skinPrice": 137.65,
+      "oddsRange": [
+        99436,
+        99746
+      ],
+      "displayOdds": "0,311%"
     },
     {
+      "caseDropID": "qmVlQ74sh69Du9ONnU1vn",
+      "globalInvID": "Rs7jZVEvelbo7MmfNjoNW",
       "skinName": "Visions",
       "weaponName": "P250",
       "skinPriceRange": "31,50PLN",
       "skinDisplayChance": "0,519%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ec/ec77198497c97067cdf8740b44a38326.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 31.5,
-        "range": [
-          98917,
-          99435
-        ],
-        "odds": "0,519%"
-      }
+      "displayChance": "0,519%",
+      "priceRange": "31,50PLN",
+      "quality": "FT",
+      "skinPrice": 31.5,
+      "oddsRange": [
+        98917,
+        99435
+      ],
+      "displayOdds": "0,519%"
     },
     {
+      "caseDropID": "TgGxm5AJEhq1wZm6zAvUs",
+      "globalInvID": "X35Is2-ifs9zTUWRN2BBA",
       "skinName": "Mandrel",
       "weaponName": "Nova",
       "skinPriceRange": "0,15PLN",
       "skinDisplayChance": "98,916%",
       "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b2/b2ed048563ecb4978f5099e5106e4699.png",
       "skinRarity": "gray",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.15,
-        "range": [
-          1,
-          98916
-        ],
-        "odds": "98,916%"
-      }
+      "displayChance": "98,916%",
+      "priceRange": "0,15PLN",
+      "quality": "MW",
+      "skinPrice": 0.15,
+      "oddsRange": [
+        1,
+        98916
+      ],
+      "displayOdds": "98,916%"
     }
-  ],
-  "href": "/skins/category/expect",
-  "imgName": "EXPECT.webp",
-  "category": "EXPIRED"
+  ]
 }

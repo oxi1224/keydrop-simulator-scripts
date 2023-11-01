@@ -1,78 +1,79 @@
 {
   "urlName": "daggers",
   "websiteName": "DAGGERS",
-  "price": 2.4,
-  "expired": false,
+  "price": 3,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "CKWqvnGvY722pIly4X53Z",
+      "globalInvID": "MgMcLnHrQalEi3vELiOaC",
       "skinName": "Lore",
       "weaponName": "Shadow Daggers",
-      "skinPriceRange": "665,25PLN",
-      "skinDisplayChance": "0,160%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/09/0962cc22b4dfc6e30845496b6a5a179e.png",
+      "skinPriceRange": "1129,70PLN",
+      "skinDisplayChance": "0,125%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/09/0962cc22b4dfc6e30845496b6a5a179e.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 665.25,
-        "range": [
-          99841,
-          100000
-        ],
-        "odds": "0,160%"
-      }
+      "quality": "MW",
+      "skinPrice": 1129.7,
+      "oddsRange": [
+        99876,
+        100000
+      ],
+      "displayOdds": "0,125%"
     },
     {
-      "skinName": "Nightwish",
+      "caseDropID": "xcLuAEA0omIZhn9AHgE9R",
+      "globalInvID": "EGvewty-UikagSQnUtYC-",
+      "skinName": "The Empress",
       "weaponName": "AK-47",
-      "skinPriceRange": "54,10PLN",
-      "skinDisplayChance": "0,550%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ca/ca34694078a46033a78a495e87a91e79.png",
+      "skinPriceRange": "144,20PLN",
+      "skinDisplayChance": "0,360%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/04/04c876c4aab732feb859d89efb69b30b.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 54.1,
-        "range": [
-          99291,
-          99840
-        ],
-        "odds": "0,550%"
-      }
+      "quality": "FT",
+      "skinPrice": 144.2,
+      "oddsRange": [
+        99516,
+        99875
+      ],
+      "displayOdds": "0,360%"
     },
     {
+      "caseDropID": "Lf1tBQt97wG662UpQVdku",
+      "globalInvID": "D8jPvjPPFPd-jFzObaxuU",
       "skinName": "Cyber Security",
       "weaponName": "M4A4",
-      "skinPriceRange": "54,30PLN",
-      "skinDisplayChance": "0,290%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a5/a5a642c7fe34d91ae72968e4ce0dd5c9.png",
+      "skinPriceRange": "91,80PLN",
+      "skinDisplayChance": "0,515%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a5/a5a642c7fe34d91ae72968e4ce0dd5c9.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 54.3,
-        "range": [
-          99001,
-          99290
-        ],
-        "odds": "0,290%"
-      }
+      "quality": "FT",
+      "skinPrice": 91.8,
+      "oddsRange": [
+        99001,
+        99515
+      ],
+      "displayOdds": "0,515%"
     },
     {
+      "caseDropID": "38is78j_6AU3hn-LC5ba6",
+      "globalInvID": "oKwxeAzlZrcLi0_o7ta34",
       "skinName": "Runic",
       "weaponName": "PP-Bizon",
-      "skinPriceRange": "0,65PLN",
+      "skinPriceRange": "0,30PLN",
       "skinDisplayChance": "99,000%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b0/b0967c40b0dc243e0239a1430e55a36c.png",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b0/b0967c40b0dc243e0239a1430e55a36c.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.65,
-        "range": [
-          1,
-          99000
-        ],
-        "odds": "99,000%"
-      }
+      "quality": "FT",
+      "skinPrice": 0.3,
+      "oddsRange": [
+        1,
+        99000
+      ],
+      "displayOdds": "99,000%"
     }
   ],
-  "imgName": "DAGGERS.webp",
-  "positionInGrid": 1
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/DAGGERS1.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

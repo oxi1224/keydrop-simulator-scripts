@@ -2,43 +2,44 @@
   "urlName": "swap",
   "websiteName": "SWAP",
   "price": 15.8,
-  "expired": false,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "D6OwCMpkywL49zvlVdKH6",
+      "globalInvID": "Y7HZYqz7GF9PGplnFYWq8",
       "skinName": "Lore",
       "weaponName": "Shadow Daggers",
-      "skinPriceRange": "583,90PLN",
-      "skinDisplayChance": "2,400%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/09/0962cc22b4dfc6e30845496b6a5a179e.png",
+      "skinPriceRange": "748,35PLN",
+      "skinDisplayChance": "1,883%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/09/0962cc22b4dfc6e30845496b6a5a179e.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 583.9,
-        "range": [
-          97601,
-          100000
-        ],
-        "odds": "2,400%"
-      }
+      "quality": "BS",
+      "skinPrice": 748.35,
+      "oddsRange": [
+        98118,
+        100000
+      ],
+      "displayOdds": "1,883%"
     },
     {
+      "caseDropID": "3YQBQJqAhbnmgjighODDY",
+      "globalInvID": "ObN9i39VNQxJJxFdGl7ay",
       "skinName": "Coolant",
       "weaponName": "Five-SeveN",
-      "skinPriceRange": "0,30PLN",
-      "skinDisplayChance": "97,600%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/6e/6ecc89010d440265e3e2a71aeb9c0a25.png",
+      "skinPriceRange": "0,25PLN",
+      "skinDisplayChance": "98,117%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/6e/6ecc89010d440265e3e2a71aeb9c0a25.png",
       "skinRarity": "gray",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 0.3,
-        "range": [
-          1,
-          97600
-        ],
-        "odds": "97,600%"
-      }
+      "quality": "FN",
+      "skinPrice": 0.25,
+      "oddsRange": [
+        1,
+        98117
+      ],
+      "displayOdds": "98,117%"
     }
   ],
-  "imgName": "SWAP.webp",
-  "positionInGrid": 5
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/SWAP1.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

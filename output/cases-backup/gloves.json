@@ -2,1114 +2,1013 @@
   "urlName": "gloves",
   "websiteName": "GLOVES",
   "price": 635.4,
-  "expired": false,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "2tI7Oopf5MVsqgbiJCT5W",
+      "globalInvID": "X0fGGAyC7qydm770sdhqy",
+      "skinName": "Emerald Web",
+      "weaponName": "Specialist Gloves",
+      "skinPriceRange": "1881,05PLN - 12892,55PLN",
+      "skinDisplayChance": "2,804%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fd/fd16422f96bddce07a1c595a58f41fa6.png",
+      "skinRarity": "gold",
+      "quality": "MW",
+      "skinPrice": 12892.55,
+      "oddsRange": [
+        99896,
+        100000
+      ],
+      "displayOdds": "0,105%"
+    },
+    {
+      "caseDropID": "xFDpHMfzmR6WKYkofwRmy",
+      "globalInvID": "Ge1uys-iA-D4QUmY_URbT",
+      "skinName": "Emerald Web",
+      "weaponName": "Specialist Gloves",
+      "skinPriceRange": "1881,05PLN - 12892,55PLN",
+      "skinDisplayChance": "2,804%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fd/fd16422f96bddce07a1c595a58f41fa6.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 2967.5,
+      "oddsRange": [
+        97886,
+        98410
+      ],
+      "displayOdds": "0,525%"
+    },
+    {
+      "caseDropID": "DR-_cr61vHjvgBzTdPFc6",
+      "globalInvID": "lKoGTQR0mBHz5Cb0ehPO1",
+      "skinName": "Emerald Web",
+      "weaponName": "Specialist Gloves",
+      "skinPriceRange": "1881,05PLN - 12892,55PLN",
+      "skinDisplayChance": "2,804%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fd/fd16422f96bddce07a1c595a58f41fa6.png",
+      "skinRarity": "gold",
+      "quality": "BS",
+      "skinPrice": 1881.05,
+      "oddsRange": [
+        94429,
+        96602
+      ],
+      "displayOdds": "2,174%"
+    },
+    {
+      "caseDropID": "fFoP2LW5RQX8HaVHNgMXu",
+      "globalInvID": "0T_LRBsUfz5l6HxEv9WLn",
       "skinName": "Superconductor",
       "weaponName": "Sport Gloves",
-      "skinPriceRange": "9671,55PLN",
-      "skinDisplayChance": "0,286%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/82/82f0687cf1c451211d1cc9ab6562d7fd.png",
+      "skinPriceRange": "12834,40PLN",
+      "skinDisplayChance": "0,034%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/82/82f0687cf1c451211d1cc9ab6562d7fd.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 9671.55,
-        "range": [
-          99715,
-          100000
-        ],
-        "odds": "0,286%"
-      }
+      "quality": "FT",
+      "skinPrice": 12834.4,
+      "oddsRange": [
+        99862,
+        99895
+      ],
+      "displayOdds": "0,034%"
     },
     {
-      "skinName": "King Snake",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "9371,25PLN",
-      "skinDisplayChance": "0,212%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9e/9ecf3debd1ef9c218f4cb7fa42509297.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 9371.25,
-        "range": [
-          99503,
-          99714
-        ],
-        "odds": "0,212%"
-      }
-    },
-    {
-      "skinName": "Emerald Web",
-      "weaponName": "Specialist Gloves",
-      "skinPriceRange": "1429,60PLN - 9345,85PLN",
-      "skinDisplayChance": "0,846%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fd/fd16422f96bddce07a1c595a58f41fa6.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 9345.85,
-        "range": [
-          99230,
-          99502
-        ],
-        "odds": "0,273%"
-      }
-    },
-    {
-      "skinName": "Emerald Web",
-      "weaponName": "Specialist Gloves",
-      "skinPriceRange": "1429,60PLN - 9345,85PLN",
-      "skinDisplayChance": "0,846%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fd/fd16422f96bddce07a1c595a58f41fa6.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 2332.8,
-        "range": [
-          98880,
-          98918
-        ],
-        "odds": "0,039%"
-      }
-    },
-    {
-      "skinName": "Emerald Web",
-      "weaponName": "Specialist Gloves",
-      "skinPriceRange": "1429,60PLN - 9345,85PLN",
-      "skinDisplayChance": "0,846%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fd/fd16422f96bddce07a1c595a58f41fa6.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 1429.6,
-        "range": [
-          97741,
-          98274
-        ],
-        "odds": "0,534%"
-      }
-    },
-    {
+      "caseDropID": "k69onD-I1CFmO2ziYgY38",
+      "globalInvID": "YSn61seXMtqBrYC83rT29",
       "skinName": "Hedge Maze",
       "weaponName": "Sport Gloves",
-      "skinPriceRange": "7865,55PLN",
-      "skinDisplayChance": "0,017%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/22/229c7dafcc7f430765352b8908e69172.png",
+      "skinPriceRange": "10146,70PLN",
+      "skinDisplayChance": "0,213%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/22/229c7dafcc7f430765352b8908e69172.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 7865.55,
-        "range": [
-          99213,
-          99229
-        ],
-        "odds": "0,017%"
-      }
+      "quality": "WW",
+      "skinPrice": 10146.7,
+      "oddsRange": [
+        99649,
+        99861
+      ],
+      "displayOdds": "0,213%"
     },
     {
+      "caseDropID": "bCvIuiSgtabNzp0JL51f0",
+      "globalInvID": "CNiyy2ev8QkVIIzSYLuX2",
+      "skinName": "King Snake",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "9603,00PLN",
+      "skinDisplayChance": "0,037%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9e/9ecf3debd1ef9c218f4cb7fa42509297.png",
+      "skinRarity": "gold",
+      "quality": "MW",
+      "skinPrice": 9603,
+      "oddsRange": [
+        99612,
+        99648
+      ],
+      "displayOdds": "0,037%"
+    },
+    {
+      "caseDropID": "7HonREJ8YiTrNjFeqViuo",
+      "globalInvID": "G5jFciw8L7rhRHQzXPlij",
       "skinName": "Vice",
       "weaponName": "Sport Gloves",
-      "skinPriceRange": "6712,95PLN",
-      "skinDisplayChance": "0,154%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/97/97707c4600fc97decdac711ca8a2caa1.png",
+      "skinPriceRange": "7207,25PLN",
+      "skinDisplayChance": "0,565%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/97/97707c4600fc97decdac711ca8a2caa1.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 6712.95,
-        "range": [
-          99059,
-          99212
-        ],
-        "odds": "0,154%"
-      }
+      "quality": "WW",
+      "skinPrice": 7207.25,
+      "oddsRange": [
+        99047,
+        99611
+      ],
+      "displayOdds": "0,565%"
     },
     {
-      "skinName": "Amphibious",
-      "weaponName": "Sport Gloves",
-      "skinPriceRange": "3946,45PLN",
-      "skinDisplayChance": "0,011%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c0/c08275849c877832e3b76e2e680ccbd1.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 3946.45,
-        "range": [
-          99048,
-          99058
-        ],
-        "odds": "0,011%"
-      }
-    },
-    {
+      "caseDropID": "cfjfov9GhDH9LaBVsIZLf",
+      "globalInvID": "59j9N9sFlWsJ0uit0nfIw",
       "skinName": "Crimson Kimono",
       "weaponName": "Specialist Gloves",
-      "skinPriceRange": "3329,30PLN",
-      "skinDisplayChance": "0,028%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/78/780b30adb988e51ca232dc9942e32620.png",
+      "skinPriceRange": "4342,45PLN",
+      "skinDisplayChance": "0,219%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/78/780b30adb988e51ca232dc9942e32620.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 3329.3,
-        "range": [
-          99020,
-          99047
-        ],
-        "odds": "0,028%"
-      }
+      "quality": "BS",
+      "skinPrice": 4342.45,
+      "oddsRange": [
+        98828,
+        99046
+      ],
+      "displayOdds": "0,219%"
     },
     {
+      "caseDropID": "hKAHt5IRHoqANwWWwIGBk",
+      "globalInvID": "BmHyFvxCmupFLAsp2Cc98",
+      "skinName": "Amphibious",
+      "weaponName": "Sport Gloves",
+      "skinPriceRange": "4154,15PLN",
+      "skinDisplayChance": "0,417%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c0/c08275849c877832e3b76e2e680ccbd1.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 4154.15,
+      "oddsRange": [
+        98411,
+        98827
+      ],
+      "displayOdds": "0,417%"
+    },
+    {
+      "caseDropID": "MnBB2miLIq5vfln_0TR93",
+      "globalInvID": "R-BiRCRDpwvCbpX708ejr",
       "skinName": "Arid",
       "weaponName": "Sport Gloves",
-      "skinPriceRange": "2367,60PLN",
-      "skinDisplayChance": "0,101%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/bc/bc0fdb9493ca03bbf80b2b8cb36f3e56.png",
+      "skinPriceRange": "2720,00PLN",
+      "skinDisplayChance": "0,324%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/bc/bc0fdb9493ca03bbf80b2b8cb36f3e56.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 2367.6,
-        "range": [
-          98919,
-          99019
-        ],
-        "odds": "0,101%"
-      }
+      "quality": "WW",
+      "skinPrice": 2720,
+      "oddsRange": [
+        97562,
+        97885
+      ],
+      "displayOdds": "0,324%"
     },
     {
-      "skinName": "Cobalt Skulls",
-      "weaponName": "Hand Wraps",
-      "skinPriceRange": "2107,50PLN",
-      "skinDisplayChance": "0,005%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4d/4d766dc424b7e85dde46314bd773048a.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 2107.5,
-        "range": [
-          98875,
-          98879
-        ],
-        "odds": "0,005%"
-      }
-    },
-    {
+      "caseDropID": "md968RTAjaCDRHmwsykrQ",
+      "globalInvID": "HN4M-ARThNL8lfvcwROBz",
       "skinName": "Omega",
       "weaponName": "Sport Gloves",
-      "skinPriceRange": "2030,15PLN",
-      "skinDisplayChance": "0,096%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a3/a3c81c44f62e612f2e6cfe8706daeeb0.png",
+      "skinPriceRange": "2142,15PLN",
+      "skinDisplayChance": "0,532%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a3/a3c81c44f62e612f2e6cfe8706daeeb0.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 2030.15,
-        "range": [
-          98779,
-          98874
-        ],
-        "odds": "0,096%"
-      }
+      "quality": "BS",
+      "skinPrice": 2142.15,
+      "oddsRange": [
+        97030,
+        97561
+      ],
+      "displayOdds": "0,532%"
     },
     {
+      "caseDropID": "D_arn1kiCQkj7nOe3MzQw",
+      "globalInvID": "_mT3AQtUB0-2sqbeL134Z",
+      "skinName": "Cobalt Skulls",
+      "weaponName": "Hand Wraps",
+      "skinPriceRange": "2089,50PLN",
+      "skinDisplayChance": "0,427%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/4d/4d766dc424b7e85dde46314bd773048a.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 2089.5,
+      "oddsRange": [
+        96603,
+        97029
+      ],
+      "displayOdds": "0,427%"
+    },
+    {
+      "caseDropID": "o_a8cuBUdbQ4cANzo3U01",
+      "globalInvID": "XdiS_JiVaSGRXkjgbxnYU",
       "skinName": "Spearmint",
       "weaponName": "Moto Gloves",
-      "skinPriceRange": "1496,25PLN",
-      "skinDisplayChance": "0,504%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/84/843546c017728f560a012eb6f21717a3.png",
+      "skinPriceRange": "1801,15PLN",
+      "skinDisplayChance": "0,565%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/84/843546c017728f560a012eb6f21717a3.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 1496.25,
-        "range": [
-          98275,
-          98778
-        ],
-        "odds": "0,504%"
-      }
+      "quality": "BS",
+      "skinPrice": 1801.15,
+      "oddsRange": [
+        93864,
+        94428
+      ],
+      "displayOdds": "0,565%"
     },
     {
-      "skinName": "Fade",
-      "weaponName": "Specialist Gloves",
-      "skinPriceRange": "757,15PLN - 1293,80PLN",
-      "skinDisplayChance": "3,730%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c7/c7df1b1c3fb399497be43e1b05bd6bfc.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 1293.8,
-        "range": [
-          97540,
-          97740
-        ],
-        "odds": "0,201%"
-      }
-    },
-    {
-      "skinName": "Fade",
-      "weaponName": "Specialist Gloves",
-      "skinPriceRange": "757,15PLN - 1293,80PLN",
-      "skinDisplayChance": "3,730%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c7/c7df1b1c3fb399497be43e1b05bd6bfc.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 757.15,
-        "range": [
-          86043,
-          89571
-        ],
-        "odds": "3,529%"
-      }
-    },
-    {
-      "skinName": "Mogul",
-      "weaponName": "Specialist Gloves",
-      "skinPriceRange": "1273,30PLN",
-      "skinDisplayChance": "1,219%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/86/86884a3c79cef239d41af24f4629e245.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 1273.3,
-        "range": [
-          96321,
-          97539
-        ],
-        "odds": "1,219%"
-      }
-    },
-    {
+      "caseDropID": "C60Sks7XuDbfL4JraJu8Q",
+      "globalInvID": "rshdjoGT2RQ7okuf5VoXu",
       "skinName": "Slaughter",
       "weaponName": "Hand Wraps",
-      "skinPriceRange": "1252,35PLN",
-      "skinDisplayChance": "1,287%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/54/54e470219572d46de484d82ea2484b1c.png",
+      "skinPriceRange": "1384,40PLN",
+      "skinDisplayChance": "0,356%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/54/54e470219572d46de484d82ea2484b1c.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 1252.35,
-        "range": [
-          95034,
-          96320
-        ],
-        "odds": "1,287%"
-      }
+      "quality": "FT",
+      "skinPrice": 1384.4,
+      "oddsRange": [
+        93508,
+        93863
+      ],
+      "displayOdds": "0,356%"
     },
     {
-      "skinName": "Overprint",
-      "weaponName": "Hand Wraps",
-      "skinPriceRange": "1228,40PLN",
-      "skinDisplayChance": "0,441%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/5b/5bab3cda3939b795954134b86a3b4b5a.png",
+      "caseDropID": "fRNLR_G4vMS6o3xTSxWtV",
+      "globalInvID": "Ap4cKOZyed6T-y-9OO41t",
+      "skinName": "Fade",
+      "weaponName": "Specialist Gloves",
+      "skinPriceRange": "788,80PLN - 1374,60PLN",
+      "skinDisplayChance": "0,433%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c7/c7df1b1c3fb399497be43e1b05bd6bfc.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 1228.4,
-        "range": [
-          94593,
-          95033
-        ],
-        "odds": "0,441%"
-      }
+      "quality": "WW",
+      "skinPrice": 1374.6,
+      "oddsRange": [
+        93376,
+        93507
+      ],
+      "displayOdds": "0,132%"
     },
     {
+      "caseDropID": "M4qBPJGIQeRXf57Z367lz",
+      "globalInvID": "tGFxIDSE3-RDs10axVc8T",
+      "skinName": "Fade",
+      "weaponName": "Specialist Gloves",
+      "skinPriceRange": "788,80PLN - 1374,60PLN",
+      "skinDisplayChance": "0,433%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c7/c7df1b1c3fb399497be43e1b05bd6bfc.png",
+      "skinRarity": "gold",
+      "quality": "BS",
+      "skinPrice": 788.8,
+      "oddsRange": [
+        89164,
+        89464
+      ],
+      "displayOdds": "0,301%"
+    },
+    {
+      "caseDropID": "nkwqBc5azkDOT_-7qX7JW",
+      "globalInvID": "7cJLJDBfQf6xYAtLLo15n",
+      "skinName": "Mogul",
+      "weaponName": "Specialist Gloves",
+      "skinPriceRange": "1261,50PLN",
+      "skinDisplayChance": "0,258%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/86/86884a3c79cef239d41af24f4629e245.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 1261.5,
+      "oddsRange": [
+        93118,
+        93375
+      ],
+      "displayOdds": "0,258%"
+    },
+    {
+      "caseDropID": "laxztku3MFRhDOcw3Wz94",
+      "globalInvID": "SdFjM5vu3Oa9VgrkL_4sz",
       "skinName": "Imperial Plaid",
       "weaponName": "Driver Gloves",
-      "skinPriceRange": "1082,30PLN",
-      "skinDisplayChance": "0,465%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/bc/bc7456a015c869fa0f056c7bea043f4f.png",
+      "skinPriceRange": "1240,70PLN",
+      "skinDisplayChance": "0,365%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d1/d16ffbaf1c26f97fe0955601c487b19b.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 1082.3,
-        "range": [
-          94128,
-          94592
-        ],
-        "odds": "0,465%"
-      }
+      "quality": "BS",
+      "skinPrice": 1240.7,
+      "oddsRange": [
+        92753,
+        93117
+      ],
+      "displayOdds": "0,365%"
     },
     {
-      "skinName": "Polygon",
-      "weaponName": "Moto Gloves",
-      "skinPriceRange": "984,45PLN",
-      "skinDisplayChance": "0,626%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d0/d040ea806af46bda5b2d6e9a70cab4f8.png",
+      "caseDropID": "V2dseO-o3j4rz8WxZWAcL",
+      "globalInvID": "ZXJ4THBe5wkkRF7-4yUrw",
+      "skinName": "Overprint",
+      "weaponName": "Hand Wraps",
+      "skinPriceRange": "1174,80PLN",
+      "skinDisplayChance": "0,665%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/5b/5bab3cda3939b795954134b86a3b4b5a.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 984.45,
-        "range": [
-          93502,
-          94127
-        ],
-        "odds": "0,626%"
-      }
+      "quality": "WW",
+      "skinPrice": 1174.8,
+      "oddsRange": [
+        92088,
+        92752
+      ],
+      "displayOdds": "0,665%"
     },
     {
-      "skinName": "Turtle",
-      "weaponName": "Moto Gloves",
-      "skinPriceRange": "953,05PLN",
-      "skinDisplayChance": "0,592%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fc/fc7c1daf7f04508b02e46a5913e3c45b.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 953.05,
-        "range": [
-          92910,
-          93501
-        ],
-        "odds": "0,592%"
-      }
-    },
-    {
-      "skinName": "Bronze Morph",
-      "weaponName": "Sport Gloves",
-      "skinPriceRange": "866,50PLN",
-      "skinDisplayChance": "1,378%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d9/d93526f630b1e92992f2fbc070ec56f4.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 866.5,
-        "range": [
-          91532,
-          92909
-        ],
-        "odds": "1,378%"
-      }
-    },
-    {
+      "caseDropID": "MWKObkFjETHDWAngLqgXb",
+      "globalInvID": "maBsgIoT2HvTDQceyXS0Q",
       "skinName": "Crimson Weave",
       "weaponName": "Driver Gloves",
-      "skinPriceRange": "862,30PLN",
-      "skinDisplayChance": "0,577%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/59/59364d9989ff3d98ec7d148e22cc7bcc.png",
+      "skinPriceRange": "971,35PLN",
+      "skinDisplayChance": "0,386%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/59/59364d9989ff3d98ec7d148e22cc7bcc.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 862.3,
-        "range": [
-          90955,
-          91531
-        ],
-        "odds": "0,577%"
-      }
+      "quality": "BS",
+      "skinPrice": 971.35,
+      "oddsRange": [
+        91702,
+        92087
+      ],
+      "displayOdds": "0,386%"
     },
     {
+      "caseDropID": "mDTsI2gp34fuAczHs1_Va",
+      "globalInvID": "CzXeEK3mJYPz-BbDHJ25X",
+      "skinName": "Polygon",
+      "weaponName": "Moto Gloves",
+      "skinPriceRange": "933,05PLN",
+      "skinDisplayChance": "0,287%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d0/d040ea806af46bda5b2d6e9a70cab4f8.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 933.05,
+      "oddsRange": [
+        91415,
+        91701
+      ],
+      "displayOdds": "0,287%"
+    },
+    {
+      "caseDropID": "t8sxEOZ-qceDwSPaYRneC",
+      "globalInvID": "BUGUy-n7iXAQJBiWVldFx",
+      "skinName": "Turtle",
+      "weaponName": "Moto Gloves",
+      "skinPriceRange": "932,90PLN",
+      "skinDisplayChance": "0,653%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fc/fc7c1daf7f04508b02e46a5913e3c45b.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 932.9,
+      "oddsRange": [
+        90762,
+        91414
+      ],
+      "displayOdds": "0,653%"
+    },
+    {
+      "caseDropID": "ElP1lrPq5wKMWIS8ML24c",
+      "globalInvID": "78g0nA2B_ZNJSa8c6k7EW",
+      "skinName": "Bronze Morph",
+      "weaponName": "Sport Gloves",
+      "skinPriceRange": "892,00PLN",
+      "skinDisplayChance": "0,765%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d9/d93526f630b1e92992f2fbc070ec56f4.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 892,
+      "oddsRange": [
+        89997,
+        90761
+      ],
+      "displayOdds": "0,765%"
+    },
+    {
+      "caseDropID": "iNm8ZaUeGmJ2NSfJQRRi8",
+      "globalInvID": "FI8yExxEOKMzMOJdX7vsL",
       "skinName": "Leather",
       "weaponName": "Hand Wraps",
-      "skinPriceRange": "812,45PLN",
-      "skinDisplayChance": "1,383%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/68/68d9c6170311f1ccc898eede9fa591bc.png",
+      "skinPriceRange": "858,80PLN",
+      "skinDisplayChance": "0,532%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/68/68d9c6170311f1ccc898eede9fa591bc.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 812.45,
-        "range": [
-          89572,
-          90954
-        ],
-        "odds": "1,383%"
-      }
+      "quality": "FT",
+      "skinPrice": 858.8,
+      "oddsRange": [
+        89465,
+        89996
+      ],
+      "displayOdds": "0,532%"
     },
     {
+      "caseDropID": "pmtBYzIHqEC-MSGbC2cGs",
+      "globalInvID": "754q3qr9lHt78VadyvT-S",
       "skinName": "Foundation",
       "weaponName": "Specialist Gloves",
-      "skinPriceRange": "750,25PLN",
-      "skinDisplayChance": "0,725%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c7/c7701bbd020ccc6b1afee31a51744a17.png",
+      "skinPriceRange": "784,45PLN",
+      "skinDisplayChance": "0,453%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c7/c7701bbd020ccc6b1afee31a51744a17.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 750.25,
-        "range": [
-          85318,
-          86042
-        ],
-        "odds": "0,725%"
-      }
+      "quality": "BS",
+      "skinPrice": 784.45,
+      "oddsRange": [
+        88711,
+        89163
+      ],
+      "displayOdds": "0,453%"
     },
     {
+      "caseDropID": "BEM0g1tBOEBwsbbDMSCAS",
+      "globalInvID": "A7ZeAOGL3wRx5bYQIHS7F",
+      "skinName": "Diamondback",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "626,85PLN - 779,75PLN",
+      "skinDisplayChance": "0,599%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/25651ecb6a45e352f2329f202fd71722.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 779.75,
+      "oddsRange": [
+        88488,
+        88710
+      ],
+      "displayOdds": "0,223%"
+    },
+    {
+      "caseDropID": "Ti1Mq41Tjut7rkxrr0mbN",
+      "globalInvID": "CYuJ14NqnL1BCTLIjTu01",
+      "skinName": "Diamondback",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "626,85PLN - 779,75PLN",
+      "skinDisplayChance": "0,599%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/25651ecb6a45e352f2329f202fd71722.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 626.85,
+      "oddsRange": [
+        86037,
+        86412
+      ],
+      "displayOdds": "0,376%"
+    },
+    {
+      "caseDropID": "kikqtt_CHCLrMgew1EBeN",
+      "globalInvID": "dkHkkZivcvqVrY9HsoirU",
+      "skinName": "Convoy",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "402,25PLN - 770,55PLN",
+      "skinDisplayChance": "2,834%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
+      "skinRarity": "gold",
+      "quality": "MW",
+      "skinPrice": 770.55,
+      "oddsRange": [
+        88256,
+        88487
+      ],
+      "displayOdds": "0,232%"
+    },
+    {
+      "caseDropID": "6dGP_aWPnkIQZcon8Ub8-",
+      "globalInvID": "OuhkPdp-SDeMaieGD2Bx8",
+      "skinName": "Convoy",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "402,25PLN - 770,55PLN",
+      "skinDisplayChance": "2,834%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 420,
+      "oddsRange": [
+        78593,
+        79743
+      ],
+      "displayOdds": "1,151%"
+    },
+    {
+      "caseDropID": "1QVcl89P9gHa7JfJf1es2",
+      "globalInvID": "Zn2tvaz6_Jsx26f7-Sx7m",
+      "skinName": "Convoy",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "402,25PLN - 770,55PLN",
+      "skinDisplayChance": "2,834%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 402.25,
+      "oddsRange": [
+        75610,
+        77060
+      ],
+      "displayOdds": "1,451%"
+    },
+    {
+      "caseDropID": "xIi6bVJ_lMkk4dJOrpGiW",
+      "globalInvID": "FeuFllnYJQAxoXKlDmuyr",
       "skinName": "Crimson Web",
       "weaponName": "Specialist Gloves",
-      "skinPriceRange": "700,50PLN",
-      "skinDisplayChance": "1,305%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/14/14c21ec965392c7a2453727a58e5e75f.png",
+      "skinPriceRange": "736,90PLN",
+      "skinDisplayChance": "0,452%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/14/14c21ec965392c7a2453727a58e5e75f.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 700.5,
-        "range": [
-          84013,
-          85317
-        ],
-        "odds": "1,305%"
-      }
+      "quality": "BS",
+      "skinPrice": 736.9,
+      "oddsRange": [
+        87804,
+        88255
+      ],
+      "displayOdds": "0,452%"
     },
     {
-      "skinName": "Diamondback",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "420,35PLN - 679,05PLN",
-      "skinDisplayChance": "4,963%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/25/25651ecb6a45e352f2329f202fd71722.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 679.05,
-        "range": [
-          83438,
-          84012
-        ],
-        "odds": "0,575%"
-      }
-    },
-    {
-      "skinName": "Diamondback",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "420,35PLN - 679,05PLN",
-      "skinDisplayChance": "4,963%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/25/25651ecb6a45e352f2329f202fd71722.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 572.55,
-        "range": [
-          77705,
-          79357
-        ],
-        "odds": "1,653%"
-      }
-    },
-    {
-      "skinName": "Diamondback",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "420,35PLN - 679,05PLN",
-      "skinDisplayChance": "4,963%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/25/25651ecb6a45e352f2329f202fd71722.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 420.35,
-        "range": [
-          53122,
-          55856
-        ],
-        "odds": "2,735%"
-      }
-    },
-    {
-      "skinName": "Cool Mint",
-      "weaponName": "Moto Gloves",
-      "skinPriceRange": "672,25PLN",
-      "skinDisplayChance": "0,571%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/98/982c5072ab2cb0cc40f4978b31cbb4b9.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 672.25,
-        "range": [
-          82867,
-          83437
-        ],
-        "odds": "0,571%"
-      }
-    },
-    {
+      "caseDropID": "gbnJ5cRw5hFc_2RAvLhcm",
+      "globalInvID": "1GGmRMLPjg3qXED76OaRl",
       "skinName": "Lunar Weave",
       "weaponName": "Driver Gloves",
-      "skinPriceRange": "627,90PLN",
-      "skinDisplayChance": "1,271%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e1/e1b283a60d1d2159044e5e1f3767f2c6.png",
+      "skinPriceRange": "729,55PLN",
+      "skinDisplayChance": "0,466%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e1/e1b283a60d1d2159044e5e1f3767f2c6.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 627.9,
-        "range": [
-          81596,
-          82866
-        ],
-        "odds": "1,271%"
-      }
+      "quality": "WW",
+      "skinPrice": 729.55,
+      "oddsRange": [
+        87338,
+        87803
+      ],
+      "displayOdds": "0,466%"
     },
     {
-      "skinName": "Convoy",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "353,30PLN - 600,20PLN",
-      "skinDisplayChance": "8,304%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
+      "caseDropID": "FSt6ho8cajBbKbZLFyhFw",
+      "globalInvID": "DXAmf-8yZiW4cp8FkfP87",
+      "skinName": "Cool Mint",
+      "weaponName": "Moto Gloves",
+      "skinPriceRange": "727,80PLN",
+      "skinDisplayChance": "0,925%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/98/982c5072ab2cb0cc40f4978b31cbb4b9.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 600.2,
-        "range": [
-          79358,
-          81595
-        ],
-        "odds": "2,238%"
-      }
+      "quality": "BS",
+      "skinPrice": 727.8,
+      "oddsRange": [
+        86413,
+        87337
+      ],
+      "displayOdds": "0,925%"
     },
     {
-      "skinName": "Convoy",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "353,30PLN - 600,20PLN",
-      "skinDisplayChance": "8,304%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 386.25,
-        "range": [
-          49198,
-          51190
-        ],
-        "odds": "1,993%"
-      }
-    },
-    {
-      "skinName": "Convoy",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "353,30PLN - 600,20PLN",
-      "skinDisplayChance": "8,304%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 370.25,
-        "range": [
-          39589,
-          41873
-        ],
-        "odds": "2,285%"
-      }
-    },
-    {
-      "skinName": "Convoy",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "353,30PLN - 600,20PLN",
-      "skinDisplayChance": "8,304%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/94/9496297f02e060c3d40ec1c05d120c79.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 353.3,
-        "range": [
-          31147,
-          32934
-        ],
-        "odds": "1,788%"
-      }
-    },
-    {
+      "caseDropID": "NwfDiVtyqPBKUFyLXrOmS",
+      "globalInvID": "nQ6ssOg1dgujG0flSLHl2",
       "skinName": "Badlands",
       "weaponName": "Hand Wraps",
-      "skinPriceRange": "570,05PLN",
-      "skinDisplayChance": "1,221%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c3/c352187aafc40913aeebcabcec14e7af.png",
+      "skinPriceRange": "588,50PLN",
+      "skinDisplayChance": "0,562%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c3/c352187aafc40913aeebcabcec14e7af.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 570.05,
-        "range": [
-          76484,
-          77704
-        ],
-        "odds": "1,221%"
-      }
+      "quality": "WW",
+      "skinPrice": 588.5,
+      "oddsRange": [
+        85475,
+        86036
+      ],
+      "displayOdds": "0,562%"
     },
     {
-      "skinName": "Spruce DDPAT",
-      "weaponName": "Hand Wraps",
-      "skinPriceRange": "512,55PLN - 544,10PLN",
-      "skinDisplayChance": "5,586%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/10/103f6ba6a67731a48df542db49327ae1.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 544.1,
-        "range": [
-          73933,
-          76483
-        ],
-        "odds": "2,551%"
-      }
-    },
-    {
-      "skinName": "Spruce DDPAT",
-      "weaponName": "Hand Wraps",
-      "skinPriceRange": "512,55PLN - 544,10PLN",
-      "skinDisplayChance": "5,586%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/10/103f6ba6a67731a48df542db49327ae1.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 512.55,
-        "range": [
-          69067,
-          72101
-        ],
-        "odds": "3,035%"
-      }
-    },
-    {
+      "caseDropID": "-FkH9-q8QMZLl8Smp6X1O",
+      "globalInvID": "tu1edX6j7JpffUP_EJP7X",
       "skinName": "Emerald",
       "weaponName": "Hydra Gloves",
-      "skinPriceRange": "320,05PLN - 537,85PLN",
-      "skinDisplayChance": "3,745%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fa/fa9f8556aa976c8b34069c940816532a.png",
+      "skinPriceRange": "585,70PLN",
+      "skinDisplayChance": "0,252%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fa/fa9f8556aa976c8b34069c940816532a.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 537.85,
-        "range": [
-          72835,
-          73932
-        ],
-        "odds": "1,098%"
-      }
+      "quality": "MW",
+      "skinPrice": 585.7,
+      "oddsRange": [
+        85223,
+        85474
+      ],
+      "displayOdds": "0,252%"
     },
     {
-      "skinName": "Emerald",
+      "caseDropID": "zW_Y91n3pRPjItDUe0q9A",
+      "globalInvID": "JDdj4m7_OlmvLbtHUBZFw",
+      "skinName": "Charred",
+      "weaponName": "Bloodhound Gloves",
+      "skinPriceRange": "546,90PLN",
+      "skinDisplayChance": "0,662%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b6/b6dc749a966c0e1072e3739f118c784b.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 546.9,
+      "oddsRange": [
+        84561,
+        85222
+      ],
+      "displayOdds": "0,662%"
+    },
+    {
+      "caseDropID": "s3c9--90xDGo3ZK6dlV-p",
+      "globalInvID": "PQ0tUqCV56C7qMOc48FD6",
+      "skinName": "Case Hardened",
       "weaponName": "Hydra Gloves",
-      "skinPriceRange": "320,05PLN - 537,85PLN",
-      "skinDisplayChance": "3,745%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fa/fa9f8556aa976c8b34069c940816532a.png",
+      "skinPriceRange": "385,25PLN - 543,50PLN",
+      "skinDisplayChance": "5,154%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7b/7b9bfbf3cbd9c0caa32f7cb600fe3893.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 320.05,
-        "range": [
-          16075,
-          18721
-        ],
-        "odds": "2,647%"
-      }
+      "quality": "FT",
+      "skinPrice": 543.5,
+      "oddsRange": [
+        84440,
+        84560
+      ],
+      "displayOdds": "0,121%"
     },
     {
-      "skinName": "Charred",
-      "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "446,15PLN - 517,00PLN",
-      "skinDisplayChance": "4,483%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b6/b6dc749a966c0e1072e3739f118c784b.png",
+      "caseDropID": "boS82IBU4X_B1Z--ie1z3",
+      "globalInvID": "uYG8fVe2J5Yux0wQAcwN4",
+      "skinName": "Case Hardened",
+      "weaponName": "Hydra Gloves",
+      "skinPriceRange": "385,25PLN - 543,50PLN",
+      "skinDisplayChance": "5,154%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7b/7b9bfbf3cbd9c0caa32f7cb600fe3893.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 517,
-        "range": [
-          72102,
-          72834
-        ],
-        "odds": "0,733%"
-      }
+      "quality": "BS",
+      "skinPrice": 385.25,
+      "oddsRange": [
+        66934,
+        71966
+      ],
+      "displayOdds": "5,033%"
     },
     {
-      "skinName": "Charred",
-      "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "446,15PLN - 517,00PLN",
-      "skinDisplayChance": "4,483%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b6/b6dc749a966c0e1072e3739f118c784b.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 462.9,
-        "range": [
-          63104,
-          64917
-        ],
-        "odds": "1,814%"
-      }
-    },
-    {
-      "skinName": "Charred",
-      "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "446,15PLN - 517,00PLN",
-      "skinDisplayChance": "4,483%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b6/b6dc749a966c0e1072e3739f118c784b.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 446.15,
-        "range": [
-          61168,
-          63103
-        ],
-        "odds": "1,936%"
-      }
-    },
-    {
-      "skinName": "Overtake",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "372,20PLN - 473,00PLN",
-      "skinDisplayChance": "4,723%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b7/b7be8d9e7cf0aa145c691636e8dd58d6.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 473,
-        "range": [
-          67663,
-          69066
-        ],
-        "odds": "1,404%"
-      }
-    },
-    {
-      "skinName": "Overtake",
-      "weaponName": "Driver Gloves",
-      "skinPriceRange": "372,20PLN - 473,00PLN",
-      "skinDisplayChance": "4,723%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b7/b7be8d9e7cf0aa145c691636e8dd58d6.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 372.2,
-        "range": [
-          44612,
-          47930
-        ],
-        "odds": "3,319%"
-      }
-    },
-    {
-      "skinName": "Arboreal",
+      "caseDropID": "vUWJa2qo5ymVPKv4D7cFx",
+      "globalInvID": "6jtoxUu8roKHUcpx4xvEW",
+      "skinName": "Spruce DDPAT",
       "weaponName": "Hand Wraps",
-      "skinPriceRange": "462,30PLN",
-      "skinDisplayChance": "2,745%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7a/7ab3e43e198fa0126626be54880cdc97.png",
+      "skinPriceRange": "542,10PLN",
+      "skinDisplayChance": "0,332%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/10/103f6ba6a67731a48df542db49327ae1.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 462.3,
-        "range": [
-          64918,
-          67662
-        ],
-        "odds": "2,745%"
-      }
+      "quality": "FT",
+      "skinPrice": 542.1,
+      "oddsRange": [
+        84108,
+        84439
+      ],
+      "displayOdds": "0,332%"
     },
     {
-      "skinName": "Eclipse",
-      "weaponName": "Moto Gloves",
-      "skinPriceRange": "443,85PLN",
-      "skinDisplayChance": "2,688%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ed/edcedb6149e10e760c8b53f96eb4fc2a.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 443.85,
-        "range": [
-          58480,
-          61167
-        ],
-        "odds": "2,688%"
-      }
-    },
-    {
+      "caseDropID": "3NnhDPoLbvtwhSzu5Ct4Z",
+      "globalInvID": "EJPHEq8Mtn4IjbVrvc26P",
       "skinName": "Forest DDPAT",
       "weaponName": "Specialist Gloves",
-      "skinPriceRange": "434,35PLN",
-      "skinDisplayChance": "2,623%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/59/59c5a32608e0f42c63e5ca1a16c45f9b.png",
+      "skinPriceRange": "473,45PLN",
+      "skinDisplayChance": "0,572%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/59/59c5a32608e0f42c63e5ca1a16c45f9b.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 434.35,
-        "range": [
-          55857,
-          58479
-        ],
-        "odds": "2,623%"
-      }
+      "quality": "BS",
+      "skinPrice": 473.45,
+      "oddsRange": [
+        83536,
+        84107
+      ],
+      "displayOdds": "0,572%"
     },
     {
-      "skinName": "Case Hardened",
-      "weaponName": "Hydra Gloves",
-      "skinPriceRange": "330,70PLN - 410,05PLN",
-      "skinDisplayChance": "2,916%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7b/7b9bfbf3cbd9c0caa32f7cb600fe3893.png",
+      "caseDropID": "CMMFEizTC9ZdnDF3gI-zE",
+      "globalInvID": "Zb_KTV4DleJppnMH0BjLI",
+      "skinName": "Overtake",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "382,80PLN - 473,35PLN",
+      "skinDisplayChance": "3,544%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b7/b7be8d9e7cf0aa145c691636e8dd58d6.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 410.05,
-        "range": [
-          52075,
-          53121
-        ],
-        "odds": "1,047%"
-      }
+      "quality": "WW",
+      "skinPrice": 473.35,
+      "oddsRange": [
+        83244,
+        83535
+      ],
+      "displayOdds": "0,292%"
     },
     {
-      "skinName": "Case Hardened",
-      "weaponName": "Hydra Gloves",
-      "skinPriceRange": "330,70PLN - 410,05PLN",
-      "skinDisplayChance": "2,916%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7b/7b9bfbf3cbd9c0caa32f7cb600fe3893.png",
+      "caseDropID": "jh3BZ5m9Ah7X6OFV16FRg",
+      "globalInvID": "xBdYescCDl4btYSw98bsw",
+      "skinName": "Overtake",
+      "weaponName": "Driver Gloves",
+      "skinPriceRange": "382,80PLN - 473,35PLN",
+      "skinDisplayChance": "3,544%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b7/b7be8d9e7cf0aa145c691636e8dd58d6.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 330.7,
-        "range": [
-          18722,
-          20590
-        ],
-        "odds": "1,869%"
-      }
+      "quality": "BS",
+      "skinPrice": 382.8,
+      "oddsRange": [
+        63682,
+        66933
+      ],
+      "displayOdds": "3,252%"
     },
     {
+      "caseDropID": "HfngGIfqvXtTRzIO4DUt8",
+      "globalInvID": "WreHjwQ20k039BK7jY-5i",
+      "skinName": "Eclipse",
+      "weaponName": "Moto Gloves",
+      "skinPriceRange": "443,00PLN",
+      "skinDisplayChance": "1,276%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ed/edcedb6149e10e760c8b53f96eb4fc2a.png",
+      "skinRarity": "gold",
+      "quality": "BS",
+      "skinPrice": 443,
+      "oddsRange": [
+        81968,
+        83243
+      ],
+      "displayOdds": "1,276%"
+    },
+    {
+      "caseDropID": "u18g3UxlpM4powCn75j-s",
+      "globalInvID": "wmlPzN68oqyIW2mhN7VGK",
       "skinName": "Snakebite",
       "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "345,35PLN - 398,90PLN",
-      "skinDisplayChance": "4,397%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/26/261d2397908c56a0bc45e3e23975ded8.png",
+      "skinPriceRange": "376,00PLN - 440,00PLN",
+      "skinDisplayChance": "4,864%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/26/261d2397908c56a0bc45e3e23975ded8.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 398.9,
-        "range": [
-          51191,
-          52074
-        ],
-        "odds": "0,884%"
-      }
+      "quality": "WW",
+      "skinPrice": 440,
+      "oddsRange": [
+        80545,
+        81967
+      ],
+      "displayOdds": "1,423%"
     },
     {
+      "caseDropID": "H_kNc3sVbCS3wzMFZiYPT",
+      "globalInvID": "ajkdWu_2Tt1BeHg_LNbfM",
       "skinName": "Snakebite",
       "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "345,35PLN - 398,90PLN",
-      "skinDisplayChance": "4,397%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/26/261d2397908c56a0bc45e3e23975ded8.png",
+      "skinPriceRange": "376,00PLN - 440,00PLN",
+      "skinDisplayChance": "4,864%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/26/261d2397908c56a0bc45e3e23975ded8.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 345.35,
-        "range": [
-          25259,
-          28771
-        ],
-        "odds": "3,513%"
-      }
+      "quality": "BS",
+      "skinPrice": 376,
+      "oddsRange": [
+        60241,
+        63681
+      ],
+      "displayOdds": "3,441%"
     },
     {
+      "caseDropID": "P1SkUeUXYaPYC2HydX0CG",
+      "globalInvID": "eJe2gFx7bp1FHb4dDaqmj",
+      "skinName": "Arboreal",
+      "weaponName": "Hand Wraps",
+      "skinPriceRange": "431,65PLN",
+      "skinDisplayChance": "0,276%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7a/7ab3e43e198fa0126626be54880cdc97.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 431.65,
+      "oddsRange": [
+        80269,
+        80544
+      ],
+      "displayOdds": "0,276%"
+    },
+    {
+      "caseDropID": "gsGiRbqtdy4jvAIUiVimb",
+      "globalInvID": "uIa_bVmfTrn0bA-SHq8g5",
+      "skinName": "Bronzed",
+      "weaponName": "Bloodhound Gloves",
+      "skinPriceRange": "413,20PLN - 430,70PLN",
+      "skinDisplayChance": "2,057%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/52/5280840d6953d415cfd22cde0ac77df9.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 430.7,
+      "oddsRange": [
+        79744,
+        80268
+      ],
+      "displayOdds": "0,525%"
+    },
+    {
+      "caseDropID": "iU6fVY7DO-0_mj6e9IYJO",
+      "globalInvID": "JZFx6APH2LwXmrh1FqQw-",
+      "skinName": "Bronzed",
+      "weaponName": "Bloodhound Gloves",
+      "skinPriceRange": "413,20PLN - 430,70PLN",
+      "skinDisplayChance": "2,057%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/52/5280840d6953d415cfd22cde0ac77df9.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 413.2,
+      "oddsRange": [
+        77061,
+        78592
+      ],
+      "displayOdds": "1,532%"
+    },
+    {
+      "caseDropID": "NCHMhIyutoWwXj91Exz2A",
+      "globalInvID": "zl2c9QIIUcQvB7Y94NRTt",
       "skinName": "Guerrilla",
       "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "381,65PLN",
-      "skinDisplayChance": "1,267%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/0d/0d4eba2d1f734b27c22de08776204dba.png",
+      "skinPriceRange": "388,25PLN",
+      "skinDisplayChance": "3,643%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/0d/0d4eba2d1f734b27c22de08776204dba.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 381.65,
-        "range": [
-          47931,
-          49197
-        ],
-        "odds": "1,267%"
-      }
+      "quality": "FT",
+      "skinPrice": 388.25,
+      "oddsRange": [
+        71967,
+        75609
+      ],
+      "displayOdds": "3,643%"
     },
     {
+      "caseDropID": "y34NOkI8y1bjgDG8eVGmD",
+      "globalInvID": "zR3ZEPNKDpYvqDAEI26AC",
       "skinName": "Buckshot",
       "weaponName": "Specialist Gloves",
-      "skinPriceRange": "371,65PLN",
-      "skinDisplayChance": "2,738%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/66/662bdf0393839c75bd0648bf907e8575.png",
+      "skinPriceRange": "358,40PLN",
+      "skinDisplayChance": "9,832%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/66/662bdf0393839c75bd0648bf907e8575.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 371.65,
-        "range": [
-          41874,
-          44611
-        ],
-        "odds": "2,738%"
-      }
+      "quality": "WW",
+      "skinPrice": 358.4,
+      "oddsRange": [
+        50409,
+        60240
+      ],
+      "displayOdds": "9,832%"
     },
     {
-      "skinName": "Bronzed",
-      "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "355,65PLN - 362,55PLN",
-      "skinDisplayChance": "2,783%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/52/5280840d6953d415cfd22cde0ac77df9.png",
+      "caseDropID": "NlP055wmiRZ3LfC1ucMc_",
+      "globalInvID": "CBbcOARli5_nogr7VLF0X",
+      "skinName": "Mangrove",
+      "weaponName": "Hydra Gloves",
+      "skinPriceRange": "269,40PLN - 352,75PLN",
+      "skinDisplayChance": "10,462%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a3/a39f36f4251f41fa5da1c13eb7e2c316.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 362.55,
-        "range": [
-          38241,
-          39588
-        ],
-        "odds": "1,348%"
-      }
+      "quality": "MW",
+      "skinPrice": 352.75,
+      "oddsRange": [
+        49156,
+        50408
+      ],
+      "displayOdds": "1,253%"
     },
     {
-      "skinName": "Bronzed",
-      "weaponName": "Bloodhound Gloves",
-      "skinPriceRange": "355,65PLN - 362,55PLN",
-      "skinDisplayChance": "2,783%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/52/5280840d6953d415cfd22cde0ac77df9.png",
+      "caseDropID": "2GI07JSPmfgzm0aJCb5qG",
+      "globalInvID": "rMwW0t-M7yR-5AaAy70uP",
+      "skinName": "Mangrove",
+      "weaponName": "Hydra Gloves",
+      "skinPriceRange": "269,40PLN - 352,75PLN",
+      "skinDisplayChance": "10,462%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a3/a39f36f4251f41fa5da1c13eb7e2c316.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 355.65,
-        "range": [
-          36806,
-          38240
-        ],
-        "odds": "1,435%"
-      }
+      "quality": "WW",
+      "skinPrice": 278.9,
+      "oddsRange": [
+        14410,
+        19166
+      ],
+      "displayOdds": "4,757%"
     },
     {
+      "caseDropID": "PBZXugbYBulDDYuzhtGYN",
+      "globalInvID": "QHH8tHwykZfXNpkFHsoXx",
+      "skinName": "Mangrove",
+      "weaponName": "Hydra Gloves",
+      "skinPriceRange": "269,40PLN - 352,75PLN",
+      "skinDisplayChance": "10,462%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/a3/a39f36f4251f41fa5da1c13eb7e2c316.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 269.4,
+      "oddsRange": [
+        9958,
+        14409
+      ],
+      "displayOdds": "4,452%"
+    },
+    {
+      "caseDropID": "zzNqv5CqXw6AMMEelAjEK",
+      "globalInvID": "bCACYO10agMxZ0acZ4rw6",
+      "skinName": "Duct Tape",
+      "weaponName": "Hand Wraps",
+      "skinPriceRange": "340,50PLN - 350,40PLN",
+      "skinDisplayChance": "9,685%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/f7/f7585602977f0c5954e4eaccd80479c1.png",
+      "skinRarity": "gold",
+      "quality": "FT",
+      "skinPrice": 350.4,
+      "oddsRange": [
+        44713,
+        49155
+      ],
+      "displayOdds": "4,443%"
+    },
+    {
+      "caseDropID": "9L0pVtuL09rEO0K8t-2ak",
+      "globalInvID": "gSl7C4a019yVXJuPzoW1N",
+      "skinName": "Duct Tape",
+      "weaponName": "Hand Wraps",
+      "skinPriceRange": "340,50PLN - 350,40PLN",
+      "skinDisplayChance": "9,685%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/f7/f7585602977f0c5954e4eaccd80479c1.png",
+      "skinRarity": "gold",
+      "quality": "WW",
+      "skinPrice": 340.5,
+      "oddsRange": [
+        29909,
+        35150
+      ],
+      "displayOdds": "5,242%"
+    },
+    {
+      "caseDropID": "HnR0osOhE9nxzCZmRV1pS",
+      "globalInvID": "MkUNhn7f5tqBJALARKb3y",
       "skinName": "Transport",
       "weaponName": "Moto Gloves",
-      "skinPriceRange": "353,75PLN",
-      "skinDisplayChance": "3,871%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/72/7230c4798f466f2018bad2478feab008.png",
+      "skinPriceRange": "342,75PLN",
+      "skinDisplayChance": "9,562%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/72/7230c4798f466f2018bad2478feab008.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 353.75,
-        "range": [
-          32935,
-          36805
-        ],
-        "odds": "3,871%"
-      }
+      "quality": "BS",
+      "skinPrice": 342.75,
+      "oddsRange": [
+        35151,
+        44712
+      ],
+      "displayOdds": "9,562%"
     },
     {
-      "skinName": "Duct Tape",
-      "weaponName": "Hand Wraps",
-      "skinPriceRange": "342,10PLN - 353,05PLN",
-      "skinDisplayChance": "5,158%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/f7/f7585602977f0c5954e4eaccd80479c1.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 353.05,
-        "range": [
-          28772,
-          31146
-        ],
-        "odds": "2,375%"
-      }
-    },
-    {
-      "skinName": "Duct Tape",
-      "weaponName": "Hand Wraps",
-      "skinPriceRange": "342,10PLN - 353,05PLN",
-      "skinDisplayChance": "5,158%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/f7/f7585602977f0c5954e4eaccd80479c1.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 342.1,
-        "range": [
-          22476,
-          25258
-        ],
-        "odds": "2,783%"
-      }
-    },
-    {
-      "skinName": "Mangrove",
-      "weaponName": "Hydra Gloves",
-      "skinPriceRange": "265,70PLN - 340,00PLN",
-      "skinDisplayChance": "7,807%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a3/a39f36f4251f41fa5da1c13eb7e2c316.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 340,
-        "range": [
-          20591,
-          22475
-        ],
-        "odds": "1,885%"
-      }
-    },
-    {
-      "skinName": "Mangrove",
-      "weaponName": "Hydra Gloves",
-      "skinPriceRange": "265,70PLN - 340,00PLN",
-      "skinDisplayChance": "7,807%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a3/a39f36f4251f41fa5da1c13eb7e2c316.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 267.55,
-        "range": [
-          9309,
-          12266
-        ],
-        "odds": "2,958%"
-      }
-    },
-    {
-      "skinName": "Mangrove",
-      "weaponName": "Hydra Gloves",
-      "skinPriceRange": "265,70PLN - 340,00PLN",
-      "skinDisplayChance": "7,807%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/a3/a39f36f4251f41fa5da1c13eb7e2c316.png",
-      "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 265.7,
-        "range": [
-          6345,
-          9308
-        ],
-        "odds": "2,964%"
-      }
-    },
-    {
+      "caseDropID": "RG3uCsjYFYhdnNTmk8hEe",
+      "globalInvID": "pTGQFB2oSOuCxJFgQ4pee",
       "skinName": "Rattler",
       "weaponName": "Hydra Gloves",
-      "skinPriceRange": "275,25PLN",
-      "skinDisplayChance": "3,808%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/b9/b9db512f03787854b31bf2f2819182b1.png",
+      "skinPriceRange": "282,20PLN",
+      "skinDisplayChance": "10,742%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/b9/b9db512f03787854b31bf2f2819182b1.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 275.25,
-        "range": [
-          12267,
-          16074
-        ],
-        "odds": "3,808%"
-      }
+      "quality": "FT",
+      "skinPrice": 282.2,
+      "oddsRange": [
+        19167,
+        29908
+      ],
+      "displayOdds": "10,742%"
     },
     {
+      "caseDropID": "NipVWJNqMb_9TMXNCIrgl",
+      "globalInvID": "Ukoa2a5M3wiVPmrkNgilU",
       "skinName": "Racing Green",
       "weaponName": "Driver Gloves",
-      "skinPriceRange": "244,85PLN - 245,95PLN",
-      "skinDisplayChance": "6,344%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/31/319f2097514dbc508da1548a1763d79e.png",
+      "skinPriceRange": "249,15PLN - 255,45PLN",
+      "skinDisplayChance": "9,957%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/31/319f2097514dbc508da1548a1763d79e.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 245.95,
-        "range": [
-          2820,
-          6344
-        ],
-        "odds": "3,525%"
-      }
+      "quality": "WW",
+      "skinPrice": 255.45,
+      "oddsRange": [
+        4976,
+        9957
+      ],
+      "displayOdds": "4,982%"
     },
     {
+      "caseDropID": "yS2pFKIHHwkzNGRQhl7h1",
+      "globalInvID": "L9hT3cgPsvXOXA20STJgZ",
       "skinName": "Racing Green",
       "weaponName": "Driver Gloves",
-      "skinPriceRange": "244,85PLN - 245,95PLN",
-      "skinDisplayChance": "6,344%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/31/319f2097514dbc508da1548a1763d79e.png",
+      "skinPriceRange": "249,15PLN - 255,45PLN",
+      "skinDisplayChance": "9,957%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/31/319f2097514dbc508da1548a1763d79e.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 244.85,
-        "range": [
-          1,
-          2819
-        ],
-        "odds": "2,819%"
-      }
+      "quality": "FT",
+      "skinPrice": 249.15,
+      "oddsRange": [
+        1,
+        4975
+      ],
+      "displayOdds": "4,975%"
     }
   ],
-  "imgName": "gloves.webp",
-  "positionInGrid": 3
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/GLOVES.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

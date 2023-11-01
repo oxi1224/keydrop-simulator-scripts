@@ -4,12 +4,14 @@ import { PrismaClient } from '@prisma/client';
 import fs from 'fs/promises';
 import chalk from 'chalk';
 import * as util from './util.js';
+import { nanoid } from 'nanoid';
 
 const stealth = StealthPlugin();
 export const prisma = new PrismaClient();
 stealth.enabledEvasions.delete('user-agent-override');
 Puppeteer.use(stealth);
 
+const goldenNames = ['gold-digger', 'foster', 'shark', 'rubin-rain', 'predator', 'ruby', 'amethyst-light', 'optimal', 'atum', 'wrap', 'solar', 'diamond-sky', 'samurai', 'wind', 'emerald-cut', 'recon', 'topaz', 'bony', 'magent', 'assault'];
 const storedCases = (await prisma.case.findMany()).map((c) => c.websiteName);
 const caseSections = (await prisma.caseSection.findMany()).map((cs) => cs.id);
 const additionalData = new Map();
@@ -44,12 +46,13 @@ const links = [];
     }
   });
   await page.goto('https://key-drop.com/pl/');
-  await page.waitForNavigation({ timeout: 2000 }).catch(() => null);
-  await page.click('a.w-20', { button: 'left', clickCount: 1, delay: 50 });
+  await page.waitForNavigation({ waitUntil: 'networkidle0' }).catch(() => null);
+  // return;
+  // await page.click('a.w-26', { button: 'left', clickCount: 1, delay: 50 });
   await page.waitForSelector('div > section', { timeout: 5000 }).catch(() => null);
   await page.evaluate(() => (document.cookie = 'currency=PLN'));
   await page.reload({ waitUntil: 'networkidle0', timeout: 5000 }).catch(() => null);
-
+  // return;
   // Reset relations on all CaseSections
   for (const caseSection of caseSections) {
     if (caseSection == 'expired') continue;
@@ -76,7 +79,7 @@ const links = [];
       const src = await util.getProperty(c, '.case__img', 'src');
 
       additionalData.set(name, {
-        imgName: util.clean(src.replace('https://key-drop.com/uploads/skins/', ''), 'imgSource'),
+        imgName: src.replace('https://key-drop.com/uploads/skins/', 'https://raw.githubusercontent.com/oxi1224/images/main/').replace('jpg', 'webp').replace('png', 'webp'),
         positionInGrid: i
       });
       eventCases.push({
@@ -86,7 +89,7 @@ const links = [];
       links.push(url);
     }
   });
-
+  
   caseSectionConnectData.push({ 
     id: 'event',
     cases: eventCases
@@ -163,18 +166,18 @@ const links = [];
       ?.replace('aspect-[1/', '')
       .replace(']', '');
     const casesToConnect = [];
-    const cases = await page.$$(`#${id} > div.grid > div.relative`);
+    const cases = await page.$$(`#${id} > div.grid > ${id === 'holo-cases' ? 'div' : 'div.relative'}`);
 
     for (let i = 0; i < cases.length; i++) {
       const c = cases[i];
       const url = await util.getProperty(c, 'a', 'href');
       const name = await util.getProperty(c, 'div.text-white.font-normal.uppercase', 'textContent');
-      const src = await util.getProperty(c, 'a > img', 'src');
-
+      const srcsetRaw = await util.getProperty(c, id === 'holo-cases' ? 'img.min-h-0' : 'a > img', 'srcset');
+      const src = srcsetRaw.split('\n')[2].replace('2x', '').trim(); // srcsetRaw.replace('png', 'webp').replace('jpg', 'webp').replace('https://key-drop.com/uploads/skins/', 'https://raw.githubusercontent.com/oxi1224/images/main/');
       availableCases.push(name);
       links.push(url);
       additionalData.set(name, {
-        imgName: util.clean(src.replace('https://key-drop.com/uploads/skins/', ''), 'imgSource'),
+        imgName: src,
         positionInGrid: i
       });
       casesToConnect.push({
@@ -239,7 +242,7 @@ const links = [];
       },
       data: {
         expired: true,
-        positionInGrid: 0
+        positionInGrid: 0,
       }
     });
 
@@ -259,14 +262,17 @@ const links = [];
     where: {
       name: 'EXPIRED'
     },
-    data: {
+    data: { 
       cases: {
         connect: expiredCases
       }
     }
   });
 
-  // links.splice(0, 113);
+  links.splice(11, 999);
+  // links.splice(15, 999);
+  // links.splice(16, 999);
+  // links.splice(0, 999);
   // Main loop
   for (const link of links) {
     const startTime = new Date().getTime();
@@ -288,19 +294,23 @@ const links = [];
     await page.waitForNavigation({ timeout: 5000 }).catch(() => null);
     await page.evaluate(() => (document.cookie = 'currency=PLN'));
     await page.reload({ waitUntil: 'domcontentloaded', timeout: 10000 }).catch(() => null);
+    if ((page.url()) === 'https://key-drop.com/pl/') continue;
     await page.waitForSelector('ul > li.css-ik2bl7', { timeout: 5000 }).catch(() => null);
 
     const skins = await page.$$('ul > li.css-ik2bl7');
-    const name = page.url().replace('https://key-drop.com/pl/skins/category/', '');
+    const name = (page.url()).replace('https://key-drop.com/pl/skins/category/', '');
     const websiteName = await util.getProperty(
       page,
       'h2.px-6.mx-auto.text-xl.font-semibold.leading-tight.text-center.text-white.uppercase',
       'textContent'
     );
+    
+    await page.waitForNetworkIdle({ timeout: 5000 }).catch(() => null);
     const price = await page
-      .waitForSelector('span > div.flex.items-center.ml-2')
+      .waitForSelector('.ga_openButtonLoser')
       .then((el) => el.evaluate((elm) => elm.textContent))
       .then((str) => util.clean(str, 'price'));
+
     const bonusData = additionalData.get(websiteName);
     const dropData = [];
     const drops = [];
@@ -313,7 +323,8 @@ const links = [];
         price: price,
         imgName: bonusData.imgName,
         positionInGrid: bonusData.positionInGrid,
-        expired: false
+        expired: false,
+        urlName: name
       },
       create: {
         urlName: name,
@@ -321,11 +332,20 @@ const links = [];
         price: price,
         positionInGrid: bonusData.positionInGrid,
         imgName: bonusData.imgName,
-        expired: false
+        expired: false,
+        goldenCase: goldenNames.includes(name)
+      }
+    });
+
+    await prisma.caseDrop.deleteMany({
+      where: {
+        parentCase: websiteName
       }
     });
 
     for (const container of skins) {
+      // const stattrack = !!(await c.$('div.text-orange-500.css-6plnry'))
+
       const skinName = await util
         .getProperty(container, 'div.css-1vba4yg', 'textContent')
         .then((str) => util.clean(str, 'string'));
@@ -340,13 +360,13 @@ const links = [];
 
       const skinDisplayChance = await util
         .getProperty(container, 'div.css-1f31obc', 'textContent')
-        .then((str) => util.clean(str, 'string'));
+        .then((str) => util.clean(str, 'string'))
 
       const skinImgSource = await util.getProperty(
         container,
         'img.transform.object-contain.duration-300.ease-in-out.pointer-events-none.col-start-1.row-start-1.mt-6',
-        'src'
-      );
+        'srcset'
+      ).then(str => str.split('\n')[2].replace('2x', '').trim());
       const rarityHandle = await container.$('img.css-96c4l3');
       const skinRarity = await getSkinColor(rarityHandle).then((str) => util.clean(str, 'string'));
 
@@ -370,22 +390,8 @@ const links = [];
           .map((num) => parseInt(num));
 
         const price = util.clean(rawDetailsArray[i + 1], 'price');
-        dropData.push({
-          skinName: skinName,
-          weaponName: skinWeapon,
-          skinPriceRange: skinPriceRange,
-          skinDisplayChance: skinDisplayChance.replace('Chance', ''),
-          skinImgSource: skinImgSource,
-          skinRarity: skinRarity,
-          dropDetails: {
-            quality: rawDetailsArray[i],
-            price: price,
-            range: range,
-            odds: rawDetailsArray[i + 3]
-          }
-        });
 
-        await prisma.globalInventoryItem.upsert({
+        const updatedGLobalInvItem = await prisma.globalInventoryItem.upsert({
           where: {
             weaponName_skinName_skinQuality_stattrack: {
               weaponName: skinWeapon,
@@ -399,6 +405,7 @@ const links = [];
             skinImgSource: skinImgSource
           },
           create: {
+            id: nanoid(),
             weaponName: skinWeapon,
             skinName: skinName,
             skinQuality: rawDetailsArray[i],
@@ -407,6 +414,23 @@ const links = [];
             skinImgSource: skinImgSource,
             stattrack: false
           }
+        });
+
+        const caseDropID = nanoid();
+
+        dropData.push({
+          caseDropID: caseDropID,
+          globalInvID: updatedGLobalInvItem.id,
+          skinName: skinName,
+          weaponName: skinWeapon,
+          skinPriceRange: skinPriceRange,
+          skinDisplayChance: skinDisplayChance.replace('Szansa', ''),
+          skinImgSource: skinImgSource,
+          skinRarity: skinRarity,
+          quality: rawDetailsArray[i],
+          skinPrice: price,
+          oddsRange: range,
+          displayOdds: rawDetailsArray[i + 3]
         });
 
         const caseDrop = await prisma.caseDrop.upsert({
@@ -419,17 +443,23 @@ const links = [];
             }
           },
           update: {
-            skinPrice: price
+            skinPrice: price,
+            displayOdds: rawDetailsArray[i + 3],
+            oddsRange: range,
+            priceRange: skinPriceRange,
+            displayChance: skinDisplayChance.replace('Szansa', '')
           },
           create: {
+            id: caseDropID,
             globalInvItem: {
               connect: {
-                weaponName_skinName_skinQuality_stattrack: {
-                  weaponName: skinWeapon,
-                  skinName: skinName,
-                  skinQuality: rawDetailsArray[i],
-                  stattrack: false
-                }
+                id: updatedGLobalInvItem.id
+                // weaponName_skinName_skinQuality_stattrack: {
+                //   weaponName: skinWeapon,
+                //   skinName: skinName,
+                //   skinQuality: rawDetailsArray[i],
+                //   stattrack: false
+                // }
               }
             },
             case: {
@@ -440,7 +470,7 @@ const links = [];
             displayOdds: rawDetailsArray[i + 3],
             oddsRange: range,
             priceRange: skinPriceRange,
-            displayChance: skinDisplayChance.replace('Chance', '')
+            displayChance: skinDisplayChance.replace('Szansa', '')
           }
         });
 
@@ -462,17 +492,17 @@ const links = [];
     );
 
     await page.close();
-    await prisma.case.update({
-      where: {
-        websiteName: websiteName
-      },
-      data: {
-        drops: {
-          connect: drops
-        }
-      }
-    });
-
+    // await prisma.case.update({
+    //   where: {
+    //     websiteName: websiteName
+    //   },
+    //   data: {
+    //     drops: {
+    //       connect: drops
+    //     }
+    //   }
+    // });
+    
     await util.createBackup(
       name,
       {

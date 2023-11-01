@@ -2,808 +2,1659 @@
   "urlName": "glock-18",
   "websiteName": "GLOCK-18",
   "price": 5.55,
-  "expired": false,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "CO84v3_tjhrxn4wb7c_fV",
+      "globalInvID": "t9WIESiROh4FBSxGhuu6M",
+      "skinName": "Neo-Noir",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "40,65PLN - 313,25PLN",
+      "skinDisplayChance": "0,536%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ed/edb020e8150f00d5a5eef2a53d5d0453.png",
+      "skinRarity": "red",
+      "quality": "FN",
+      "skinPrice": 313.25,
+      "oddsRange": [
+        99899,
+        99953
+      ],
+      "displayOdds": "0,055%"
+    },
+    {
+      "caseDropID": "9rupvQ7g_2iZotpEsOKBr",
+      "globalInvID": "DQiccmEyRuRNY-xkqwfjQ",
+      "skinName": "Neo-Noir",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "40,65PLN - 313,25PLN",
+      "skinDisplayChance": "0,536%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ed/edb020e8150f00d5a5eef2a53d5d0453.png",
+      "skinRarity": "red",
+      "quality": "MW",
+      "skinPrice": 111.3,
+      "oddsRange": [
+        99387,
+        99493
+      ],
+      "displayOdds": "0,107%"
+    },
+    {
+      "caseDropID": "CpFSMyfxN8VI-sPLd75H3",
+      "globalInvID": "q-qas5wkvDUA3lLKwoSka",
+      "skinName": "Neo-Noir",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "40,65PLN - 313,25PLN",
+      "skinDisplayChance": "0,536%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ed/edb020e8150f00d5a5eef2a53d5d0453.png",
+      "skinRarity": "red",
+      "quality": "FT",
+      "skinPrice": 55.4,
+      "oddsRange": [
+        98971,
+        99179
+      ],
+      "displayOdds": "0,209%"
+    },
+    {
+      "caseDropID": "H_7KqDb2DkKo-PCLvEv14",
+      "globalInvID": "c0bRDc0w2zLBTROSKayZT",
+      "skinName": "Neo-Noir",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "40,65PLN - 313,25PLN",
+      "skinDisplayChance": "0,536%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ed/edb020e8150f00d5a5eef2a53d5d0453.png",
+      "skinRarity": "red",
+      "quality": "BS",
+      "skinPrice": 40.65,
+      "oddsRange": [
+        98679,
+        98843
+      ],
+      "displayOdds": "0,165%"
+    },
+    {
+      "caseDropID": "CvS2oGjh23juo1dIeaf9f",
+      "globalInvID": "5rXTM4_uRL2QnhSgAImZB",
+      "skinName": "Bullet Queen",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "25,35PLN - 273,35PLN",
+      "skinDisplayChance": "0,534%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1b/1b60d507c8bede3d245249f7f098c445.png",
+      "skinRarity": "red",
+      "quality": "FN",
+      "skinPrice": 273.35,
+      "oddsRange": [
+        99867,
+        99898
+      ],
+      "displayOdds": "0,032%"
+    },
+    {
+      "caseDropID": "s6MhueY5cLLthnqtH_ryZ",
+      "globalInvID": "11W9cyZBzvqwC5JT_RXGS",
+      "skinName": "Bullet Queen",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "25,35PLN - 273,35PLN",
+      "skinDisplayChance": "0,534%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1b/1b60d507c8bede3d245249f7f098c445.png",
+      "skinRarity": "red",
+      "quality": "MW",
+      "skinPrice": 82.4,
+      "oddsRange": [
+        99317,
+        99373
+      ],
+      "displayOdds": "0,057%"
+    },
+    {
+      "caseDropID": "JTd9LWznYHCQNqQKBnPjF",
+      "globalInvID": "m6v4ZFaTBw5stGzRtZNCO",
+      "skinName": "Bullet Queen",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "25,35PLN - 273,35PLN",
+      "skinDisplayChance": "0,534%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1b/1b60d507c8bede3d245249f7f098c445.png",
+      "skinRarity": "red",
+      "quality": "FT",
+      "skinPrice": 39.7,
+      "oddsRange": [
+        98497,
+        98678
+      ],
+      "displayOdds": "0,182%"
+    },
+    {
+      "caseDropID": "M-Yl0UplsjdDM_KlPfBOP",
+      "globalInvID": "hyvEoVHDNGgX5okRO2OmR",
+      "skinName": "Bullet Queen",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "25,35PLN - 273,35PLN",
+      "skinDisplayChance": "0,534%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1b/1b60d507c8bede3d245249f7f098c445.png",
+      "skinRarity": "red",
+      "quality": "BS",
+      "skinPrice": 25.35,
+      "oddsRange": [
+        97513,
+        97775
+      ],
+      "displayOdds": "0,263%"
+    },
+    {
+      "caseDropID": "ArIE_6NU-v7vEYt3ci3az",
+      "globalInvID": "g2jU820K1E4xhbnxxCFDs",
+      "skinName": "Gamma Doppler",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "154,05PLN - 247,45PLN",
+      "skinDisplayChance": "0,337%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/aa/aa7433be33f129f624ee78e747f9cd09.png",
+      "skinRarity": "red",
+      "quality": "FN",
+      "skinPrice": 247.45,
+      "oddsRange": [
+        99750,
+        99854
+      ],
+      "displayOdds": "0,105%"
+    },
+    {
+      "caseDropID": "xa498FVeSDVqb6gzq1Sey",
+      "globalInvID": "pjkjW5S4WwWMz0-CzHDrd",
+      "skinName": "Gamma Doppler",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "154,05PLN - 247,45PLN",
+      "skinDisplayChance": "0,337%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/aa/aa7433be33f129f624ee78e747f9cd09.png",
+      "skinRarity": "red",
+      "quality": "MW",
+      "skinPrice": 191.05,
+      "oddsRange": [
+        99619,
+        99725
+      ],
+      "displayOdds": "0,107%"
+    },
+    {
+      "caseDropID": "hWVSo5fdS2dGe7GpzZ97W",
+      "globalInvID": "7sbMc9Ht8F_92DP3r2DoW",
+      "skinName": "Gamma Doppler",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "154,05PLN - 247,45PLN",
+      "skinDisplayChance": "0,337%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/aa/aa7433be33f129f624ee78e747f9cd09.png",
+      "skinRarity": "red",
+      "quality": "BS",
+      "skinPrice": 156.7,
+      "oddsRange": [
+        99603,
+        99618
+      ],
+      "displayOdds": "0,016%"
+    },
+    {
+      "caseDropID": "5pnqfMdbYmo7HJrfdYgkP",
+      "globalInvID": "QZNIT_f3OhMUem7z_4PYc",
+      "skinName": "Gamma Doppler",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "154,05PLN - 247,45PLN",
+      "skinDisplayChance": "0,337%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/aa/aa7433be33f129f624ee78e747f9cd09.png",
+      "skinRarity": "red",
+      "quality": "FT",
+      "skinPrice": 154.05,
+      "oddsRange": [
+        99494,
+        99602
+      ],
+      "displayOdds": "0,109%"
+    },
+    {
+      "caseDropID": "MtUFDyQjKTA0BnMvqwc3R",
+      "globalInvID": "3u5Hb0cUBAKArX_dopX6a",
       "skinName": "Wasteland Rebel",
       "weaponName": "Glock-18",
-      "skinPriceRange": "26,10PLN",
-      "skinDisplayChance": "0,013%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/25/25becf7ae4427cffb09bc7288c4b71f1.png",
+      "skinPriceRange": "22,50PLN - 34,60PLN",
+      "skinDisplayChance": "0,451%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/25becf7ae4427cffb09bc7288c4b71f1.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 26.1,
-        "range": [
-          99755,
-          99767
-        ],
-        "odds": "0,013%"
-      }
+      "quality": "FN",
+      "skinPrice": 34.6,
+      "oddsRange": [
+        98157,
+        98284
+      ],
+      "displayOdds": "0,128%"
     },
     {
+      "caseDropID": "mYsxLKgvLoLHHMfoH4nvS",
+      "globalInvID": "93753a-j8F-NQr2Dejvqa",
+      "skinName": "Wasteland Rebel",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "22,50PLN - 34,60PLN",
+      "skinDisplayChance": "0,451%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/25becf7ae4427cffb09bc7288c4b71f1.png",
+      "skinRarity": "red",
+      "quality": "MW",
+      "skinPrice": 25,
+      "oddsRange": [
+        96861,
+        96973
+      ],
+      "displayOdds": "0,113%"
+    },
+    {
+      "caseDropID": "BQEg8kdkyUSIbM57c5Zcj",
+      "globalInvID": "7tn08gMsx_UcdahNQ1e3C",
+      "skinName": "Wasteland Rebel",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "22,50PLN - 34,60PLN",
+      "skinDisplayChance": "0,451%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/25becf7ae4427cffb09bc7288c4b71f1.png",
+      "skinRarity": "red",
+      "quality": "BS",
+      "skinPrice": 23.85,
+      "oddsRange": [
+        96756,
+        96860
+      ],
+      "displayOdds": "0,105%"
+    },
+    {
+      "caseDropID": "Rs7A8fgCbfg3F_85IxhD4",
+      "globalInvID": "fQZf1AgU04YRngjog1KD7",
+      "skinName": "Wasteland Rebel",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "22,50PLN - 34,60PLN",
+      "skinDisplayChance": "0,451%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/25becf7ae4427cffb09bc7288c4b71f1.png",
+      "skinRarity": "red",
+      "quality": "FT",
+      "skinPrice": 22.5,
+      "oddsRange": [
+        95864,
+        95968
+      ],
+      "displayOdds": "0,105%"
+    },
+    {
+      "caseDropID": "CILwdh5mJCznwxrZ8zgmk",
+      "globalInvID": "PEEmKDQMKYcrLU5OHZ6wc",
       "skinName": "Twilight Galaxy",
       "weaponName": "Glock-18",
-      "skinPriceRange": "271,80PLN",
-      "skinDisplayChance": "0,022%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/74/74acc9ac9847e25693387dd6e3c7d48a.png",
+      "skinPriceRange": "902,15PLN - 1448,30PLN",
+      "skinDisplayChance": "0,007%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/74/74acc9ac9847e25693387dd6e3c7d48a.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 271.8,
-        "range": [
-          99827,
-          99848
-        ],
-        "odds": "0,022%"
-      }
+      "quality": "FN",
+      "skinPrice": 1448.3,
+      "oddsRange": [
+        99988,
+        99992
+      ],
+      "displayOdds": "0,005%"
     },
     {
+      "caseDropID": "msoEgJnjYKGGOHwUL0GpG",
+      "globalInvID": "dfiTQqT1a4rlTron-Osre",
+      "skinName": "Twilight Galaxy",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "902,15PLN - 1448,30PLN",
+      "skinDisplayChance": "0,007%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/74/74acc9ac9847e25693387dd6e3c7d48a.png",
+      "skinRarity": "pink",
+      "quality": "MW",
+      "skinPrice": 902.15,
+      "oddsRange": [
+        99986,
+        99987
+      ],
+      "displayOdds": "0,002%"
+    },
+    {
+      "caseDropID": "6eD12NaliY3YAFoM8eSQz",
+      "globalInvID": "vEauWP2GxyVRfLSjmWZqw",
       "skinName": "Water Elemental",
       "weaponName": "Glock-18",
-      "skinPriceRange": "23,60PLN",
-      "skinDisplayChance": "0,189%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/25/2577e2c105f1f6cab379180e65c1a5c4.png",
+      "skinPriceRange": "18,85PLN - 68,95PLN",
+      "skinDisplayChance": "0,864%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/2577e2c105f1f6cab379180e65c1a5c4.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 23.6,
-        "range": [
-          97782,
-          97970
-        ],
-        "odds": "0,189%"
-      }
+      "quality": "FN",
+      "skinPrice": 68.95,
+      "oddsRange": [
+        99180,
+        99186
+      ],
+      "displayOdds": "0,007%"
     },
     {
+      "caseDropID": "3KBV73Fjv5XYRYNaABmWN",
+      "globalInvID": "MKUHRnP52-_W2tBgKo2Jt",
+      "skinName": "Water Elemental",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "18,85PLN - 68,95PLN",
+      "skinDisplayChance": "0,864%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/2577e2c105f1f6cab379180e65c1a5c4.png",
+      "skinRarity": "pink",
+      "quality": "MW",
+      "skinPrice": 34.75,
+      "oddsRange": [
+        98285,
+        98496
+      ],
+      "displayOdds": "0,212%"
+    },
+    {
+      "caseDropID": "LRzOjsoNmfJ8AhvCMkEZV",
+      "globalInvID": "0ou9Jawe9nK5okISKNm9i",
+      "skinName": "Water Elemental",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "18,85PLN - 68,95PLN",
+      "skinDisplayChance": "0,864%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/2577e2c105f1f6cab379180e65c1a5c4.png",
+      "skinRarity": "pink",
+      "quality": "FT",
+      "skinPrice": 23.55,
+      "oddsRange": [
+        96535,
+        96755
+      ],
+      "displayOdds": "0,221%"
+    },
+    {
+      "caseDropID": "I01CGoPCVbwzexflqZrZK",
+      "globalInvID": "ReFpSo89qXvw-_xPTTiNi",
+      "skinName": "Water Elemental",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "18,85PLN - 68,95PLN",
+      "skinDisplayChance": "0,864%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/25/2577e2c105f1f6cab379180e65c1a5c4.png",
+      "skinRarity": "pink",
+      "quality": "BS",
+      "skinPrice": 18.85,
+      "oddsRange": [
+        95008,
+        95431
+      ],
+      "displayOdds": "0,424%"
+    },
+    {
+      "caseDropID": "6XyB9Jr7UupMXVa4Ny-jS",
+      "globalInvID": "5-WBcmQ5qw_KpZLZR0xQp",
+      "skinName": "Vogue",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "15,10PLN - 50,40PLN",
+      "skinDisplayChance": "2,245%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/32/325f367b4e6cccd2344898f8954054c2.png",
+      "skinRarity": "pink",
+      "quality": "FN",
+      "skinPrice": 50.4,
+      "oddsRange": [
+        98858,
+        98970
+      ],
+      "displayOdds": "0,113%"
+    },
+    {
+      "caseDropID": "FxJr106gHXoDIq6YM74mg",
+      "globalInvID": "OBsQvzGs-NBgRDKZz0b5F",
+      "skinName": "Vogue",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "15,10PLN - 50,40PLN",
+      "skinDisplayChance": "2,245%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/32/325f367b4e6cccd2344898f8954054c2.png",
+      "skinRarity": "pink",
+      "quality": "MW",
+      "skinPrice": 28.75,
+      "oddsRange": [
+        97890,
+        98003
+      ],
+      "displayOdds": "0,114%"
+    },
+    {
+      "caseDropID": "9OiUao0pxN8ltQHECUWB-",
+      "globalInvID": "CVv7FuOTCELKcatarFbOP",
+      "skinName": "Vogue",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "15,10PLN - 50,40PLN",
+      "skinDisplayChance": "2,245%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/32/325f367b4e6cccd2344898f8954054c2.png",
+      "skinRarity": "pink",
+      "quality": "FT",
+      "skinPrice": 18.3,
+      "oddsRange": [
+        94014,
+        95007
+      ],
+      "displayOdds": "0,994%"
+    },
+    {
+      "caseDropID": "HzAYKiSudhv6sQdlvk2Wx",
+      "globalInvID": "-2-hYciipOqy-XTEMXnBp",
+      "skinName": "Vogue",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "15,10PLN - 50,40PLN",
+      "skinDisplayChance": "2,245%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/32/325f367b4e6cccd2344898f8954054c2.png",
+      "skinRarity": "pink",
+      "quality": "BS",
+      "skinPrice": 15.1,
+      "oddsRange": [
+        92565,
+        93588
+      ],
+      "displayOdds": "1,024%"
+    },
+    {
+      "caseDropID": "byS9fOX857dLQpsEMpbOe",
+      "globalInvID": "gqF2lG7bEcDAs_bH5nnEW",
+      "skinName": "Snack Attack",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "14,05PLN - 32,80PLN",
+      "skinDisplayChance": "2,529%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/09/094eb927426d02a777599e92c7354645.png",
+      "skinRarity": "pink",
+      "quality": "MW",
+      "skinPrice": 32.8,
+      "oddsRange": [
+        98004,
+        98156
+      ],
+      "displayOdds": "0,153%"
+    },
+    {
+      "caseDropID": "p5duLhC3I4ZUlJy97H5Gv",
+      "globalInvID": "CvoCkP9VownRskWo-YT0a",
+      "skinName": "Snack Attack",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "14,05PLN - 32,80PLN",
+      "skinDisplayChance": "2,529%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/09/094eb927426d02a777599e92c7354645.png",
+      "skinRarity": "pink",
+      "quality": "FT",
+      "skinPrice": 18.2,
+      "oddsRange": [
+        93589,
+        94013
+      ],
+      "displayOdds": "0,425%"
+    },
+    {
+      "caseDropID": "U0yvp_7JvcZ4HgskW3Noi",
+      "globalInvID": "SIX3IXbdsJDi89wIam-fs",
+      "skinName": "Snack Attack",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "14,05PLN - 32,80PLN",
+      "skinDisplayChance": "2,529%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/09/094eb927426d02a777599e92c7354645.png",
+      "skinRarity": "pink",
+      "quality": "BS",
+      "skinPrice": 14.05,
+      "oddsRange": [
+        90520,
+        92470
+      ],
+      "displayOdds": "1,951%"
+    },
+    {
+      "caseDropID": "T1h-rUI76Uu8__UoUeypb",
+      "globalInvID": "LAs4-nRGA2oJKmtbUUebK",
       "skinName": "Fade",
       "weaponName": "Glock-18",
-      "skinPriceRange": "5690,15PLN",
-      "skinDisplayChance": "0,018%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7c/7cadae997973c04583bf16456e8ebfff.png",
+      "skinPriceRange": "9474,60PLN",
+      "skinDisplayChance": "0,003%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7c/7cadae997973c04583bf16456e8ebfff.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 5690.15,
-        "range": [
-          99983,
-          100000
-        ],
-        "odds": "0,018%"
-      }
+      "quality": "FN",
+      "skinPrice": 9474.6,
+      "oddsRange": [
+        99998,
+        100000
+      ],
+      "displayOdds": "0,003%"
     },
     {
+      "caseDropID": "gyFvjG_06CCjjs8PknCPh",
+      "globalInvID": "HzYyyNGp8_ER9V5fokRLs",
       "skinName": "Synth Leaf",
       "weaponName": "Glock-18",
-      "skinPriceRange": "994,20PLN",
-      "skinDisplayChance": "0,058%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c1/c1c7eee6dc8ffc158b59a1570d3a1bf2.png",
+      "skinPriceRange": "1589,70PLN",
+      "skinDisplayChance": "0,005%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c1/c1c7eee6dc8ffc158b59a1570d3a1bf2.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 994.2,
-        "range": [
-          99925,
-          99982
-        ],
-        "odds": "0,058%"
-      }
+      "quality": "FN",
+      "skinPrice": 1589.7,
+      "oddsRange": [
+        99993,
+        99997
+      ],
+      "displayOdds": "0,005%"
     },
     {
+      "caseDropID": "jx11mQZzwRSKZBrFv4KoH",
+      "globalInvID": "3KDTd3qzRSG7ZSrpiOVm_",
+      "skinName": "Pink DDPAT",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "261,05PLN - 443,55PLN",
+      "skinDisplayChance": "0,019%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/6d/6d118a17ee7b3006c98e73b1591c74c4.png",
+      "skinRarity": "violet",
+      "quality": "FN",
+      "skinPrice": 443.55,
+      "oddsRange": [
+        99979,
+        99985
+      ],
+      "displayOdds": "0,007%"
+    },
+    {
+      "caseDropID": "FqAGh56PwucupSMBIvIqE",
+      "globalInvID": "BFHyrmpOfV10FuruFsg9d",
+      "skinName": "Pink DDPAT",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "261,05PLN - 443,55PLN",
+      "skinDisplayChance": "0,019%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/6d/6d118a17ee7b3006c98e73b1591c74c4.png",
+      "skinRarity": "violet",
+      "quality": "FT",
+      "skinPrice": 261.05,
+      "oddsRange": [
+        99855,
+        99866
+      ],
+      "displayOdds": "0,012%"
+    },
+    {
+      "caseDropID": "p9-pTle5nW5CX51kKynZz",
+      "globalInvID": "3pUQ5L94_OjiO3t9m4F8e",
       "skinName": "Dragon Tattoo",
       "weaponName": "Glock-18",
-      "skinPriceRange": "353,65PLN",
-      "skinDisplayChance": "0,076%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7b/7b8cb604a702b915bc5a79de826e96d9.png",
+      "skinPriceRange": "433,60PLN",
+      "skinDisplayChance": "0,013%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7b/7b8cb604a702b915bc5a79de826e96d9.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 353.65,
-        "range": [
-          99849,
-          99924
-        ],
-        "odds": "0,076%"
-      }
+      "quality": "FN",
+      "skinPrice": 433.6,
+      "oddsRange": [
+        99966,
+        99978
+      ],
+      "displayOdds": "0,013%"
     },
     {
+      "caseDropID": "1_rGADWihcD9xXO1oMy4f",
+      "globalInvID": "hSJfeW9f59b2vJ6vAo-Xq",
       "skinName": "Brass",
       "weaponName": "Glock-18",
-      "skinPriceRange": "41,90PLN",
-      "skinDisplayChance": "0,009%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d4/d498c5b14eb498360d4ac3741763060b.png",
+      "skinPriceRange": "75,05PLN - 330,15PLN",
+      "skinDisplayChance": "0,129%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d4/d498c5b14eb498360d4ac3741763060b.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 41.9,
-        "range": [
-          99818,
-          99826
-        ],
-        "odds": "0,009%"
-      }
+      "quality": "FN",
+      "skinPrice": 330.15,
+      "oddsRange": [
+        99954,
+        99965
+      ],
+      "displayOdds": "0,012%"
     },
     {
+      "caseDropID": "wAKbl1LYLK61OvxEPim-M",
+      "globalInvID": "SQDj0r3XtrSSYZFZcP9Vg",
+      "skinName": "Brass",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "75,05PLN - 330,15PLN",
+      "skinDisplayChance": "0,129%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/d4/d498c5b14eb498360d4ac3741763060b.png",
+      "skinRarity": "violet",
+      "quality": "FT",
+      "skinPrice": 75.05,
+      "oddsRange": [
+        99187,
+        99303
+      ],
+      "displayOdds": "0,117%"
+    },
+    {
+      "caseDropID": "vHTeSXiX9VntbO5GSqpLm",
+      "globalInvID": "1H-_YByAZaCyE3tvtFpJL",
+      "skinName": "Franklin",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "199,45PLN",
+      "skinDisplayChance": "0,024%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c7/c764154e832ff45313af74b831c617bf.png",
+      "skinRarity": "violet",
+      "quality": "FN",
+      "skinPrice": 199.45,
+      "oddsRange": [
+        99726,
+        99749
+      ],
+      "displayOdds": "0,024%"
+    },
+    {
+      "caseDropID": "gcx8yt5xz_QYVLTEOCBmT",
+      "globalInvID": "Zh3l-0H_i0bq-L4FK92qq",
       "skinName": "Nuclear Garden",
       "weaponName": "Glock-18",
-      "skinPriceRange": "17,45PLN - 20,40PLN",
-      "skinDisplayChance": "1,459%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ef/ef1d119f837d098e56415164df35042a.png",
+      "skinPriceRange": "25,30PLN - 94,70PLN",
+      "skinDisplayChance": "0,552%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ef/ef1d119f837d098e56415164df35042a.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 20.4,
-        "range": [
-          97761,
-          97781
-        ],
-        "odds": "0,021%"
-      }
+      "quality": "FN",
+      "skinPrice": 94.7,
+      "oddsRange": [
+        99374,
+        99386
+      ],
+      "displayOdds": "0,013%"
     },
     {
+      "caseDropID": "KoXKczz8XZb4ovf0OsXSQ",
+      "globalInvID": "Py3vq_lzObgOV5ndvCQUq",
       "skinName": "Nuclear Garden",
       "weaponName": "Glock-18",
-      "skinPriceRange": "17,45PLN - 20,40PLN",
-      "skinDisplayChance": "1,459%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ef/ef1d119f837d098e56415164df35042a.png",
+      "skinPriceRange": "25,30PLN - 94,70PLN",
+      "skinDisplayChance": "0,552%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ef/ef1d119f837d098e56415164df35042a.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 17.45,
-        "range": [
-          96323,
-          97760
-        ],
-        "odds": "1,438%"
-      }
+      "quality": "FT",
+      "skinPrice": 25.3,
+      "oddsRange": [
+        96974,
+        97512
+      ],
+      "displayOdds": "0,539%"
     },
     {
+      "caseDropID": "qjHOPKGHgoPR21vo_ja0H",
+      "globalInvID": "TOTXb4yIu7OiCSPErwoJb",
+      "skinName": "Royal Legion",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "9,95PLN - 28,25PLN",
+      "skinDisplayChance": "0,365%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/3c/3cf2199b8d0c04d5bc22028a505bc36f.png",
+      "skinRarity": "violet",
+      "quality": "FN",
+      "skinPrice": 28.25,
+      "oddsRange": [
+        97776,
+        97889
+      ],
+      "displayOdds": "0,114%"
+    },
+    {
+      "caseDropID": "OUwd8MEHfHQjg0-wHZQ5D",
+      "globalInvID": "dcMqeSPYmZxyIq8lEdr2l",
+      "skinName": "Royal Legion",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "9,95PLN - 28,25PLN",
+      "skinDisplayChance": "0,365%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/3c/3cf2199b8d0c04d5bc22028a505bc36f.png",
+      "skinRarity": "violet",
+      "quality": "FT",
+      "skinPrice": 9.95,
+      "oddsRange": [
+        87831,
+        88081
+      ],
+      "displayOdds": "0,251%"
+    },
+    {
+      "caseDropID": "vVlOMbdfbEfxOdUbbBlKs",
+      "globalInvID": "Tx4wGkTvA7BiokdWCD44d",
       "skinName": "Steel Disruption",
       "weaponName": "Glock-18",
-      "skinPriceRange": "16,15PLN",
-      "skinDisplayChance": "0,271%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c4/c4351f4b5092403569262e3e86c093b7.png",
+      "skinPriceRange": "19,25PLN",
+      "skinDisplayChance": "0,432%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c4/c4351f4b5092403569262e3e86c093b7.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 16.15,
-        "range": [
-          96052,
-          96322
-        ],
-        "odds": "0,271%"
-      }
+      "quality": "FN",
+      "skinPrice": 19.25,
+      "oddsRange": [
+        95432,
+        95863
+      ],
+      "displayOdds": "0,432%"
     },
     {
+      "caseDropID": "Hrc_aJ5uBhsScfnXf1SNt",
+      "globalInvID": "GQAuIXMQmfFxu4nYcWHUR",
+      "skinName": "Umbral Rabbit",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "3,45PLN - 14,95PLN",
+      "skinDisplayChance": "0,789%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e5/e53475611030181d0675c67b78efec91.png",
+      "skinRarity": "violet",
+      "quality": "FN",
+      "skinPrice": 14.95,
+      "oddsRange": [
+        92471,
+        92564
+      ],
+      "displayOdds": "0,094%"
+    },
+    {
+      "caseDropID": "9LFIW6Vfk9zDgBha_qeOh",
+      "globalInvID": "nzve4L_19VtssgvFso8Ul",
+      "skinName": "Umbral Rabbit",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "3,45PLN - 14,95PLN",
+      "skinDisplayChance": "0,789%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e5/e53475611030181d0675c67b78efec91.png",
+      "skinRarity": "violet",
+      "quality": "MW",
+      "skinPrice": 8.4,
+      "oddsRange": [
+        87479,
+        87830
+      ],
+      "displayOdds": "0,352%"
+    },
+    {
+      "caseDropID": "je1xVkBJHN1NmOlB31IQT",
+      "globalInvID": "mgtE8w5U2L1xA7smVOD4b",
+      "skinName": "Umbral Rabbit",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "3,45PLN - 14,95PLN",
+      "skinDisplayChance": "0,789%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e5/e53475611030181d0675c67b78efec91.png",
+      "skinRarity": "violet",
+      "quality": "FT",
+      "skinPrice": 3.5,
+      "oddsRange": [
+        84344,
+        84534
+      ],
+      "displayOdds": "0,191%"
+    },
+    {
+      "caseDropID": "eJKSDr28g2kqFEhZnxfnb",
+      "globalInvID": "sM1x7LNRYFG7wMpG2DK_4",
+      "skinName": "Umbral Rabbit",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "3,45PLN - 14,95PLN",
+      "skinDisplayChance": "0,789%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e5/e53475611030181d0675c67b78efec91.png",
+      "skinRarity": "violet",
+      "quality": "WW",
+      "skinPrice": 3.45,
+      "oddsRange": [
+        84192,
+        84343
+      ],
+      "displayOdds": "0,152%"
+    },
+    {
+      "caseDropID": "Hg_Ap__FS_cegS_faXFhh",
+      "globalInvID": "Zc87SmUIi55BNlAu1oicE",
       "skinName": "Grinder",
       "weaponName": "Glock-18",
-      "skinPriceRange": "7,25PLN - 10,95PLN",
-      "skinDisplayChance": "1,745%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e0/e0e383db98619438cff5c8bb9d9372cb.png",
+      "skinPriceRange": "7,25PLN - 10,40PLN",
+      "skinDisplayChance": "0,466%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e0/e0e383db98619438cff5c8bb9d9372cb.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 10.95,
-        "range": [
-          94919,
-          95785
-        ],
-        "odds": "0,867%"
-      }
+      "quality": "FN",
+      "skinPrice": 10.4,
+      "oddsRange": [
+        88427,
+        88691
+      ],
+      "displayOdds": "0,265%"
     },
     {
+      "caseDropID": "brVkelqV4ah4ADARLBFJY",
+      "globalInvID": "LSKwUVRLIZNS-lyz8VSCR",
       "skinName": "Grinder",
       "weaponName": "Glock-18",
-      "skinPriceRange": "7,25PLN - 10,95PLN",
-      "skinDisplayChance": "1,745%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e0/e0e383db98619438cff5c8bb9d9372cb.png",
+      "skinPriceRange": "7,25PLN - 10,40PLN",
+      "skinDisplayChance": "0,466%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/e0/e0e383db98619438cff5c8bb9d9372cb.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 7.25,
-        "range": [
-          90495,
-          91372
-        ],
-        "odds": "0,878%"
-      }
+      "quality": "MW",
+      "skinPrice": 7.25,
+      "oddsRange": [
+        85725,
+        85925
+      ],
+      "displayOdds": "0,201%"
     },
     {
-      "skinName": "Royal Legion",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "8,60PLN - 10,95PLN",
-      "skinDisplayChance": "0,500%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3c/3cf2199b8d0c04d5bc22028a505bc36f.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 10.95,
-        "range": [
-          95786,
-          96051
-        ],
-        "odds": "0,266%"
-      }
-    },
-    {
-      "skinName": "Royal Legion",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "8,60PLN - 10,95PLN",
-      "skinDisplayChance": "0,500%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3c/3cf2199b8d0c04d5bc22028a505bc36f.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 8.6,
-        "range": [
-          94685,
-          94918
-        ],
-        "odds": "0,234%"
-      }
-    },
-    {
-      "skinName": "Moonrise",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "3,20PLN - 6,00PLN",
-      "skinDisplayChance": "5,000%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 6,
-        "range": [
-          89673,
-          90135
-        ],
-        "odds": "0,463%"
-      }
-    },
-    {
-      "skinName": "Moonrise",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "3,20PLN - 6,00PLN",
-      "skinDisplayChance": "5,000%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
-      "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 3.2,
-        "range": [
-          74751,
-          79287
-        ],
-        "odds": "4,537%"
-      }
-    },
-    {
+      "caseDropID": "HBdKovjeF_CISSLCroD75",
+      "globalInvID": "bq-I7CfeJwp0cTB15jerh",
       "skinName": "Weasel",
       "weaponName": "Glock-18",
-      "skinPriceRange": "2,50PLN",
-      "skinDisplayChance": "3,562%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/70/7055d2dc774a6d7cf88820d3f0042206.png",
+      "skinPriceRange": "10,20PLN",
+      "skinDisplayChance": "0,345%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/70/7055d2dc774a6d7cf88820d3f0042206.png",
       "skinRarity": "violet",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 2.5,
-        "range": [
-          68113,
-          71674
-        ],
-        "odds": "3,562%"
-      }
+      "quality": "FN",
+      "skinPrice": 10.2,
+      "oddsRange": [
+        88082,
+        88426
+      ],
+      "displayOdds": "0,345%"
     },
     {
+      "caseDropID": "vfTmIwoEQ9-bWHDE9vXC0",
+      "globalInvID": "cWyytIFVClyA4fEmg6bp2",
+      "skinName": "Moonrise",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,45PLN - 6,20PLN",
+      "skinDisplayChance": "8,406%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
+      "skinRarity": "violet",
+      "quality": "FN",
+      "skinPrice": 6.2,
+      "oddsRange": [
+        85371,
+        85522
+      ],
+      "displayOdds": "0,152%"
+    },
+    {
+      "caseDropID": "hniX6qgq0f7hq15mxZvX5",
+      "globalInvID": "cusbgsZpK1ZVZknDbCXdF",
+      "skinName": "Moonrise",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,45PLN - 6,20PLN",
+      "skinDisplayChance": "8,406%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
+      "skinRarity": "violet",
+      "quality": "MW",
+      "skinPrice": 3.25,
+      "oddsRange": [
+        83991,
+        84191
+      ],
+      "displayOdds": "0,201%"
+    },
+    {
+      "caseDropID": "tC5sCTs1FgVV51SzQz8KT",
+      "globalInvID": "nvP-F8hfx6U7-VEhY9FhU",
+      "skinName": "Moonrise",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,45PLN - 6,20PLN",
+      "skinDisplayChance": "8,406%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
+      "skinRarity": "violet",
+      "quality": "WW",
+      "skinPrice": 1.85,
+      "oddsRange": [
+        80964,
+        83414
+      ],
+      "displayOdds": "2,451%"
+    },
+    {
+      "caseDropID": "-rALm588WH7M71TUMS3Mw",
+      "globalInvID": "P-6w7AaR5-1zxldwXACSE",
+      "skinName": "Moonrise",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,45PLN - 6,20PLN",
+      "skinDisplayChance": "8,406%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
+      "skinRarity": "violet",
+      "quality": "FT",
+      "skinPrice": 1.6,
+      "oddsRange": [
+        79101,
+        80801
+      ],
+      "displayOdds": "1,701%"
+    },
+    {
+      "caseDropID": "k1bo7YKwHfc4x-v3xT9cY",
+      "globalInvID": "OaflEV19vk8-sp_L39Dot",
+      "skinName": "Moonrise",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "1,45PLN - 6,20PLN",
+      "skinDisplayChance": "8,406%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/34/34124c596cb0d872e7ad618a2bec45fb.png",
+      "skinRarity": "violet",
+      "quality": "BS",
+      "skinPrice": 1.45,
+      "oddsRange": [
+        72947,
+        76847
+      ],
+      "displayOdds": "3,901%"
+    },
+    {
+      "caseDropID": "y4Z0_-nizBZuDPD8Hs4Cu",
+      "globalInvID": "9_zLuXyyR7vZa6-0CBKkR",
       "skinName": "Reactor",
       "weaponName": "Glock-18",
-      "skinPriceRange": "28,20PLN",
-      "skinDisplayChance": "0,050%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c6/c65c726bcf71556073017b18e462fbae.png",
+      "skinPriceRange": "22,80PLN - 80,65PLN",
+      "skinDisplayChance": "0,593%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c6/c65c726bcf71556073017b18e462fbae.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 28.2,
-        "range": [
-          99768,
-          99817
-        ],
-        "odds": "0,050%"
-      }
+      "quality": "FN",
+      "skinPrice": 80.65,
+      "oddsRange": [
+        99304,
+        99316
+      ],
+      "displayOdds": "0,013%"
     },
     {
+      "caseDropID": "PEieT43f-UfxHF8F__9sT",
+      "globalInvID": "WZrvLFToZ9E9Lu-asZQJJ",
+      "skinName": "Reactor",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "22,80PLN - 80,65PLN",
+      "skinDisplayChance": "0,593%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c6/c65c726bcf71556073017b18e462fbae.png",
+      "skinRarity": "blue",
+      "quality": "MW",
+      "skinPrice": 40.9,
+      "oddsRange": [
+        98844,
+        98857
+      ],
+      "displayOdds": "0,014%"
+    },
+    {
+      "caseDropID": "GVMeZ_wNIcgs03J7y4wn8",
+      "globalInvID": "IvR6mUN13nzChFMM_9vIh",
+      "skinName": "Reactor",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "22,80PLN - 80,65PLN",
+      "skinDisplayChance": "0,593%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/c6/c65c726bcf71556073017b18e462fbae.png",
+      "skinRarity": "blue",
+      "quality": "FT",
+      "skinPrice": 22.8,
+      "oddsRange": [
+        95969,
+        96534
+      ],
+      "displayOdds": "0,566%"
+    },
+    {
+      "caseDropID": "nWjAVU7nSzRePnJYZXQ9A",
+      "globalInvID": "PWUX9R2bnlZStp3yyUoZz",
+      "skinName": "Bunsen Burner",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "12,50PLN",
+      "skinDisplayChance": "1,576%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9d/9d176645456b218c26927de1ef54d6d2.png",
+      "skinRarity": "blue",
+      "quality": "FN",
+      "skinPrice": 12.5,
+      "oddsRange": [
+        88692,
+        90267
+      ],
+      "displayOdds": "1,576%"
+    },
+    {
+      "caseDropID": "9PsBcPzA3G9L4ykHmmiGB",
+      "globalInvID": "1GKju7Ufbmxep_YFMVsYY",
       "skinName": "Blue Fissure",
       "weaponName": "Glock-18",
-      "skinPriceRange": "5,15PLN - 8,45PLN",
-      "skinDisplayChance": "4,374%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4d/4d57f005de77d2fdec8a89b997a2db7d.png",
+      "skinPriceRange": "8,15PLN",
+      "skinDisplayChance": "1,553%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/4d/4d57f005de77d2fdec8a89b997a2db7d.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 8.45,
-        "range": [
-          94012,
-          94684
-        ],
-        "odds": "0,673%"
-      }
+      "quality": "MW",
+      "skinPrice": 8.15,
+      "oddsRange": [
+        85926,
+        87478
+      ],
+      "displayOdds": "1,553%"
     },
     {
-      "skinName": "Blue Fissure",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "5,15PLN - 8,45PLN",
-      "skinDisplayChance": "4,374%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4d/4d57f005de77d2fdec8a89b997a2db7d.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 6.7,
-        "range": [
-          90136,
-          90494
-        ],
-        "odds": "0,359%"
-      }
-    },
-    {
-      "skinName": "Blue Fissure",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "5,15PLN - 8,45PLN",
-      "skinDisplayChance": "4,374%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4d/4d57f005de77d2fdec8a89b997a2db7d.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 5.25,
-        "range": [
-          88979,
-          89413
-        ],
-        "odds": "0,435%"
-      }
-    },
-    {
-      "skinName": "Blue Fissure",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "5,15PLN - 8,45PLN",
-      "skinDisplayChance": "4,374%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4d/4d57f005de77d2fdec8a89b997a2db7d.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 5.15,
-        "range": [
-          86072,
-          88978
-        ],
-        "odds": "2,907%"
-      }
-    },
-    {
-      "skinName": "Sacrifice",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "0,70PLN - 7,70PLN",
-      "skinDisplayChance": "8,340%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 7.7,
-        "range": [
-          93783,
-          94011
-        ],
-        "odds": "0,229%"
-      }
-    },
-    {
-      "skinName": "Sacrifice",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "0,70PLN - 7,70PLN",
-      "skinDisplayChance": "8,340%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 1.65,
-        "range": [
-          51660,
-          56449
-        ],
-        "odds": "4,790%"
-      }
-    },
-    {
-      "skinName": "Sacrifice",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "0,70PLN - 7,70PLN",
-      "skinDisplayChance": "8,340%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.7,
-        "range": [
-          1,
-          3321
-        ],
-        "odds": "3,321%"
-      }
-    },
-    {
+      "caseDropID": "wGtxIa9NSKmEIysGk8fJh",
+      "globalInvID": "PgBmb8IYvjwO3aSULGlml",
       "skinName": "Candy Apple",
       "weaponName": "Glock-18",
-      "skinPriceRange": "3,80PLN - 6,00PLN",
-      "skinDisplayChance": "4,881%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/31/31c8c94ec214f5ca1d766eb65522531c.png",
+      "skinPriceRange": "6,35PLN",
+      "skinDisplayChance": "0,202%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/31/31c8c94ec214f5ca1d766eb65522531c.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 6,
-        "range": [
-          89414,
-          89672
-        ],
-        "odds": "0,259%"
-      }
+      "quality": "FN",
+      "skinPrice": 6.35,
+      "oddsRange": [
+        85523,
+        85724
+      ],
+      "displayOdds": "0,202%"
     },
     {
-      "skinName": "Candy Apple",
+      "caseDropID": "4nARy9Hz01G-XUs7O8eoc",
+      "globalInvID": "6kHks7LPzbAEdDtih1_1h",
+      "skinName": "Sacrifice",
       "weaponName": "Glock-18",
-      "skinPriceRange": "3,80PLN - 6,00PLN",
-      "skinDisplayChance": "4,881%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/31/31c8c94ec214f5ca1d766eb65522531c.png",
+      "skinPriceRange": "5,30PLN",
+      "skinDisplayChance": "0,263%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/3a/3ae04c452136a653b8f00e40498fefd8.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 3.8,
-        "range": [
-          80813,
-          85434
-        ],
-        "odds": "4,622%"
-      }
+      "quality": "FN",
+      "skinPrice": 5.3,
+      "oddsRange": [
+        85108,
+        85370
+      ],
+      "displayOdds": "0,263%"
     },
     {
-      "skinName": "Bunsen Burner",
+      "caseDropID": "pgxVA2ebb9OzvqrMB4GIt",
+      "globalInvID": "f0vE4DRwse_X6_tt3Pu6N",
+      "skinName": "Ironwork",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,00PLN - 5,05PLN",
-      "skinDisplayChance": "13,424%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9d/9d176645456b218c26927de1ef54d6d2.png",
+      "skinPriceRange": "0,50PLN - 4,75PLN",
+      "skinDisplayChance": "9,858%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 5.05,
-        "range": [
-          85435,
-          86071
-        ],
-        "odds": "0,637%"
-      }
+      "quality": "FN",
+      "skinPrice": 4.75,
+      "oddsRange": [
+        84954,
+        85107
+      ],
+      "displayOdds": "0,154%"
     },
     {
-      "skinName": "Bunsen Burner",
+      "caseDropID": "aVxIvrKTTFZIOUGs49B0U",
+      "globalInvID": "gxnF9YkPkOvxdznzLgn4i",
+      "skinName": "Ironwork",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,00PLN - 5,05PLN",
-      "skinDisplayChance": "13,424%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9d/9d176645456b218c26927de1ef54d6d2.png",
+      "skinPriceRange": "0,50PLN - 4,75PLN",
+      "skinDisplayChance": "9,858%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 1.75,
-        "range": [
-          56450,
-          60095
-        ],
-        "odds": "3,646%"
-      }
+      "quality": "MW",
+      "skinPrice": 0.85,
+      "oddsRange": [
+        54198,
+        56598
+      ],
+      "displayOdds": "2,401%"
     },
     {
-      "skinName": "Bunsen Burner",
+      "caseDropID": "wnqkpea-ulr0Tfev-NrsH",
+      "globalInvID": "gITd1GySumC5NpoRjTxAv",
+      "skinName": "Ironwork",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,00PLN - 5,05PLN",
-      "skinDisplayChance": "13,424%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9d/9d176645456b218c26927de1ef54d6d2.png",
+      "skinPriceRange": "0,50PLN - 4,75PLN",
+      "skinDisplayChance": "9,858%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "WW",
-        "price": 1.6,
-        "range": [
-          46703,
-          51659
-        ],
-        "odds": "4,957%"
-      }
+      "quality": "WW",
+      "skinPrice": 0.55,
+      "oddsRange": [
+        24348,
+        26848
+      ],
+      "displayOdds": "2,501%"
     },
     {
-      "skinName": "Bunsen Burner",
+      "caseDropID": "itPD4zExkt2h4wLwNul5h",
+      "globalInvID": "mSMFP-5fkKl5Vdlecw4ZB",
+      "skinName": "Ironwork",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,00PLN - 5,05PLN",
-      "skinDisplayChance": "13,424%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9d/9d176645456b218c26927de1ef54d6d2.png",
+      "skinPriceRange": "0,50PLN - 4,75PLN",
+      "skinDisplayChance": "9,858%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 1,
-        "range": [
-          16367,
-          20550
-        ],
-        "odds": "4,184%"
-      }
+      "quality": "FT",
+      "skinPrice": 0.55,
+      "oddsRange": [
+        26849,
+        29249
+      ],
+      "displayOdds": "2,401%"
     },
     {
-      "skinName": "Warhawk",
+      "caseDropID": "C9u-VCQHdnB5InzuGd4XT",
+      "globalInvID": "eFGmfUJ8WeED4WXEQ2u15",
+      "skinName": "Ironwork",
       "weaponName": "Glock-18",
-      "skinPriceRange": "0,95PLN - 3,55PLN",
-      "skinDisplayChance": "10,580%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
+      "skinPriceRange": "0,50PLN - 4,75PLN",
+      "skinDisplayChance": "9,858%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 3.55,
-        "range": [
-          79288,
-          80812
-        ],
-        "odds": "1,525%"
-      }
+      "quality": "BS",
+      "skinPrice": 0.5,
+      "oddsRange": [
+        19432,
+        21832
+      ],
+      "displayOdds": "2,401%"
     },
     {
-      "skinName": "Warhawk",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "0,95PLN - 3,55PLN",
-      "skinDisplayChance": "10,580%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 1.4,
-        "range": [
-          32446,
-          36945
-        ],
-        "odds": "4,500%"
-      }
-    },
-    {
-      "skinName": "Warhawk",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "0,95PLN - 3,55PLN",
-      "skinDisplayChance": "10,580%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.95,
-        "range": [
-          20551,
-          25105
-        ],
-        "odds": "4,555%"
-      }
-    },
-    {
+      "caseDropID": "SHhAZ7lhghjXYMx2i2-ic",
+      "globalInvID": "Zsa7bFZDdmF_Z5QX73eF8",
       "skinName": "Catacombs",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,55PLN - 2,55PLN",
-      "skinDisplayChance": "7,442%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/12/12f8816699fe6169df44e9cdf2a8e3c9.png",
+      "skinPriceRange": "4,65PLN",
+      "skinDisplayChance": "0,265%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/12/12f8816699fe6169df44e9cdf2a8e3c9.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 2.55,
-        "range": [
-          71675,
-          74750
-        ],
-        "odds": "3,076%"
-      }
+      "quality": "BS",
+      "skinPrice": 4.65,
+      "oddsRange": [
+        84689,
+        84953
+      ],
+      "displayOdds": "0,265%"
     },
     {
-      "skinName": "Catacombs",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "1,55PLN - 2,55PLN",
-      "skinDisplayChance": "7,442%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/12/12f8816699fe6169df44e9cdf2a8e3c9.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 1.55,
-        "range": [
-          36946,
-          41311
-        ],
-        "odds": "4,366%"
-      }
-    },
-    {
-      "skinName": "Oxide Blaze",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "1,80PLN",
-      "skinDisplayChance": "3,720%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/fb/fb24b0b8fafec89ce990a2fd8a934277.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 1.8,
-        "range": [
-          60096,
-          63815
-        ],
-        "odds": "3,720%"
-      }
-    },
-    {
+      "caseDropID": "IbTwv0gIli8IJE2MAUQq_",
+      "globalInvID": "Ma-we1VaIcBDe55u236bO",
       "skinName": "Wraiths",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,55PLN",
-      "skinDisplayChance": "5,391%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/9d/9dd9312aaccf278282eed881e2c9dcf9.png",
+      "skinPriceRange": "0,65PLN - 3,60PLN",
+      "skinDisplayChance": "9,798%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9d/9dd9312aaccf278282eed881e2c9dcf9.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 1.55,
-        "range": [
-          41312,
-          46702
-        ],
-        "odds": "5,391%"
-      }
+      "quality": "FN",
+      "skinPrice": 3.6,
+      "oddsRange": [
+        84535,
+        84688
+      ],
+      "displayOdds": "0,154%"
     },
     {
-      "skinName": "Ironwork",
+      "caseDropID": "ewn2MRc9YEcdIgPvUZ0JH",
+      "globalInvID": "id9HK7F5agUN3GHvfRx9m",
+      "skinName": "Wraiths",
       "weaponName": "Glock-18",
-      "skinPriceRange": "0,75PLN - 1,00PLN",
-      "skinDisplayChance": "8,242%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
+      "skinPriceRange": "0,65PLN - 3,60PLN",
+      "skinDisplayChance": "9,798%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9d/9dd9312aaccf278282eed881e2c9dcf9.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 1,
-        "range": [
-          25106,
-          28554
-        ],
-        "odds": "3,449%"
-      }
+      "quality": "MW",
+      "skinPrice": 1.5,
+      "oddsRange": [
+        77126,
+        79100
+      ],
+      "displayOdds": "1,975%"
     },
     {
-      "skinName": "Ironwork",
+      "caseDropID": "4cIr0G8IKeYteQuEqkwz5",
+      "globalInvID": "I99gG6CoFcK5nCqxfmUVs",
+      "skinName": "Wraiths",
       "weaponName": "Glock-18",
-      "skinPriceRange": "0,75PLN - 1,00PLN",
-      "skinDisplayChance": "8,242%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/79/79f7299a89e2b7a694a96cd08242db1e.png",
+      "skinPriceRange": "0,65PLN - 3,60PLN",
+      "skinDisplayChance": "9,798%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9d/9dd9312aaccf278282eed881e2c9dcf9.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.75,
-        "range": [
-          3322,
-          8114
-        ],
-        "odds": "4,793%"
-      }
+      "quality": "WW",
+      "skinPrice": 1.1,
+      "oddsRange": [
+        58921,
+        61243
+      ],
+      "displayOdds": "2,323%"
     },
     {
+      "caseDropID": "8robwF0eyw1Lmzts4jukN",
+      "globalInvID": "y0W7Sl5pJPF49KhqyzBxi",
+      "skinName": "Wraiths",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,65PLN - 3,60PLN",
+      "skinDisplayChance": "9,798%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9d/9dd9312aaccf278282eed881e2c9dcf9.png",
+      "skinRarity": "blue",
+      "quality": "FT",
+      "skinPrice": 0.75,
+      "oddsRange": [
+        47290,
+        49651
+      ],
+      "displayOdds": "2,362%"
+    },
+    {
+      "caseDropID": "A-3u5HKV0aZoG61B7G0Pq",
+      "globalInvID": "s3tOXUXzPhQAiYpiMyDta",
+      "skinName": "Wraiths",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,65PLN - 3,60PLN",
+      "skinDisplayChance": "9,798%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/9d/9dd9312aaccf278282eed881e2c9dcf9.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 0.65,
+      "oddsRange": [
+        38630,
+        41613
+      ],
+      "displayOdds": "2,984%"
+    },
+    {
+      "caseDropID": "oSq5J05MK84-rse4eyjop",
+      "globalInvID": "06fXnDL4-6PdefoHNe0iu",
+      "skinName": "Warhawk",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,75PLN - 2,90PLN",
+      "skinDisplayChance": "9,539%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
+      "skinRarity": "blue",
+      "quality": "FN",
+      "skinPrice": 2.9,
+      "oddsRange": [
+        83890,
+        83990
+      ],
+      "displayOdds": "0,101%"
+    },
+    {
+      "caseDropID": "dIEHFuyI_Fw9_IMxTZFzF",
+      "globalInvID": "RFmv80aq6crgnEH2AMIrf",
+      "skinName": "Warhawk",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,75PLN - 2,90PLN",
+      "skinDisplayChance": "9,539%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
+      "skinRarity": "blue",
+      "quality": "MW",
+      "skinPrice": 1.15,
+      "oddsRange": [
+        61244,
+        63484
+      ],
+      "displayOdds": "2,241%"
+    },
+    {
+      "caseDropID": "m_xHRcO-o-7RSEI_b2FlX",
+      "globalInvID": "MY29HBsEz4LVlT4QjD0jg",
+      "skinName": "Warhawk",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,75PLN - 2,90PLN",
+      "skinDisplayChance": "9,539%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
+      "skinRarity": "blue",
+      "quality": "WW",
+      "skinPrice": 0.85,
+      "oddsRange": [
+        49652,
+        52076
+      ],
+      "displayOdds": "2,425%"
+    },
+    {
+      "caseDropID": "szs9cftmPgaRmqxDVo3eh",
+      "globalInvID": "KRYBn0r6jaTuLgBCo6ZRQ",
+      "skinName": "Warhawk",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,75PLN - 2,90PLN",
+      "skinDisplayChance": "9,539%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
+      "skinRarity": "blue",
+      "quality": "FT",
+      "skinPrice": 0.85,
+      "oddsRange": [
+        52077,
+        54197
+      ],
+      "displayOdds": "2,121%"
+    },
+    {
+      "caseDropID": "xsk2Lz_Y7en2qDNwAPJMO",
+      "globalInvID": "GpAr4HysWU2btBpLuORVM",
+      "skinName": "Warhawk",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,75PLN - 2,90PLN",
+      "skinDisplayChance": "9,539%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/eb/eb992217977459eb688f9b4f1964f619.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 0.75,
+      "oddsRange": [
+        41614,
+        44264
+      ],
+      "displayOdds": "2,651%"
+    },
+    {
+      "caseDropID": "-MzAwcwJAxFbCfd0Rn35N",
+      "globalInvID": "4xF9QPnSdn20fVzCaJcvP",
       "skinName": "Off World",
       "weaponName": "Glock-18",
-      "skinPriceRange": "0,80PLN",
-      "skinDisplayChance": "3,705%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/0b/0bb45b1a940f2477ad0b231b1e333213.png",
+      "skinPriceRange": "0,35PLN - 2,75PLN",
+      "skinDisplayChance": "7,762%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/0b/0bb45b1a940f2477ad0b231b1e333213.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.8,
-        "range": [
-          8115,
-          11819
-        ],
-        "odds": "3,705%"
-      }
+      "quality": "FN",
+      "skinPrice": 2.75,
+      "oddsRange": [
+        83647,
+        83889
+      ],
+      "displayOdds": "0,243%"
     },
     {
-      "skinName": "Sand Dune",
+      "caseDropID": "3KnEkRkvuEtWStLvWIj3Z",
+      "globalInvID": "c_PaykrGohhJcVELhR7nD",
+      "skinName": "Off World",
       "weaponName": "Glock-18",
-      "skinPriceRange": "25,80PLN",
-      "skinDisplayChance": "0,247%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c9/c97eedc0657596c602ae26e530ee6084.png",
+      "skinPriceRange": "0,35PLN - 2,75PLN",
+      "skinDisplayChance": "7,762%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/0b/0bb45b1a940f2477ad0b231b1e333213.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 25.8,
-        "range": [
-          99508,
-          99754
-        ],
-        "odds": "0,247%"
-      }
+      "quality": "MW",
+      "skinPrice": 0.65,
+      "oddsRange": [
+        36387,
+        38629
+      ],
+      "displayOdds": "2,243%"
     },
     {
-      "skinName": "Groundwater",
+      "caseDropID": "y5qTD7I91gRJibTUmFecm",
+      "globalInvID": "N1rnUK_Y6ifYzczo7CFCF",
+      "skinName": "Off World",
       "weaponName": "Glock-18",
-      "skinPriceRange": "24,15PLN",
-      "skinDisplayChance": "1,537%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/e9/e99b7421c069e1993adcf4c9ef6ca283.png",
+      "skinPriceRange": "0,35PLN - 2,75PLN",
+      "skinDisplayChance": "7,762%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/0b/0bb45b1a940f2477ad0b231b1e333213.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 24.15,
-        "range": [
-          97971,
-          99507
-        ],
-        "odds": "1,537%"
-      }
+      "quality": "FT",
+      "skinPrice": 0.45,
+      "oddsRange": [
+        14197,
+        17218
+      ],
+      "displayOdds": "3,022%"
     },
     {
-      "skinName": "Night",
+      "caseDropID": "J2WHLdQlAYRf8Il8euZVX",
+      "globalInvID": "mbmWsfs19xDrJ2vCMyG5U",
+      "skinName": "Off World",
       "weaponName": "Glock-18",
-      "skinPriceRange": "7,75PLN",
-      "skinDisplayChance": "2,410%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/76/764569c1f87581baf231767188eefdda.png",
+      "skinPriceRange": "0,35PLN - 2,75PLN",
+      "skinDisplayChance": "7,762%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/0b/0bb45b1a940f2477ad0b231b1e333213.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 7.75,
-        "range": [
-          91373,
-          93782
-        ],
-        "odds": "2,410%"
-      }
+      "quality": "BS",
+      "skinPrice": 0.35,
+      "oddsRange": [
+        3447,
+        5700
+      ],
+      "displayOdds": "2,254%"
     },
     {
+      "caseDropID": "ErCKfLJ4bOhvwZ55GETi-",
+      "globalInvID": "jve264AOj-4FdOQ61ahRN",
+      "skinName": "Clear Polymer",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,55PLN - 2,45PLN",
+      "skinDisplayChance": "9,863%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/89/89b689357879765b0a355e0f31ab12fe.png",
+      "skinRarity": "blue",
+      "quality": "FN",
+      "skinPrice": 2.45,
+      "oddsRange": [
+        83415,
+        83646
+      ],
+      "displayOdds": "0,232%"
+    },
+    {
+      "caseDropID": "9E_K2Nce5BKJtiDKvvWpM",
+      "globalInvID": "32i6NPpGk73i2IpQK_3XB",
+      "skinName": "Clear Polymer",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,55PLN - 2,45PLN",
+      "skinDisplayChance": "9,863%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/89/89b689357879765b0a355e0f31ab12fe.png",
+      "skinRarity": "blue",
+      "quality": "MW",
+      "skinPrice": 0.9,
+      "oddsRange": [
+        56599,
+        58920
+      ],
+      "displayOdds": "2,322%"
+    },
+    {
+      "caseDropID": "aJ_JwKUquSoCH_5Wfpr8q",
+      "globalInvID": "-_QFL-uWeGKD84KJPK2Bi",
+      "skinName": "Clear Polymer",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,55PLN - 2,45PLN",
+      "skinDisplayChance": "9,863%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/89/89b689357879765b0a355e0f31ab12fe.png",
+      "skinRarity": "blue",
+      "quality": "WW",
+      "skinPrice": 0.6,
+      "oddsRange": [
+        31593,
+        34054
+      ],
+      "displayOdds": "2,462%"
+    },
+    {
+      "caseDropID": "ij5mRqcNugqLSqcH86PjI",
+      "globalInvID": "gXJ8pra2fIKbj4Vf0C_Tf",
+      "skinName": "Clear Polymer",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,55PLN - 2,45PLN",
+      "skinDisplayChance": "9,863%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/89/89b689357879765b0a355e0f31ab12fe.png",
+      "skinRarity": "blue",
+      "quality": "FT",
+      "skinPrice": 0.6,
+      "oddsRange": [
+        34055,
+        36386
+      ],
+      "displayOdds": "2,332%"
+    },
+    {
+      "caseDropID": "O9yjtF6d2qjiJQSm1ZW_C",
+      "globalInvID": "z1War8iDabgK9PWaUd4s1",
+      "skinName": "Clear Polymer",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,55PLN - 2,45PLN",
+      "skinDisplayChance": "9,863%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/89/89b689357879765b0a355e0f31ab12fe.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 0.55,
+      "oddsRange": [
+        21833,
+        24347
+      ],
+      "displayOdds": "2,515%"
+    },
+    {
+      "caseDropID": "ticyy1f9u6-Ivnhhnn-o-",
+      "globalInvID": "AOsZHb1uF6DJxAYTh8asi",
+      "skinName": "Winterized",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,30PLN - 1,65PLN",
+      "skinDisplayChance": "9,976%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fe/fee5076265dbfdf090e13b19442aada0.png",
+      "skinRarity": "blue",
+      "quality": "FN",
+      "skinPrice": 1.65,
+      "oddsRange": [
+        80802,
+        80963
+      ],
+      "displayOdds": "0,162%"
+    },
+    {
+      "caseDropID": "ADSOngvPmE8RmFvFJ6QTd",
+      "globalInvID": "HNN695ayKO8DVwoLA-dt1",
+      "skinName": "Winterized",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,30PLN - 1,65PLN",
+      "skinDisplayChance": "9,976%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fe/fee5076265dbfdf090e13b19442aada0.png",
+      "skinRarity": "blue",
+      "quality": "MW",
+      "skinPrice": 0.75,
+      "oddsRange": [
+        44265,
+        47289
+      ],
+      "displayOdds": "3,025%"
+    },
+    {
+      "caseDropID": "iVh9FWpb4LX2mzRhELCHZ",
+      "globalInvID": "aLDwL08op5NaW8V3ioCeS",
+      "skinName": "Winterized",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,30PLN - 1,65PLN",
+      "skinDisplayChance": "9,976%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fe/fee5076265dbfdf090e13b19442aada0.png",
+      "skinRarity": "blue",
+      "quality": "FT",
+      "skinPrice": 0.35,
+      "oddsRange": [
+        10854,
+        14196
+      ],
+      "displayOdds": "3,343%"
+    },
+    {
+      "caseDropID": "M39Hzc9R3uv4d1PvZI3WJ",
+      "globalInvID": "qpcvvCvPGugPvXLkyLmom",
+      "skinName": "Winterized",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,30PLN - 1,65PLN",
+      "skinDisplayChance": "9,976%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fe/fee5076265dbfdf090e13b19442aada0.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 0.3,
+      "oddsRange": [
+        1,
+        3446
+      ],
+      "displayOdds": "3,446%"
+    },
+    {
+      "caseDropID": "az-jPgsp5-QE-7STyK8FM",
+      "globalInvID": "5fGVQi1jXYg1dDEWA4rx7",
+      "skinName": "Oxide Blaze",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,35PLN - 1,45PLN",
+      "skinDisplayChance": "9,987%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fb/fb24b0b8fafec89ce990a2fd8a934277.png",
+      "skinRarity": "blue",
+      "quality": "FN",
+      "skinPrice": 1.45,
+      "oddsRange": [
+        76848,
+        77125
+      ],
+      "displayOdds": "0,278%"
+    },
+    {
+      "caseDropID": "QgyYZRqml-Hcvk156Evug",
+      "globalInvID": "flWtFbZDNgEcVFx_0sfal",
+      "skinName": "Oxide Blaze",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,35PLN - 1,45PLN",
+      "skinDisplayChance": "9,987%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fb/fb24b0b8fafec89ce990a2fd8a934277.png",
+      "skinRarity": "blue",
+      "quality": "MW",
+      "skinPrice": 0.6,
+      "oddsRange": [
+        29250,
+        31592
+      ],
+      "displayOdds": "2,343%"
+    },
+    {
+      "caseDropID": "Fba3LLCfo0o9Fh9I14Sbh",
+      "globalInvID": "L3jnU5nhBVGNRLn2Kc45s",
+      "skinName": "Oxide Blaze",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,35PLN - 1,45PLN",
+      "skinDisplayChance": "9,987%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fb/fb24b0b8fafec89ce990a2fd8a934277.png",
+      "skinRarity": "blue",
+      "quality": "WW",
+      "skinPrice": 0.5,
+      "oddsRange": [
+        17219,
+        19431
+      ],
+      "displayOdds": "2,213%"
+    },
+    {
+      "caseDropID": "1iUypO2GyhvtCFa-xxj-l",
+      "globalInvID": "sNFO0T6kQbUxX0D9S6WaP",
+      "skinName": "Oxide Blaze",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,35PLN - 1,45PLN",
+      "skinDisplayChance": "9,987%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fb/fb24b0b8fafec89ce990a2fd8a934277.png",
+      "skinRarity": "blue",
+      "quality": "FT",
+      "skinPrice": 0.35,
+      "oddsRange": [
+        5701,
+        8222
+      ],
+      "displayOdds": "2,522%"
+    },
+    {
+      "caseDropID": "VupsPbQaUtH0FEGlxHILt",
+      "globalInvID": "w1ts7PFMlfvHHoib6dGS0",
+      "skinName": "Oxide Blaze",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "0,35PLN - 1,45PLN",
+      "skinDisplayChance": "9,987%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/fb/fb24b0b8fafec89ce990a2fd8a934277.png",
+      "skinRarity": "blue",
+      "quality": "BS",
+      "skinPrice": 0.35,
+      "oddsRange": [
+        8223,
+        10853
+      ],
+      "displayOdds": "2,631%"
+    },
+    {
+      "caseDropID": "097XnU3wbbtXGHq5bKKlR",
+      "globalInvID": "IhsBgkgV83K3YtL4D4BUg",
+      "skinName": "Red Tire",
+      "weaponName": "Glock-18",
+      "skinPriceRange": "13,40PLN",
+      "skinDisplayChance": "0,252%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/4c/4c182a2143f065fe186f197bd3f3ca1f.png",
+      "skinRarity": "blue",
+      "quality": "FN",
+      "skinPrice": 13.4,
+      "oddsRange": [
+        90268,
+        90519
+      ],
+      "displayOdds": "0,252%"
+    },
+    {
+      "caseDropID": "JiT2jJem_k7NtbKYqFaKu",
+      "globalInvID": "zwiuEPzSuP9V6PqLGTEw7",
       "skinName": "High Beam",
       "weaponName": "Glock-18",
-      "skinPriceRange": "1,10PLN - 2,45PLN",
-      "skinDisplayChance": "8,188%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ea/ea793a210f9e82a9afb40b0cfa80b336.png",
+      "skinPriceRange": "1,20PLN",
+      "skinDisplayChance": "9,462%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/ea/ea793a210f9e82a9afb40b0cfa80b336.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 2.45,
-        "range": [
-          63816,
-          68112
-        ],
-        "odds": "4,297%"
-      }
-    },
-    {
-      "skinName": "High Beam",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "1,10PLN - 2,45PLN",
-      "skinDisplayChance": "8,188%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ea/ea793a210f9e82a9afb40b0cfa80b336.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FN",
-        "price": 1.1,
-        "range": [
-          28555,
-          32445
-        ],
-        "odds": "3,891%"
-      }
-    },
-    {
-      "skinName": "Death Rattle",
-      "weaponName": "Glock-18",
-      "skinPriceRange": "0,85PLN",
-      "skinDisplayChance": "4,547%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d2/d21b08abfaec2e78cd180644d4371bf2.png",
-      "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.85,
-        "range": [
-          11820,
-          16366
-        ],
-        "odds": "4,547%"
-      }
+      "quality": "FN",
+      "skinPrice": 1.2,
+      "oddsRange": [
+        63485,
+        72946
+      ],
+      "displayOdds": "9,462%"
     }
   ],
-  "imgName": "13.webp",
-  "positionInGrid": 5
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/GLOCK-18.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

@@ -2,60 +2,61 @@
   "urlName": "1-profit",
   "websiteName": "1% PROFIT",
   "price": 3.75,
-  "expired": false,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "g4M3Ekx4JL5ub8t1rqdBR",
+      "globalInvID": "JJKuJ8CxZ5ojA4jC_lAxG",
       "skinName": "Printstream",
       "weaponName": "M4A1-S",
-      "skinPriceRange": "409,25PLN",
-      "skinDisplayChance": "0,450%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/05/050b0fa02b885f8c5b5155516ccae238.png",
+      "skinPriceRange": "610,25PLN",
+      "skinDisplayChance": "0,368%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/05/050b0fa02b885f8c5b5155516ccae238.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 409.25,
-        "range": [
-          99551,
-          100000
-        ],
-        "odds": "0,450%"
-      }
+      "quality": "BS",
+      "skinPrice": 610.25,
+      "oddsRange": [
+        99633,
+        100000
+      ],
+      "displayOdds": "0,368%"
     },
     {
+      "caseDropID": "Wk5HOM1RtvSA6jM2atTQ-",
+      "globalInvID": "mOEiDhWhsiv9GlHtg3Vx4",
       "skinName": "Printstream",
       "weaponName": "Desert Eagle",
-      "skinPriceRange": "270,65PLN",
-      "skinDisplayChance": "0,550%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/1c/1c5c4c590f629b9322ce50f734565e76.png",
+      "skinPriceRange": "188,40PLN",
+      "skinDisplayChance": "0,632%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1c/1c5c4c590f629b9322ce50f734565e76.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 270.65,
-        "range": [
-          99001,
-          99550
-        ],
-        "odds": "0,550%"
-      }
+      "quality": "BS",
+      "skinPrice": 188.4,
+      "oddsRange": [
+        99001,
+        99632
+      ],
+      "displayOdds": "0,632%"
     },
     {
-      "skinName": "Facility Dark",
-      "weaponName": "UMP-45",
-      "skinPriceRange": "0,15PLN",
+      "caseDropID": "EGs-PAjIRPtwjIkJCPTRD",
+      "globalInvID": "oJEsgUhOiFeOUhidplebU",
+      "skinName": "0.01$",
+      "weaponName": "VOUCHER",
+      "skinPriceRange": "0,05PLN",
       "skinDisplayChance": "99,000%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/c0/c060b56a45dd8e227d5cd43a3e617791.png",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/f2/f21adc312678898bd577574e459581f7.png",
       "skinRarity": "gray",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.15,
-        "range": [
-          1,
-          99000
-        ],
-        "odds": "99,000%"
-      }
+      "quality": "",
+      "skinPrice": 0.05,
+      "oddsRange": [
+        1,
+        99000
+      ],
+      "displayOdds": "99,000%"
     }
   ],
-  "imgName": "1PROFIT2.webp",
-  "positionInGrid": 10
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/1__PROFIT.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }

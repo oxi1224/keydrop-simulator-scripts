@@ -1,78 +1,78 @@
 {
   "urlName": "energy-2",
   "websiteName": "ENERGY",
-  "price": 2.4,
+  "price": 3,
   "expired": false,
   "drops": [
     {
-      "skinName": "The Emperor",
-      "weaponName": "M4A4",
-      "skinPriceRange": "77,30PLN",
-      "skinDisplayChance": "0,864%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/3e/3ecc8d860236e73a561aef334dc3d404.png",
-      "skinRarity": "red",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 77.3,
-        "range": [
-          99137,
-          100000
-        ],
-        "odds": "0,864%"
-      }
-    },
-    {
-      "skinName": "Chantico's Fire",
-      "weaponName": "M4A1-S",
-      "skinPriceRange": "69,85PLN",
-      "skinDisplayChance": "0,865%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/d2/d2d455245a34aa64db3dc17cb45b2931.png",
-      "skinRarity": "red",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 69.85,
-        "range": [
-          98272,
-          99136
-        ],
-        "odds": "0,865%"
-      }
-    },
-    {
-      "skinName": "Nightwish",
+      "caseDropID": "0kAFpvcaUAxSuL0wQDsv8",
+      "globalInvID": "qLZvr26hupRq-Al1ciFtc",
+      "skinName": "Vulcan",
       "weaponName": "AK-47",
-      "skinPriceRange": "54,10PLN",
-      "skinDisplayChance": "0,866%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/ca/ca34694078a46033a78a495e87a91e79.png",
+      "skinPriceRange": "445,30PLN",
+      "skinDisplayChance": "0,121%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1c/1c72663eb27a02d64690f040f47a87b8.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "BS",
-        "price": 54.1,
-        "range": [
-          97406,
-          98271
-        ],
-        "odds": "0,866%"
-      }
+      "quality": "BS",
+      "skinPrice": 445.3,
+      "oddsRange": [
+        99880,
+        100000
+      ],
+      "displayOdds": "0,121%"
     },
     {
+      "caseDropID": "0OpOyS8JSp_9qtwkGgdGv",
+      "globalInvID": "KerYSCTKye6MbyfjVMUP9",
+      "skinName": "Player Two",
+      "weaponName": "M4A1-S",
+      "skinPriceRange": "114,95PLN",
+      "skinDisplayChance": "0,958%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7c/7c58f8381ce0ea5213fe4a5273050613.png",
+      "skinRarity": "red",
+      "quality": "FT",
+      "skinPrice": 114.95,
+      "oddsRange": [
+        98922,
+        99879
+      ],
+      "displayOdds": "0,958%"
+    },
+    {
+      "caseDropID": "mD3zUPhsxwh3myWVcMWRZ",
+      "globalInvID": "AMqT9AUYn1uI2aXqbuMTc",
+      "skinName": "Temukau",
+      "weaponName": "M4A4",
+      "skinPriceRange": "63,35PLN",
+      "skinDisplayChance": "1,157%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/36/361282da9b526356602d8d9c3a606fb0.png",
+      "skinRarity": "red",
+      "quality": "BS",
+      "skinPrice": 63.35,
+      "oddsRange": [
+        97765,
+        98921
+      ],
+      "displayOdds": "1,157%"
+    },
+    {
+      "caseDropID": "q7cXR-Cb_Mlm9TF_lKjGR",
+      "globalInvID": "qPzKZjo9fVUnC7ug03uOZ",
       "skinName": "Freight",
       "weaponName": "P90",
-      "skinPriceRange": "0,35PLN",
-      "skinDisplayChance": "97,405%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/1f/1f94c02eecab617f3bd997e1cf29d922.png",
+      "skinPriceRange": "0,30PLN",
+      "skinDisplayChance": "97,764%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1f/1f94c02eecab617f3bd997e1cf29d922.png",
       "skinRarity": "blue",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 0.35,
-        "range": [
-          1,
-          97405
-        ],
-        "odds": "97,405%"
-      }
+      "quality": "FT",
+      "skinPrice": 0.3,
+      "oddsRange": [
+        1,
+        97764
+      ],
+      "displayOdds": "97,764%"
     }
   ],
-  "imgName": "ENERGY1.webp",
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/ENERGY2.png",
   "positionInGrid": 3
 }

@@ -1,78 +1,96 @@
 {
   "urlName": "tech",
   "websiteName": "TECH",
-  "price": 2.4,
-  "expired": false,
+  "price": 3,
+  "expired": true,
   "drops": [
     {
+      "caseDropID": "fAcszNC-zstUpA04lFtD_",
+      "globalInvID": "NjR5OCQ4cZmfuGJ3r5B5j",
       "skinName": "Lore",
       "weaponName": "Gut Knife",
-      "skinPriceRange": "773,45PLN",
-      "skinDisplayChance": "0,177%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/2b/2bc4c98b29f92efa7a9c9f6c8b7ce492.png",
+      "skinPriceRange": "1024,35PLN",
+      "skinDisplayChance": "0,112%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/2b/2bc4c98b29f92efa7a9c9f6c8b7ce492.png",
       "skinRarity": "gold",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 773.45,
-        "range": [
-          99824,
-          100000
-        ],
-        "odds": "0,177%"
-      }
+      "quality": "FT",
+      "skinPrice": 1024.35,
+      "oddsRange": [
+        99889,
+        100000
+      ],
+      "displayOdds": "0,112%"
     },
     {
+      "caseDropID": "vwm-jOet1uyXxWbgt2sdI",
+      "globalInvID": "ghpG4nB3UGIkpP-2GHuZP",
+      "skinName": "Hyper Beast",
+      "weaponName": "AWP",
+      "skinPriceRange": "302,90PLN",
+      "skinDisplayChance": "0,198%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/1f/1f626315510e3eb338ce7d91335a544c.png",
+      "skinRarity": "red",
+      "quality": "MW",
+      "skinPrice": 302.9,
+      "oddsRange": [
+        99691,
+        99888
+      ],
+      "displayOdds": "0,198%"
+    },
+    {
+      "caseDropID": "qVBK_5b3xABF15YUcdpfc",
+      "globalInvID": "IUTD1v_ZNIKUFpZUU9_eT",
       "skinName": "Neon Rider",
       "weaponName": "AK-47",
-      "skinPriceRange": "175,90PLN",
-      "skinDisplayChance": "0,226%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/de/dea3ad4e14c6b446359f537614759443.png",
+      "skinPriceRange": "182,20PLN",
+      "skinDisplayChance": "0,289%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/de/dea3ad4e14c6b446359f537614759443.png",
       "skinRarity": "red",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 175.9,
-        "range": [
-          99598,
-          99823
-        ],
-        "odds": "0,226%"
-      }
+      "quality": "FT",
+      "skinPrice": 182.2,
+      "oddsRange": [
+        99402,
+        99690
+      ],
+      "displayOdds": "0,289%"
     },
     {
-      "skinName": "Desolate Space",
+      "caseDropID": "_t9vERHCZW5gQlqyQINQ9",
+      "globalInvID": "8NYa0n6enyk4QIbGB6Sqr",
+      "skinName": "",
       "weaponName": "M4A4",
-      "skinPriceRange": "29,90PLN",
-      "skinDisplayChance": "0,616%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/4b/4bfee5381c335a970a77254d952c1f3f.png",
+      "skinPriceRange": "58,65PLN",
+      "skinDisplayChance": "0,401%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/59/59c03cd824c67c15cc6dbc0abd8e88d6.png",
       "skinRarity": "pink",
-      "dropDetails": {
-        "quality": "FT",
-        "price": 29.9,
-        "range": [
-          98982,
-          99597
-        ],
-        "odds": "0,616%"
-      }
+      "quality": "MW",
+      "skinPrice": 58.65,
+      "oddsRange": [
+        99001,
+        99401
+      ],
+      "displayOdds": "0,401%"
     },
     {
+      "caseDropID": "IJ9R0Ue59lafHO23NPkyE",
+      "globalInvID": "8isitrk5s0njPf3D08JOK",
       "skinName": "Facility Draft",
       "weaponName": "P250",
       "skinPriceRange": "0,15PLN",
-      "skinDisplayChance": "98,981%",
-      "skinImgSource": "https://cdn.key-drop.com/csgo_icons/7c/7cb149f4e291588bb1e0c94d5bb89358.png",
+      "skinDisplayChance": "99,000%",
+      "skinImgSource": "https://cdn.key-drop.com/cdn-cgi/image/format=auto,width=180,brightness=1.35,contrast=1.1,dpr=2/csgo_icons/7c/7cb149f4e291588bb1e0c94d5bb89358.png",
       "skinRarity": "gray",
-      "dropDetails": {
-        "quality": "MW",
-        "price": 0.15,
-        "range": [
-          1,
-          98981
-        ],
-        "odds": "98,981%"
-      }
+      "quality": "FT",
+      "skinPrice": 0.15,
+      "oddsRange": [
+        1,
+        99000
+      ],
+      "displayOdds": "99,000%"
     }
   ],
-  "imgName": "TECH.webp",
-  "positionInGrid": 9
+  "imgName": "https://key-drop.com/cdn-cgi/image/format=auto,width=270,dpr=2/uploads/skins/TECH1.png",
+  "positionInGrid": 0,
+  "category": "expired"
 }
