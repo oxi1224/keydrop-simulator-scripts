@@ -1,7 +1,7 @@
 # Keydrop-Website skrypty pomocne (PRACE ZAPRZESTANE)
 ## Lista zawartości
- - [Instalacja](#markdown-header-instalacja)
- - [Użytkowanie](#markdown-header-użytkowanie)
+ - [Instalacja](#instalacja)
+ - [Użytkowanie](#użytkowanie)
 ## Instalacja
 Aby rozpocząć używanie programu należy pobrać najnowszą wersję LTS programu node.js oraz najnowszą wersję PostgreSQL.
 - [Node.js](https://nodejs.org/en)
