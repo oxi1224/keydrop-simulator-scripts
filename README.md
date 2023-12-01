@@ -1,4 +1,4 @@
-# Keydrop-Website skrypty pomocne (PRACE ZAPRZESTANE)
+# Keydrop-Simulator skrypty pomocne (PRACE ZAPRZESTANE)
 ## Lista zawartości
  - [Instalacja](#instalacja)
  - [Użytkowanie](#użytkowanie)
