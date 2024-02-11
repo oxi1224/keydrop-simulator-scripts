@@ -1,3 +1,6 @@
+# PROJEKT NIE AKTUALIZOWANY
+# PROJECT DISCONTINUED
+
 # Keydrop-Simulator skrypty pomocne (PRACE ZAPRZESTANE)
 ## Lista zawartości
  - [Instalacja](#instalacja)
